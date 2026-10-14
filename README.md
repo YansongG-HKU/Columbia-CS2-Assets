@@ -9,6 +9,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 |---|---|---|---|
 | Low Memorial Library | [LowMemorialLibrary](LowMemorialLibrary) | NA_ColumbiaLowLibrary_13x10 | 13x10 |
 | Butler Library | [ButlerLibrary](ButlerLibrary) | NA_ButlerLibrary_11x7 | 11x7 |
+| St. Paul's Chapel | [StPaulsChapel](StPaulsChapel) | NA_StPaulsChapel_4x6 | 4x6 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.

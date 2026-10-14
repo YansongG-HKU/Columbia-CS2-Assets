@@ -1,0 +1,10 @@
+NA_StPaulsChapel_4x6 - St. Paul's Chapel, Columbia University (Howells & Stokes / I. N. Phelps Stokes, 1904-07)
+Fully procedural model (no third-party meshes/textures). Exterior only (Guastavino interior not modelled).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 43.3 x 24.9 m, height 35.3 m incl. lantern finial: OpenStreetMap way 274995768 (c) OSM contributors, ODbL.
+- Dome 91 ft (27.7 m) above ground, green glazed Ludowici tile, terra-cotta lantern, Latin cross plan 120 ft entrance-to-chancel,
+  four-column portico with Florentine gable, "PRO ECCLESIA DEI", "IN LUMINE TUO VIDEBIMUS LUMEN", semicircular apse,
+  arched transept windows, 16 drum windows: Wikipedia; Columbia Office of the University Chaplain; NYC LPC designation report LP-0305.
+Lot 4 x 6 cells (32 x 48 m). Front (portico) = -Y.
+Estimated: wall/eave heights, roof pitch, portico height, drum radius, window sizes; nave/transept roof covering assumed green tile.
+Omitted figurative art: Borglum cherub capitals (simplified as plain bell capitals), torchere statuettes, O'Connor lunette relief.
