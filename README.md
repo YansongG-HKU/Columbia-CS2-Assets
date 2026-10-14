@@ -11,6 +11,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Butler Library | [ButlerLibrary](ButlerLibrary) | NA_ButlerLibrary_11x7 | 11x7 |
 | St. Paul's Chapel | [StPaulsChapel](StPaulsChapel) | NA_StPaulsChapel_4x6 | 4x6 |
 - [Philosophy Hall](PhilosophyHall/) — McKim, Mead & White 1910, lot 6x4
+- [Kent Hall](KentHall/) — McKim, Mead & White 1911, lot 8x4
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.

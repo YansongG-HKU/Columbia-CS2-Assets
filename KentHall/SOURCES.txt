@@ -1,0 +1,12 @@
+NA_KentHall_8x4 - Kent Hall, Columbia University (McKim, Mead & White, 1911; originally the Law School).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 62.5 x 16.7 m main block + 15.6 x 3.8 m central projection on the east (Amsterdam Ave) side; height 25.6 m;
+  6 levels + roof level: OpenStreetMap way 274995755 (c) OSM contributors, ODbL (USGS GNIS 2079051).
+- Brick with limestone detailing, red tile roof: MCID Columbia (mcid.mcah.columbia.edu/work/w0001637), public summaries.
+- Style matched to its McKim, Mead & White sibling Philosophy Hall (NRHP 03001046): rusticated base, limestone quoins,
+  belt course, stone cornice, low hipped roof.
+Model: one street-level storey as rusticated base; campus (Low Plaza) terrace at +4.4 m in front with lateral stair flights.
+Lot 8 x 4 cells (64 x 32 m). Front (west/campus) = -Y.
+Estimated: floor heights, 19-bay fenestration, entrance design, terrace/stair layout, chimneys.
+No sculpture, no 3D vegetation.
