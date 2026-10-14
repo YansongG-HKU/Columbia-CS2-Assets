@@ -7,7 +7,7 @@
 | Lot | 13 x 10 cells (104 x 80 m) |
 | Model bounds (incl. lot surface) | 104.0 x 80.0 x 43.57 m |
 | Real reference | building ~60 x 60 m (OSM 60.8 x 59.5), dome top ~41 m above terrace |
-| LOD0 tris (Base / Win / Gls) | 108403 / 210 / 16 |
+| LOD0 tris (Base / Win / Gls) | 108415 / 210 / 16 |
 | LOD1 tris (Base / Win / Gls) | 50407 / 210 / 16 |
 | LOD2 tris | 726 |
 
@@ -18,7 +18,7 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_ColumbiaLowLibrary_13x10_Base | 108403 | 1661 | 700 | 4 | 0 | 0 | 1 |
+| NA_ColumbiaLowLibrary_13x10_Base | 108415 | 1661 | 700 | 4 | 0 | 0 | 0 |
 | NA_ColumbiaLowLibrary_13x10_Win | 210 | 348 | 0 | 0 | 0 | 0 | 69 |
 | NA_ColumbiaLowLibrary_13x10_Gls | 16 | 20 | 0 | 0 | 0 | 0 | 1 |
 | NA_ColumbiaLowLibrary_13x10_LOD1_Base | 50407 | 1377 | 700 | 0 | 0 | 0 | 0 |
