@@ -1,0 +1,13 @@
+NA_PhilosophyHall_6x4 - Philosophy Hall, Columbia University (McKim, Mead & White, 1910). National Historic Landmark.
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 44.9 x 18.5 m, height 29.0 m: OpenStreetMap way 274995765 (c) OSM contributors, ODbL.
+  NRHP nomination (NPS 03001046): 145 x 65 ft (44.2 x 19.8 m), eight storeys, built on a high terrace; west entrance at
+  3rd-floor level via six granite steps to a two-storey arched doorway flanked by two 12-ft bronze lamps; brick with limestone
+  pilasters, courses, sills, lintels, rusticated limestone quoins; belt course between 5th and 6th storeys; low-pitched hipped
+  patinated-copper roof with ornamental stone cornice; two-storey Palladian windows on north and south facades.
+- Wikipedia "Philosophy Hall".
+Model: two lower storeys as rusticated base (street level), campus terrace at +6.4 m in front with lateral stair flights.
+Lot 6 x 4 cells (48 x 32 m). Front (west/campus entrance) = -Y.
+Estimated: floor heights, bay count (13 bays on long facades), terrace/stair layout (real terrace is the campus grade), chimneys.
+Omitted: Rodin's The Thinker (no CC0/CC-BY scan available without login; existing scans are CC BY-NC(-SA)).
