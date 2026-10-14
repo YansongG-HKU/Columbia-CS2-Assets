@@ -1,0 +1,12 @@
+NA_ButlerLibrary_11x7 - Butler Library (South Hall), Columbia University, 535 W 114th St, New York
+Architect James Gamble Rogers, 1934. Model is fully procedural (no third-party meshes or textures).
+
+Dimensions used (1 unit = 1 m, pivot = bottom centre of lot):
+- Footprint 80.0 x 50.6 m, roof height 31.4 m: OpenStreetMap way 274995721 (c) OpenStreetMap contributors, ODbL
+  (height tag from NYC building data). Model: 80.0 x ~51.2 m incl. column projection, top 31.4 m.
+- 14 Ionic columns, three-storey colonnade, names frieze (Homer ... Vergil), brick Flemish-bond wings with
+  limestone trim, cast-iron marquees, copper lanterns: Wikipedia "Butler Library"; Columbia Magazine "Stacked".
+- 11 storeys (Columbia Facilities: operations.cufo.columbia.edu/content/butler-library).
+Lot: 11 x 7 cells (88 x 56 m).
+Estimated (not from survey): floor heights, column height 13.6 m / dia 1.42 m, cornice profiles,
+window counts on side/rear facades, rooftop penthouse and rear (114th St) treatment.

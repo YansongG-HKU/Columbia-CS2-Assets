@@ -1,0 +1,13 @@
+NA_ColumbiaLowLibrary_13x10 - Cities: Skylines II asset (Low Memorial Library, Columbia University)
+
+Third-party content:
+- "Alma Mater" 3D scan by mkturkcan, licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
+  https://sketchfab.com/3d-models/alma-mater-cdf8f9aef6354ee49c7cf801176d8a44
+  License: http://creativecommons.org/licenses/by/4.0/
+  Changes: pedestal/ground removed, reoriented, scaled to ~2.6 m, decimated to ~45k tris (LOD0) and ~9k tris (LOD1),
+  scan colour converted to a bronze material and baked into this asset's texture atlas.
+  Original sculpture: Daniel Chester French, 1903 (public domain artwork).
+
+All other geometry and textures: procedurally generated for this asset.
+
+Note: the statue surface colour is a uniform procedural bronze (baked from geometry curvature); the scan photo texture is NOT used. Statue was re-UV-unwrapped into a dedicated atlas region.
