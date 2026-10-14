@@ -1,0 +1,12 @@
+NA_AveryHall_6x4 - Avery Hall, Columbia University (McKim, Mead & White, 1912; Avery Architectural & Fine Arts Library / GSAPP).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 46.7 x 19.6 m + 16.1 x 2.8 m central rear projection; height 26.5 m (building:height 21 m above campus grade),
+  4 levels above campus + 2 below: OpenStreetMap way 738973811 (c) OSM contributors, ODbL (USGS GNIS 2083617).
+- Renaissance building by McKim, Mead & White, 1912: Columbia University Libraries (library.columbia.edu/libraries/avery/about.html), MCID w0001629.
+Model: street-level storey as rusticated base; campus terrace at +5.5 m in front with lateral stairs; brick with limestone trim,
+quoins, belt course, stone cornice, flat roof with stone balustrade, two-storey entrance with two Ionic columns in antis.
+Lot 6 x 4 cells (48 x 32 m). Front (campus) = -Y.
+Estimated: entrance design, roof form (balustraded flat roof), floor heights, 13-bay fenestration, terrace/stairs, rooftop penthouse.
+End-facade cornices overhang the lot edge by ~0.45 m to keep the true 46.7 m length.
+No sculpture, no 3D vegetation.
