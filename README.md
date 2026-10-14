@@ -10,9 +10,10 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Low Memorial Library | [LowMemorialLibrary](LowMemorialLibrary) | NA_ColumbiaLowLibrary_13x10 | 13x10 |
 | Butler Library | [ButlerLibrary](ButlerLibrary) | NA_ButlerLibrary_11x7 | 11x7 |
 | St. Paul's Chapel | [StPaulsChapel](StPaulsChapel) | NA_StPaulsChapel_4x6 | 4x6 |
-- [Philosophy Hall](PhilosophyHall/) — McKim, Mead & White 1910, lot 6x4
-- [Kent Hall](KentHall/) — McKim, Mead & White 1911, lot 8x4
-- [Avery Hall](AveryHall/) — McKim, Mead & White 1912, lot 6x4
+| Philosophy Hall | [PhilosophyHall](PhilosophyHall) | NA_PhilosophyHall_6x4 | 6x4 |
+| Kent Hall | [KentHall](KentHall) | NA_KentHall_8x4 | 8x4 |
+| Avery Hall | [AveryHall](AveryHall) | NA_AveryHall_6x4 | 6x4 |
+| Hamilton Hall | [HamiltonHall](HamiltonHall) | NA_HamiltonHall_8x4 | 8x4 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.

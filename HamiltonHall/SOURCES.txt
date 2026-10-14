@@ -1,0 +1,13 @@
+NA_HamiltonHall_8x4 - Hamilton Hall, Columbia University (McKim, Mead & White, 1905-1907; home of Columbia College).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint: main block 62.6 x 16.3 m plus west wing 6.5 x 7.8 m at one end; height 30.1 m; 6 levels + roof level:
+  OpenStreetMap relation 10036618 / way 274995732 (c) OSM contributors, ODbL.
+- 8 storeys, built 1907: Columbia Facilities & Operations (operations.cufo.columbia.edu/content/hamilton-hall).
+- Neoclassical, three entrances on the facade each with a carved Columbia seal above: Wikipedia, WikiCU.
+Model: rusticated limestone ground storey, brick upper storeys with limestone trim and quoins, belt course, stone cornice,
+attic storey above the cornice, flat roof. Seals represented as plain limestone panels (no carved relief).
+Lot 8 x 4 cells (64 x 32 m). Front (campus/west) = -Y.
+Estimated: floor heights, 19-bay fenestration, entrance surrounds, lamp posts, lawn layout.
+Omitted: Partridge's statue of Alexander Hamilton (no CC0/CC-BY scan); no 3D vegetation.
+End-facade cornices overhang the lot edge by ~0.4 m to keep the true 62.6 m length.
