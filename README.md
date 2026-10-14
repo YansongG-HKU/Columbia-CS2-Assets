@@ -14,6 +14,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Kent Hall | [KentHall](KentHall) | NA_KentHall_8x4 | 8x4 |
 | Avery Hall | [AveryHall](AveryHall) | NA_AveryHall_6x4 | 6x4 |
 | Hamilton Hall | [HamiltonHall](HamiltonHall) | NA_HamiltonHall_8x4 | 8x4 |
+| John Jay Hall | [JohnJayHall](JohnJayHall) | NA_JohnJayHall_8x4 | 8x4 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.

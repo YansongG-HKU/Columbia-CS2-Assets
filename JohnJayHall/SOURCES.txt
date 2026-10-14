@@ -1,0 +1,11 @@
+NA_JohnJayHall_8x4 - John Jay Hall, Columbia University (McKim, Mead & White, 1927; 15-storey residence hall).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 62.1 x 23.7 m + 16.1 x 4.1 m central east projection; height 47.2 m; 15 levels:
+  OpenStreetMap way 274995753 (c) OSM contributors, ODbL (USGS GNIS 2079052).
+- 15 storeys, opened 1927, McKim, Mead & White: Wikipedia "John Jay Hall"; austere block with weathered-green copper crown: WikiCU.
+Model: two-storey rusticated limestone base, 12 brick storeys with limestone bands, stone cornice, steep copper mansard
+crown with dormers (15th floor), campus entrance with pilasters, pediment and granite steps.
+Lot 8 x 4 cells (64 x 32 m). Front (campus/west) = -Y.
+Estimated: floor heights, 19-bay fenestration, crown profile and dormer layout, entrance design, lamps.
+No sculpture, no 3D vegetation.
