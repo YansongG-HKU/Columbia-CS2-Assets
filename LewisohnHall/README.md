@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| Lot | x |
+| Lot | 6 x 4 cells (48 x 32 m) |
 | Model bounds (incl. lot surface) | 48.0 x 32.0 x 25.85 m |
-| Real reference | x |
+| Real reference | 44.3 x 17.6 m, 25.8 m (OSM way 274995737) |
 | LOD0 tris (Base / Win / Gls) | 28946 / 431 / 112 |
 | LOD1 tris (Base / Win / Gls) | 18470 / 431 / 112 |
 | LOD2 tris | 96 |
