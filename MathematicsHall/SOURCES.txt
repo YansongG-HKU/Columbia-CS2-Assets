@@ -1,0 +1,10 @@
+NA_MathematicsHall_7x5 - Mathematics Hall, Columbia University (McKim, Mead & White, 1925).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 45.4 x 17.1 m, height 26.2 m: OpenStreetMap way 274995760 (c) OSM contributors, ODbL.
+Reference photos (Wikimedia Commons): "File:Mathematics Building at Columbia University IMG 0949.JPG" (CC BY-SA 3.0),
+  "File:CUMathematics11.16.08ByLuigiNovi.jpg" (CC BY 3.0).
+Model: red brick with limestone trim, ground-floor windows with heavy limestone surrounds, quoins, belt course, cornice,
+low hipped copper roof; entrance portico with two fluted Ionic columns, entablature inscribed MATHEMATICS, balustraded balcony,
+two lamp posts. Lot 7 x 5 cells (56 x 40 m). Front (campus side) = -Y.
+Estimated: floor heights, bay count, roof form/colour. No vegetation or sculpture.
