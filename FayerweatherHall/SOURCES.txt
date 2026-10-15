@@ -1,0 +1,10 @@
+NA_FayerweatherHall_6x5 - Fayerweather Hall, Columbia University (McKim, Mead & White, 1897).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 45.4 x 17.4 m (min. bounding rectangle), height 26.9 m: OpenStreetMap way 274995730 (c) OSM contributors, ODbL
+  (USGS GNIS 2079046, NYC BIN 1084459). Plan (centre block with slightly set-back end bays) traced from the OSM polygon.
+- Columbia MCID "Fayerweather Hall": 1897, McKim, Mead & White.
+Model: two-storey rusticated base below campus level, red brick upper storeys with limestone trim, belt courses and cornice,
+hipped copper roofs, campus terrace with lateral stairs at the entrance. Lot 6 x 5 cells (48 x 40 m). Front (campus side) = -Y.
+Estimated: storey count/heights, bay spacing (3.3 m), roof form/colour, entrance details, terrace/stairs.
+No vegetation or sculpture.
