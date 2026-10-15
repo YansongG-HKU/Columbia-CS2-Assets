@@ -1,0 +1,12 @@
+NA_SchermerhornHall_8x6 - Schermerhorn Hall, Columbia University (McKim, Mead & White, 1897).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 34.2 x 62.4 m (min. bounding rectangle), height 29.9 m: OpenStreetMap way 274995770 (c) OSM contributors, ODbL
+  (USGS GNIS 2079057, NYC BIN 1084461). Plan outline (end wings, centre block, rounded rear lecture-hall "Rotunda")
+  traced from the OSM polygon.
+- Columbia Facilities & Operations "Schermerhorn Hall": 9 storeys (incl. 1946 mezzanines), built 1897, McKim, Mead and White.
+- Wikipedia "Schermerhorn Hall"; Bwog, "Uncovering the Mysteries of Schermerhorn Hall" (2025): circular two-storey lecture hall at the back.
+Model: two-storey rusticated base below campus level, brick upper storeys, limestone courses/cornice, hipped copper roofs,
+campus terrace with lateral stairs at the entrance. Lot 8 x 6 cells (64 x 48 m). Front (campus entrance) = -Y.
+Estimated: floor heights, bay spacing, roof form/colour, rotunda height, entrance details, terrace/stairs. Cornice projects ~0.3 m past lot edge at the short ends.
+Omitted: Schermerhorn Extension (separate 1929 building, OSM 274995736); door inscription; no vegetation or sculpture.

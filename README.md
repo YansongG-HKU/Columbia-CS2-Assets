@@ -19,6 +19,7 @@ FBX (Forward -Z, Up Y), lots sized in 8 m cells, names `NA_<Name>_<WxD>`.
 | Pupin Hall | [PupinHall](PupinHall) | NA_PupinHall_8x3 | 8x3 |
 | Uris Hall | [UrisHall](UrisHall) | NA_UrisHall_6x9 | 6x9 |
 | Earl Hall | [EarlHall](EarlHall) | NA_EarlHall_3x5 | 3x5 |
+| Schermerhorn Hall | [SchermerhornHall](SchermerhornHall) | NA_SchermerhornHall_8x6 | 8x6 |
 
 Each folder: `fbx/` (combined LOD FBX + `split/` per sub-mesh), `textures/`, `settings.json`, `<asset>.blend`,
 `renders/` (day, aerial, close-up, night, LOD comparisons), `SOURCES.txt`, README with specs and mesh checks.
