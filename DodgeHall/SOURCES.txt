@@ -5,5 +5,8 @@ Dimensions (1 unit = 1 m, pivot bottom centre of lot):
 - Columbia Facilities & Operations "Dodge Hall": 2960 Broadway, McKim, Mead & White, 1924, 8 storeys.
 Model: two-storey rusticated base, red brick upper storeys with limestone trim, belt courses and cornice, low hipped copper roof,
 campus-side terrace with lateral stairs at the entrance. Lot 9 x 5 cells (72 x 40 m). Front (campus side) = -Y.
-Estimated: floor heights, bay spacing, roof form/colour, entrance details (Miller Theatre Broadway entrance not modelled), terrace/stairs.
+Miller Theatre: public entrance on the east side of Broadway at 116th St (millertheatre.com "Getting Here"; Commons
+  "File:Miller Theatre at Columbia University.jpg", CC BY 3.0): arched limestone-framed doorway in the rusticated base, two bracket lanterns, bronze showcase - position/size estimated.
+Attic: top row of windows directly below the cornice (fills former blank brick band; estimated from campus photos).
+Estimated: floor heights, bay spacing, roof form/colour, entrance details, terrace/stairs.
 No vegetation or sculpture.
