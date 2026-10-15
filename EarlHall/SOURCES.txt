@@ -1,0 +1,11 @@
+NA_EarlHall_3x5 - Earl Hall, Columbia University (McKim, Mead & White, 1902; Office of the University Chaplain).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Cross-shaped footprint 17.9 x 33.4 m (13.7 m body, 17.9 m across the wings), height 33.4 m to top of dome/lantern:
+  OpenStreetMap way 274995727 (c) OSM contributors, ODbL (USGS GNIS 2083621).
+- 4 storeys, built 1902, McKim, Mead & White: Columbia Facilities & Operations (operations.cufo.columbia.edu/content/earl-hall).
+Model: granite podium, brick walls with limestone base course, string course, frieze and quoins; tetrastyle Ionic portico with
+pediment; cross gables; brick drum with pilasters and windows, ribbed copper dome and lantern over the crossing.
+Lot 3 x 5 cells (24 x 40 m). Front (portico) = -Y.
+Estimated: storey heights, cornice height, drum/dome proportions, window layout, portico depth/columns, roof pitch.
+No sculpture, no 3D vegetation.
