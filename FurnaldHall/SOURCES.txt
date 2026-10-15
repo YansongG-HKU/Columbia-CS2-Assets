@@ -1,0 +1,9 @@
+NA_FurnaldHall_8x5 - Furnald Hall, Columbia University (McKim, Mead & White, 1913), undergraduate dormitory.
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 49.6 x 19.4 m, height 32.6 m, building:levels 10: OpenStreetMap way 274995731 (c) OSM contributors, ODbL.
+Reference photos (Wikimedia Commons): "File:Columbia pano.jpg" (CC BY-SA 3.0),
+  "File:2014 Columbia University Morningside Heights campus from northeast.jpg" (CC BY-SA 4.0), "File:Columbia Walk Panorama.jpg" (CC BY-SA 3.0).
+Model: red brick with limestone trim and quoins, 7 window storeys, cornice, green copper roof with dormers, arched entrance.
+Lot 8 x 5 cells (64 x 40 m). Front (South Lawn side) = -Y.
+Estimated: floor heights, bay count, dormer layout, roof form. No vegetation or sculpture.
