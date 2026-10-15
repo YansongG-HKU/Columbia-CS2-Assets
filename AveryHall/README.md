@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | Lot | 6 x 4 cells (48 x 32 m) |
-| Model bounds (incl. lot surface) | 48.9 x 32.0 x 26.55 m |
+| Model bounds (incl. lot surface) | 49.2 x 32.0 x 28.15 m |
 | Real reference | 46.7 x 19.6 m + 16.1 x 2.8 m projection, 26.5 m (OSM) |
-| LOD0 tris (Base / Win / Gls) | 36476 / 344 / 112 |
-| LOD1 tris (Base / Win / Gls) | 24236 / 344 / 112 |
+| LOD0 tris (Base / Win / Gls) | 37550 / 579 / 112 |
+| LOD1 tris (Base / Win / Gls) | 22694 / 579 / 112 |
 | LOD2 tris | 172 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,11 +18,11 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_AveryHall_6x4_Base | 36476 | 4 | 561 | 0 | 0 | 0 | 0 |
-| NA_AveryHall_6x4_Win | 344 | 688 | 0 | 0 | 0 | 0 | 172 |
+| NA_AveryHall_6x4_Base | 37550 | 4 | 1814 | 0 | 0 | 0 | 0 |
+| NA_AveryHall_6x4_Win | 579 | 795 | 0 | 0 | 0 | 0 | 108 |
 | NA_AveryHall_6x4_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_AveryHall_6x4_LOD1_Base | 24236 | 4 | 445 | 0 | 0 | 0 | 0 |
-| NA_AveryHall_6x4_LOD1_Win | 344 | 688 | 0 | 0 | 0 | 0 | 172 |
+| NA_AveryHall_6x4_LOD1_Base | 22694 | 4 | 1698 | 0 | 0 | 0 | 0 |
+| NA_AveryHall_6x4_LOD1_Win | 579 | 795 | 0 | 0 | 0 | 0 | 108 |
 | NA_AveryHall_6x4_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_AveryHall_6x4_LOD2_Base | 172 | 0 | 0 | 0 | 0 | 0 | 0 |
 
