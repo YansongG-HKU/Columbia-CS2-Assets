@@ -7,8 +7,8 @@
 | Lot | 8 x 8 cells (64 x 64 m) |
 | Model bounds (incl. lot surface) | 65.1 x 64.0 x 38.95 m |
 | Real reference | 48.8 x 62.9 m, 38.9 m (OSM way 274995734) |
-| LOD0 tris (Base / Win / Gls) | 79410 / 935 / 112 |
-| LOD1 tris (Base / Win / Gls) | 46650 / 935 / 112 |
+| LOD0 tris (Base / Win / Gls) | 73170 / 831 / 112 |
+| LOD1 tris (Base / Win / Gls) | 42282 / 831 / 112 |
 | LOD2 tris | 160 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,11 +18,11 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_HavemeyerHall_8x8_Base | 79410 | 0 | 1605 | 0 | 0 | 0 | 0 |
-| NA_HavemeyerHall_8x8_Win | 935 | 1793 | 0 | 0 | 0 | 0 | 429 |
+| NA_HavemeyerHall_8x8_Base | 73170 | 0 | 1501 | 0 | 0 | 0 | 0 |
+| NA_HavemeyerHall_8x8_Win | 831 | 1585 | 0 | 0 | 0 | 0 | 377 |
 | NA_HavemeyerHall_8x8_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_HavemeyerHall_8x8_LOD1_Base | 46650 | 0 | 1277 | 0 | 0 | 0 | 0 |
-| NA_HavemeyerHall_8x8_LOD1_Win | 935 | 1793 | 0 | 0 | 0 | 0 | 429 |
+| NA_HavemeyerHall_8x8_LOD1_Base | 42282 | 0 | 1173 | 0 | 0 | 0 | 0 |
+| NA_HavemeyerHall_8x8_LOD1_Win | 831 | 1585 | 0 | 0 | 0 | 0 | 377 |
 | NA_HavemeyerHall_8x8_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_HavemeyerHall_8x8_LOD2_Base | 160 | 0 | 0 | 0 | 0 | 0 | 0 |
 
