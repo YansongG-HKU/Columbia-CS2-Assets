@@ -6,8 +6,8 @@
 |---|---|
 | Lot | 6 x 4 cells (48 x 32 m) |
 | Model bounds (incl. lot surface) | 48.0 x 32.0 x 29.05 m |
-| Real reference | 44.9 x 18.5 m, 29.0 m (OSM); NRHP 145 x 65 ft, 8 storeys |
-| LOD0 tris (Base / Win / Gls) | 32798 / 509 / 112 |
+| Real reference | 44.9 x 18.5 m, 29.0 m (OSM way 274995765) |
+| LOD0 tris (Base / Win / Gls) | 32750 / 509 / 112 |
 | LOD1 tris (Base / Win / Gls) | 21266 / 509 / 112 |
 | LOD2 tris | 96 |
 
@@ -18,7 +18,7 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_PhilosophyHall_6x4_Base | 32798 | 20 | 834 | 0 | 0 | 0 | 0 |
+| NA_PhilosophyHall_6x4_Base | 32750 | 20 | 834 | 0 | 0 | 0 | 0 |
 | NA_PhilosophyHall_6x4_Win | 509 | 985 | 0 | 0 | 0 | 0 | 238 |
 | NA_PhilosophyHall_6x4_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_PhilosophyHall_6x4_LOD1_Base | 21266 | 20 | 714 | 0 | 0 | 0 | 0 |
