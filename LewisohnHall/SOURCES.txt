@@ -1,0 +1,11 @@
+NA_LewisohnHall_6x4 - Lewisohn Hall, Columbia University (Arnold W. Brunner, 1905; former School of Mines, now School of General Studies).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 44.3 x 17.6 m, height 25.8 m: OpenStreetMap way 274995737 (c) OSM contributors, ODbL (USGS GNIS 2079053).
+- Completed 1905, architect Arnold Brunner replicating the McKim, Mead & White campus pavilions; campus floor is the 3rd floor:
+  WikiCU "Lewisohn Hall".
+Model: two lower storeys as rusticated base (Broadway grade), campus terrace at +6.4 m in front with lateral stairs;
+brick with limestone quoins, pilasters, belt course and cornice; low hipped slate-grey roof; two-storey arched campus entrance.
+Lot 6 x 4 cells (48 x 32 m). Front (campus/east) = -Y.
+Estimated: floor heights, 13-bay fenestration, entrance design, roof form/colour, terrace/stair layout, chimneys.
+No sculpture, no 3D vegetation.
