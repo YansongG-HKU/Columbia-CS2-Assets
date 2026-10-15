@@ -7,8 +7,8 @@
 | Lot | 48 × 72 m |
 | Model bounds (incl. lot surface) | 48.0 x 72.0 x 47.25 m |
 | Real reference | 47.2 × 68.6 m footprint, 12 storeys |
-| LOD0 tris (Base / Win / Gls) | 8958 / 128 / 72 |
-| LOD1 tris (Base / Win / Gls) | 5886 / 128 / 72 |
+| LOD0 tris (Base / Win / Gls) | 7210 / 80 / 72 |
+| LOD1 tris (Base / Win / Gls) | 4762 / 80 / 72 |
 | LOD2 tris | 72 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,11 +18,11 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_UrisHall_6x9_Base | 8958 | 0 | 187 | 0 | 0 | 0 | 0 |
-| NA_UrisHall_6x9_Win | 128 | 256 | 0 | 0 | 0 | 0 | 53 |
+| NA_UrisHall_6x9_Base | 7210 | 0 | 191 | 0 | 0 | 0 | 0 |
+| NA_UrisHall_6x9_Win | 80 | 160 | 0 | 0 | 0 | 0 | 33 |
 | NA_UrisHall_6x9_Gls | 72 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_UrisHall_6x9_LOD1_Base | 5886 | 0 | 187 | 0 | 0 | 0 | 0 |
-| NA_UrisHall_6x9_LOD1_Win | 128 | 256 | 0 | 0 | 0 | 0 | 53 |
+| NA_UrisHall_6x9_LOD1_Base | 4762 | 0 | 191 | 0 | 0 | 0 | 0 |
+| NA_UrisHall_6x9_LOD1_Win | 80 | 160 | 0 | 0 | 0 | 0 | 33 |
 | NA_UrisHall_6x9_LOD1_Gls | 72 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_UrisHall_6x9_LOD2_Base | 72 | 0 | 0 | 0 | 0 | 0 | 0 |
 
