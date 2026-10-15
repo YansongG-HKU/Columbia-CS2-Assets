@@ -7,8 +7,8 @@
 | Lot | 24 × 40 m |
 | Model bounds (incl. lot surface) | 24.0 x 40.0 x 33.45 m |
 | Real reference | 17.9 × 33.4 m footprint, 33.4 m to lantern |
-| LOD0 tris (Base / Win / Gls) | 20400 / 140 / 112 |
-| LOD1 tris (Base / Win / Gls) | 14400 / 140 / 112 |
+| LOD0 tris (Base / Win / Gls) | 22740 / 140 / 112 |
+| LOD1 tris (Base / Win / Gls) | 14976 / 140 / 112 |
 | LOD2 tris | 436 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,10 +18,10 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_EarlHall_3x5_Base | 20400 | 0 | 356 | 0 | 0 | 0 | 0 |
+| NA_EarlHall_3x5_Base | 22740 | 0 | 356 | 0 | 0 | 0 | 0 |
 | NA_EarlHall_3x5_Win | 140 | 258 | 0 | 0 | 0 | 0 | 59 |
 | NA_EarlHall_3x5_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_EarlHall_3x5_LOD1_Base | 14400 | 0 | 204 | 0 | 0 | 0 | 0 |
+| NA_EarlHall_3x5_LOD1_Base | 14976 | 0 | 204 | 0 | 0 | 0 | 0 |
 | NA_EarlHall_3x5_LOD1_Win | 140 | 258 | 0 | 0 | 0 | 0 | 59 |
 | NA_EarlHall_3x5_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_EarlHall_3x5_LOD2_Base | 436 | 0 | 0 | 0 | 0 | 0 | 0 |
