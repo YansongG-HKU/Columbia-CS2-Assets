@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_DodgeHall_9x5_LOD1_BaseColor.png": "NA_DodgeHall_9x5_BaseColor.png",
+    "NA_DodgeHall_9x5_LOD1_Normal.png": "NA_DodgeHall_9x5_Normal.png",
+    "NA_DodgeHall_9x5_LOD1_MaskMap.png": "NA_DodgeHall_9x5_MaskMap.png",
+    "NA_DodgeHall_9x5_LOD1_ControlMask.png": "NA_DodgeHall_9x5_ControlMask.png",
+    "NA_DodgeHall_9x5_LOD1_Emissive.png": "NA_DodgeHall_9x5_Emissive.png"
+  }
+}

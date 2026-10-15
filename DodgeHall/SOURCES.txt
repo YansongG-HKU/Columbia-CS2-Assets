@@ -1,0 +1,9 @@
+NA_DodgeHall_9x5 - Dodge Hall, Columbia University (McKim, Mead & White, 1924; Miller Theatre, Music, School of the Arts).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 62.9 x 18.6 m, height 25.6 m, building:levels 6 + roof:levels 1: OpenStreetMap way 274995789 (c) OSM contributors, ODbL (NYC BIN 1084457).
+- Columbia Facilities & Operations "Dodge Hall": 2960 Broadway, McKim, Mead & White, 1924, 8 storeys.
+Model: two-storey rusticated base, red brick upper storeys with limestone trim, belt courses and cornice, low hipped copper roof,
+campus-side terrace with lateral stairs at the entrance. Lot 9 x 5 cells (72 x 40 m). Front (campus side) = -Y.
+Estimated: floor heights, bay spacing, roof form/colour, entrance details (Miller Theatre Broadway entrance not modelled), terrace/stairs.
+No vegetation or sculpture.
