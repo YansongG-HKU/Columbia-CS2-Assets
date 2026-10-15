@@ -7,8 +7,8 @@
 | Lot | 11 x 7 cells (88 x 56 m) |
 | Model bounds (incl. lot surface) | 88.0 x 56.0 x 31.45 m |
 | Real reference | 80.0 x 50.6 m footprint, 31.4 m (OSM way 274995721) |
-| LOD0 tris (Base / Win / Gls) | 87723 / 894 / 56 |
-| LOD1 tris (Base / Win / Gls) | 62356 / 894 / 56 |
+| LOD0 tris (Base / Win / Gls) | 107847 / 894 / 56 |
+| LOD1 tris (Base / Win / Gls) | 67696 / 894 / 56 |
 | LOD2 tris | 376 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,10 +18,10 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_ButlerLibrary_11x7_Base | 87723 | 911 | 1139 | 4 | 0 | 0 | 0 |
+| NA_ButlerLibrary_11x7_Base | 107847 | 911 | 1139 | 4 | 0 | 0 | 0 |
 | NA_ButlerLibrary_11x7_Win | 894 | 1788 | 0 | 0 | 0 | 0 | 447 |
 | NA_ButlerLibrary_11x7_Gls | 56 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_ButlerLibrary_11x7_LOD1_Base | 62356 | 4 | 973 | 0 | 0 | 0 | 0 |
+| NA_ButlerLibrary_11x7_LOD1_Base | 67696 | 4 | 973 | 0 | 0 | 0 | 0 |
 | NA_ButlerLibrary_11x7_LOD1_Win | 894 | 1788 | 0 | 0 | 0 | 0 | 447 |
 | NA_ButlerLibrary_11x7_LOD1_Gls | 56 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_ButlerLibrary_11x7_LOD2_Base | 376 | 0 | 0 | 0 | 0 | 0 | 0 |
