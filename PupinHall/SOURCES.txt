@@ -1,0 +1,13 @@
+NA_PupinHall_8x3 - Pupin Physics Laboratories (Pupin Hall), Columbia University (McKim, Mead & White, 1927). National Historic Landmark.
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint: slab 55.4 x 16.2 m plus two end pavilions 13.8 / 13.7 x 3.2 m on the west (Broadway) side:
+  OpenStreetMap way 738973812 (c) OSM contributors, ODbL.
+- Storeys: 15 (Columbia Facilities & Operations, operations.cufo.columbia.edu/content/pupin-hall); NRHP nomination 66000550:
+  brick with stone trim on corners and cornice, single sash windows with single stone flat hoods. Rutherfurd Observatory on top
+  (Columbia Physics, physics.columbia.edu/content/pupin-hall).
+- HEIGHT ESTIMATED: the OSM height tag (14.1 m) is clearly for a lower part; model uses 2 base storeys (7.4 m) + 12 x 3.4 m
+  = 48.2 m to cornice, 49.8 m parapet, observatory domes to 56.7 m.
+Lot 8 x 3 cells (64 x 24 m). Front (campus/east) = -Y.
+Estimated: height, floor heights, 17-bay fenestration, entrance, observatory penthouse/dome size and placement.
+No sculpture, no 3D vegetation.
