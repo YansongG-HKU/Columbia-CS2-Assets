@@ -7,8 +7,8 @@
 | Lot | 6 x 4 cells (48 x 32 m) |
 | Model bounds (incl. lot surface) | 48.0 x 32.0 x 25.85 m |
 | Real reference | 44.3 x 17.6 m, 25.8 m (OSM way 274995737) |
-| LOD0 tris (Base / Win / Gls) | 28946 / 431 / 112 |
-| LOD1 tris (Base / Win / Gls) | 18470 / 431 / 112 |
+| LOD0 tris (Base / Win / Gls) | 37682 / 431 / 112 |
+| LOD1 tris (Base / Win / Gls) | 20966 / 431 / 112 |
 | LOD2 tris | 96 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,10 +18,10 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_LewisohnHall_6x4_Base | 28946 | 4 | 666 | 0 | 0 | 0 | 0 |
+| NA_LewisohnHall_6x4_Base | 37682 | 4 | 666 | 0 | 0 | 0 | 0 |
 | NA_LewisohnHall_6x4_Win | 431 | 851 | 0 | 0 | 0 | 0 | 210 |
 | NA_LewisohnHall_6x4_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_LewisohnHall_6x4_LOD1_Base | 18470 | 4 | 566 | 0 | 0 | 0 | 0 |
+| NA_LewisohnHall_6x4_LOD1_Base | 20966 | 4 | 566 | 0 | 0 | 0 | 0 |
 | NA_LewisohnHall_6x4_LOD1_Win | 431 | 851 | 0 | 0 | 0 | 0 | 210 |
 | NA_LewisohnHall_6x4_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_LewisohnHall_6x4_LOD2_Base | 96 | 0 | 0 | 0 | 0 | 0 | 0 |
