@@ -1,0 +1,13 @@
+NA_HavemeyerHall_8x8 - Havemeyer Hall, Columbia University (McKim, Mead & White, 1896-98; Department of Chemistry).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Footprint 48.8 x 62.9 m (min. bounding rectangle), height 38.9 m: OpenStreetMap way 274995734 (c) OSM contributors, ODbL
+  (USGS GNIS 2079050, NYC BIN 1084469). Plan outline (two end wings, recessed centre block, rounded rear projection of the
+  Room 309 lecture hall) traced from the OSM polygon.
+- Columbia Facilities & Operations "Havemeyer Hall": 8 storeys, built 1897, McKim, Mead and White.
+- ACS National Historic Chemical Landmark booklet (1998): red brick with limestone trim, main entrance on the 3rd floor at
+  campus level, two lower floors below campus grade; central grand lecture hall Room 309.
+Model: two-storey rusticated base (below campus level), brick upper storeys, limestone belt courses/cornice, hipped copper roofs,
+campus terrace in the entrance recess with lateral stairs. Lot 8 x 8 cells (64 x 64 m). Front (campus entrance) = -Y.
+Estimated: floor heights, bay spacing (3.3 m), roof form/colour, apse height, entrance details, terrace/stairs.
+Omitted: interconnection to Chandler Laboratories (separate building); no vegetation or sculpture.

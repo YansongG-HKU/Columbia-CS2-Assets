@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_HavemeyerHall_8x8_LOD1_BaseColor.png": "NA_HavemeyerHall_8x8_BaseColor.png",
+    "NA_HavemeyerHall_8x8_LOD1_Normal.png": "NA_HavemeyerHall_8x8_Normal.png",
+    "NA_HavemeyerHall_8x8_LOD1_MaskMap.png": "NA_HavemeyerHall_8x8_MaskMap.png",
+    "NA_HavemeyerHall_8x8_LOD1_ControlMask.png": "NA_HavemeyerHall_8x8_ControlMask.png",
+    "NA_HavemeyerHall_8x8_LOD1_Emissive.png": "NA_HavemeyerHall_8x8_Emissive.png"
+  }
+}
