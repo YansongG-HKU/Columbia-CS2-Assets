@@ -18,10 +18,10 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_HamiltonHall_8x4_Base | 46242 | 0 | 1004 | 0 | 0 | 0 | 0 |
+| NA_HamiltonHall_8x4_Base | 46242 | 0 | 1004 | 0 | 4 | 0 | 0 |
 | NA_HamiltonHall_8x4_Win | 738 | 1476 | 0 | 0 | 0 | 0 | 369 |
 | NA_HamiltonHall_8x4_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_HamiltonHall_8x4_LOD1_Base | 28842 | 0 | 764 | 0 | 0 | 0 | 0 |
+| NA_HamiltonHall_8x4_LOD1_Base | 28842 | 0 | 764 | 0 | 4 | 0 | 0 |
 | NA_HamiltonHall_8x4_LOD1_Win | 738 | 1476 | 0 | 0 | 0 | 0 | 369 |
 | NA_HamiltonHall_8x4_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_HamiltonHall_8x4_LOD2_Base | 60 | 0 | 0 | 0 | 0 | 0 | 0 |
