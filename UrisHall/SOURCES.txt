@@ -1,0 +1,12 @@
+NA_UrisHall_6x9 - Uris Hall, Columbia University (Moore & Hutchins, 1964; Columbia Business School) with the later
+limestone-clad campus-front extension ("mask" facade).
+Fully procedural model (no third-party meshes/textures).
+Dimensions (1 unit = 1 m, pivot bottom centre of lot):
+- Overall footprint 47.2 x 68.6 m: OpenStreetMap way 274995776 (c) OSM contributors, ODbL (USGS GNIS 2083619).
+- 12 storeys, 1964, Moore and Hutchins: Columbia Facilities & Operations (operations.cufo.columbia.edu/content/uris-hall).
+- Original nine-storey aluminium-and-glass high-rise, later partly concealed from the campus by a limestone-clad extension with
+  windows grouped in pairs in tall surrounds and a central two-storey curtain wall: CultureNow (Uris Hall Extension).
+- HEIGHT/MASSING ESTIMATED (no OSM height): 3-storey podium over the main footprint, 12-storey slab (43.2 m) 18 m deep,
+  4-storey limestone front block (16.8 m + parapet), 2-storey rear wing.
+Lot 6 x 9 cells (48 x 72 m). Front (campus) = -Y.
+No sculpture, no 3D vegetation.

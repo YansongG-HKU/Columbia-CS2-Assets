@@ -1,0 +1,9 @@
+{
+  "sharedAssets": {
+    "NA_UrisHall_6x9_LOD1_BaseColor.png": "NA_UrisHall_6x9_BaseColor.png",
+    "NA_UrisHall_6x9_LOD1_Normal.png": "NA_UrisHall_6x9_Normal.png",
+    "NA_UrisHall_6x9_LOD1_MaskMap.png": "NA_UrisHall_6x9_MaskMap.png",
+    "NA_UrisHall_6x9_LOD1_ControlMask.png": "NA_UrisHall_6x9_ControlMask.png",
+    "NA_UrisHall_6x9_LOD1_Emissive.png": "NA_UrisHall_6x9_Emissive.png"
+  }
+}
