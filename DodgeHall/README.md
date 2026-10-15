@@ -7,8 +7,8 @@
 | Lot | 9 x 5 cells (72 x 40 m) |
 | Model bounds (incl. lot surface) | 72.0 x 40.0 x 25.65 m |
 | Real reference | 62.9 x 18.6 m, 25.6 m (OSM way 274995789) |
-| LOD0 tris (Base / Win / Gls) | 31600 / 396 / 276 |
-| LOD1 tris (Base / Win / Gls) | 18376 / 396 / 276 |
+| LOD0 tris (Base / Win / Gls) | 37936 / 492 / 276 |
+| LOD1 tris (Base / Win / Gls) | 22408 / 492 / 276 |
 | LOD2 tris | 56 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,11 +18,11 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_DodgeHall_9x5_Base | 31600 | 4 | 652 | 0 | 0 | 0 | 0 |
-| NA_DodgeHall_9x5_Win | 396 | 770 | 0 | 0 | 0 | 0 | 187 |
+| NA_DodgeHall_9x5_Base | 37936 | 4 | 748 | 0 | 0 | 0 | 0 |
+| NA_DodgeHall_9x5_Win | 492 | 962 | 0 | 0 | 0 | 0 | 235 |
 | NA_DodgeHall_9x5_Gls | 276 | 0 | 0 | 0 | 0 | 0 | 5 |
-| NA_DodgeHall_9x5_LOD1_Base | 18376 | 4 | 556 | 0 | 0 | 0 | 0 |
-| NA_DodgeHall_9x5_LOD1_Win | 396 | 770 | 0 | 0 | 0 | 0 | 187 |
+| NA_DodgeHall_9x5_LOD1_Base | 22408 | 4 | 652 | 0 | 0 | 0 | 0 |
+| NA_DodgeHall_9x5_LOD1_Win | 492 | 962 | 0 | 0 | 0 | 0 | 235 |
 | NA_DodgeHall_9x5_LOD1_Gls | 276 | 0 | 0 | 0 | 0 | 0 | 5 |
 | NA_DodgeHall_9x5_LOD2_Base | 56 | 0 | 0 | 0 | 0 | 0 | 0 |
 
