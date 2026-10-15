@@ -7,8 +7,8 @@
 | Lot | 8 x 6 cells (64 x 48 m) |
 | Model bounds (incl. lot surface) | 64.6 x 48.0 x 29.95 m |
 | Real reference | 34.2 x 62.4 m, 29.9 m (OSM way 274995770) |
-| LOD0 tris (Base / Win / Gls) | 36542 / 624 / 112 |
-| LOD1 tris (Base / Win / Gls) | 23222 / 624 / 112 |
+| LOD0 tris (Base / Win / Gls) | 48218 / 628 / 112 |
+| LOD1 tris (Base / Win / Gls) | 26498 / 628 / 112 |
 | LOD2 tris | 160 |
 
 Textures (`textures/`, 4096 px LOD0/LOD1 shared, 1024 px LOD2): `_BaseColor`, `_Normal` (OpenGL), `_MaskMap` (R metallic, G coat=0, B=0, A gloss), `_ControlMask`, `_Emissive`.
@@ -18,11 +18,11 @@ LOD verification: side-by-side LOD0/LOD1/LOD2 renders in `renders/lod_compare_*.
 
 | mesh | tris | boundary edges | non-manifold edges | zero-area faces | bad winding | flipped shells | floating parts |
 |---|---|---|---|---|---|---|---|
-| NA_SchermerhornHall_8x6_Base | 36542 | 0 | 1230 | 0 | 0 | 0 | 0 |
-| NA_SchermerhornHall_8x6_Win | 624 | 1160 | 0 | 0 | 0 | 0 | 268 |
+| NA_SchermerhornHall_8x6_Base | 48218 | 0 | 1234 | 0 | 0 | 0 | 0 |
+| NA_SchermerhornHall_8x6_Win | 628 | 1168 | 0 | 0 | 0 | 0 | 270 |
 | NA_SchermerhornHall_8x6_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
-| NA_SchermerhornHall_8x6_LOD1_Base | 23222 | 0 | 984 | 0 | 0 | 0 | 0 |
-| NA_SchermerhornHall_8x6_LOD1_Win | 624 | 1160 | 0 | 0 | 0 | 0 | 268 |
+| NA_SchermerhornHall_8x6_LOD1_Base | 26498 | 0 | 988 | 0 | 0 | 0 | 0 |
+| NA_SchermerhornHall_8x6_LOD1_Win | 628 | 1168 | 0 | 0 | 0 | 0 | 270 |
 | NA_SchermerhornHall_8x6_LOD1_Gls | 112 | 0 | 0 | 0 | 0 | 0 | 2 |
 | NA_SchermerhornHall_8x6_LOD2_Base | 160 | 0 | 0 | 0 | 0 | 0 | 0 |
 
