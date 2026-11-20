@@ -1,0 +1,9 @@
+{
+  "stage": "mid",
+  "sha_before": "86dd8d09614ff7bdeb8b1acb788a9cbf64a77e985f53aa0dd74555bc8296078e",
+  "sha_after": "2629a324366f1133f3e3add41bebc1c6893477706871afebf59be91bd4ea9081",
+  "target_triangles": 1832,
+  "changed_tangent_frames": 1836,
+  "other_attributes_and_untargeted_corners_exact": true,
+  "scope": "FBX stored frame diagnostic; not proof CS2 uses these frames, no game validation"
+}
