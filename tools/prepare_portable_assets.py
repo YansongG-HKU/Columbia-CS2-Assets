@@ -10,16 +10,17 @@ import array
 from io_scene_fbx import parse_fbx,encode_bin
 import bpy,pathlib,json,hashlib,struct,shutil
 import argparse,sys
+sys.path.insert(0,str(pathlib.Path(__file__).resolve().parent))
+from portable_asset_layout import find_inputs
 args=sys.argv[sys.argv.index('--')+1:] if '--' in sys.argv else []
 a=argparse.ArgumentParser();a.add_argument('--repository',required=True);a.add_argument('--output',required=True);a.add_argument('--buildings',required=True);a.add_argument('--clean',required=True);a=a.parse_args(args)
 R=pathlib.Path(a.repository).resolve();O=pathlib.Path(a.output).resolve();names=a.buildings.split(',')
-assert not O.exists(), 'Output must be new to prevent overwriting a prior candidate'
-assert not O.is_relative_to(R), 'Keep isolated output outside original repository'
-C=pathlib.Path(a.clean).resolve();assert not C.exists();assert not C.is_relative_to(R);assert C!=O;assert not C.is_relative_to(O);assert not O.is_relative_to(C)
+C=pathlib.Path(a.clean).resolve()
+if (O.exists() or C.exists() or O.is_relative_to(R) or C.is_relative_to(R)
+    or C.is_relative_to(O) or O.is_relative_to(C)):
+ raise ValueError('Use two new, separate output directories outside the source repository')
+inputs=find_inputs(R,names)
 O.mkdir(parents=True);out={}
-for name in names:
- assert name and '/' not in name and '\\' not in name and name not in ['.','..']
- assert (R/name/'cs2_import_candidates').is_dir()
 def h(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def snap():
  d={}
@@ -33,14 +34,14 @@ def snap():
    for l in layer.data:uv.update(struct.pack('2f',*l.uv))
   d[o.name]={'geometry_sha':geo.hexdigest(),'uv_sha':uv.hexdigest(),'triangles':len(m.loop_triangles),'loops':len(m.loops),'uv_outside':sum(any(x<-.00001 or x>1.00001 for x in l.uv) for layer in m.uv_layers for l in layer.data),'images':sorted({n.image.name for mat in m.materials if mat and mat.use_nodes for n in mat.node_tree.nodes if n.type=='TEX_IMAGE' and n.image})}
  return d
-for name in names:
+for name,(blend,pngs,fbxs,settings) in inputs.items():
  src=R/name;imp=O/'import-assets'/name;dst=O/'source'/name;imp.mkdir(parents=True,exist_ok=True);dst.mkdir(parents=True,exist_ok=True)
- for p in (src/'textures').glob('*.png'):shutil.copy2(p,imp/p.name)
- for p in (src/'cs2_import_candidates').glob('*.fbx'):shutil.copy2(p,imp/p.name)
- shutil.copy2(src/'settings.json',imp/'settings.json')
+ for p in pngs:shutil.copy2(p,imp/p.name)
+ for p in fbxs:shutil.copy2(p,imp/p.name)
+ shutil.copy2(settings,imp/'settings.json')
  for f in ['README.md','SOURCES.txt']:
   if (src/f).exists():shutil.copy2(src/f,dst/f)
- blend=next(src.glob('*.blend'));bpy.ops.wm.open_mainfile(filepath=str(blend),use_scripts=False);before=snap()
+ bpy.ops.wm.open_mainfile(filepath=str(blend),use_scripts=False);before=snap()
  for im in bpy.data.images:
   if im.source=='FILE':
    assert not im.packed_file
@@ -122,12 +123,17 @@ for f in (C/'import-assets').rglob('*.fbx'):
  meshes=[]
  for ob in bpy.data.objects:
   if ob.type=='MESH':ob.data.calc_loop_triangles();meshes.append({'object':ob.name,'triangles':len(ob.data.loop_triangles)})
+ if not any(m['triangles'] for m in meshes):
+  raise ValueError(f'{f}: FBX readback did not yield any mesh triangles')
  checked.append({'file':str(f.relative_to(C)),'images_loaded':images,'meshes':meshes})
 for f in (C/'source').rglob('*.blend'):
  bpy.ops.wm.open_mainfile(filepath=str(f),use_scripts=False)
  for im in bpy.data.images:
   if im.source=='FILE':
    q=pathlib.Path(bpy.path.abspath(im.filepath)).resolve();assert q.is_relative_to(C) and q.is_file();im.reload();_=im.pixels[0];assert im.has_data
+expected_fbx={'import-assets/'+name+'/'+f.name for name,row in inputs.items() for f in row[2]}
+if {row['file'] for row in checked} != expected_fbx:
+ raise RuntimeError('Not all preflight FBX inputs were independently read back')
 (O/'clean_path_verification.json').write_text(json.dumps({'clean_copy':str(C),'use_image_search':False,'FBX':checked,'blend_images_decoded':True},indent=2));print('CLEAN_PASS',len(checked))
 
 manifest={str(p.relative_to(O)):hashlib.sha256(p.read_bytes()).hexdigest() for folder in ['source','import-assets'] for p in (O/folder).rglob('*') if p.is_file()}
