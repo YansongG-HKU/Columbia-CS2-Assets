@@ -1,0 +1,305 @@
+{
+  "method": "Only near/mid Base FBX, one local seed region; compare every AABB-intersecting coplanar triangle pair regardless of shared topology. Tolerances 1e-5 m and 1e-6 square metres. 50 measures pair comparisons with no shared vertex indices, not newly counted faces or proof that all 50 were absent from all other scopes.",
+  "result": {
+    "near": {
+      "file": "NA_UrisHall_6x9.fbx",
+      "sha256": "64277811ac5bd5a4af42925b8e26d272e4301385073067841af1738fb569e817",
+      "candidate_faces": 118,
+      "same_facing": 62,
+      "opposed": 64,
+      "same_facing_zero_shared_vertex_indices": 50,
+      "target_pair": {
+        "first": [
+          "NA_UrisHall_6x9_Base",
+          584
+        ],
+        "second": [
+          "NA_UrisHall_6x9_Base",
+          1224
+        ],
+        "first_area": 0.81599916362768,
+        "second_area": 0.5279994840622066,
+        "area": 0.5279994840622066,
+        "same_facing": true,
+        "same_material": true,
+        "shared_vertex_indices": 2,
+        "max_uv_delta": 2.1520544105274524e-8,
+        "polygon_2d": [
+          [
+            23.76000213623047,
+            0.5999980568885803
+          ],
+          [
+            23.760000228881836,
+            7.199997901916504
+          ],
+          [
+            23.60000228881836,
+            0.5999980568885803
+          ],
+          [
+            23.60000228881836,
+            0.5999980568885803
+          ],
+          [
+            23.76000213623047,
+            0.5999980568885803
+          ]
+        ],
+        "projection_ignored_axis": 1
+      },
+      "target_existing_faces": [
+        {
+          "id": [
+            "NA_UrisHall_6x9_Base",
+            584
+          ],
+          "world": [
+            [
+              23.76000213623047,
+              24.274999618530273,
+              10.799997329711914
+            ],
+            [
+              23.60000228881836,
+              24.274999618530273,
+              0.5999980568885803
+            ],
+            [
+              23.76000213623047,
+              24.274999618530273,
+              0.5999980568885803
+            ]
+          ],
+          "normal": [
+            0,
+            -1,
+            0
+          ],
+          "material": "NA_UrisHall_6x9_Base",
+          "uv": [
+            [
+              0.465109258890152,
+              0.9217122793197632
+            ],
+            [
+              0.4652959406375885,
+              0.9336152076721191
+            ],
+            [
+              0.465109258890152,
+              0.9336152076721191
+            ]
+          ]
+        },
+        {
+          "id": [
+            "NA_UrisHall_6x9_Base",
+            1224
+          ],
+          "world": [
+            [
+              23.760000228881836,
+              24.274999618530273,
+              7.199997901916504
+            ],
+            [
+              23.60000228881836,
+              24.274999618530273,
+              0.5999980568885803
+            ],
+            [
+              23.76000213623047,
+              24.274999618530273,
+              0.5999980568885803
+            ]
+          ],
+          "normal": [
+            0,
+            -1,
+            0
+          ],
+          "material": "NA_UrisHall_6x9_Base",
+          "uv": [
+            [
+              0.465109258890152,
+              0.9259133338928223
+            ],
+            [
+              0.4652959406375885,
+              0.9336152076721191
+            ],
+            [
+              0.465109258890152,
+              0.9336152076721191
+            ]
+          ]
+        }
+      ],
+      "standalone_deletion": {
+        "status": "rejected; output not written",
+        "still_incident_faces": [
+          1,
+          2,
+          1
+        ],
+        "max_raw_uv_normal_tangent_binormal_difference": [
+          2.9802322387695312e-8,
+          8.891829887441927e-8,
+          0,
+          8.891829887441927e-8
+        ]
+      }
+    },
+    "mid": {
+      "file": "NA_UrisHall_6x9_LOD1.fbx",
+      "sha256": "7e793663c01b6ff65eaec8db82a5f82f1fb5d78a4c426a4bc7eff09dd2ce9b36",
+      "candidate_faces": 118,
+      "same_facing": 62,
+      "opposed": 64,
+      "same_facing_zero_shared_vertex_indices": 50,
+      "target_pair": {
+        "first": [
+          "NA_UrisHall_6x9_LOD1_Base",
+          290
+        ],
+        "second": [
+          "NA_UrisHall_6x9_LOD1_Base",
+          492
+        ],
+        "first_area": 0.81599916362768,
+        "second_area": 0.5279994840622066,
+        "area": 0.5279994840622066,
+        "same_facing": true,
+        "same_material": true,
+        "shared_vertex_indices": 2,
+        "max_uv_delta": 2.1520544105274524e-8,
+        "polygon_2d": [
+          [
+            23.76000213623047,
+            0.5999980568885803
+          ],
+          [
+            23.760000228881836,
+            7.199997901916504
+          ],
+          [
+            23.60000228881836,
+            0.5999980568885803
+          ],
+          [
+            23.60000228881836,
+            0.5999980568885803
+          ],
+          [
+            23.76000213623047,
+            0.5999980568885803
+          ]
+        ],
+        "projection_ignored_axis": 1
+      },
+      "target_existing_faces": [
+        {
+          "id": [
+            "NA_UrisHall_6x9_LOD1_Base",
+            290
+          ],
+          "world": [
+            [
+              23.76000213623047,
+              24.274999618530273,
+              10.799997329711914
+            ],
+            [
+              23.60000228881836,
+              24.274999618530273,
+              0.5999980568885803
+            ],
+            [
+              23.76000213623047,
+              24.274999618530273,
+              0.5999980568885803
+            ]
+          ],
+          "normal": [
+            0,
+            -1,
+            0
+          ],
+          "material": "NA_UrisHall_6x9_Base",
+          "uv": [
+            [
+              0.465109258890152,
+              0.9217122793197632
+            ],
+            [
+              0.4652959406375885,
+              0.9336152076721191
+            ],
+            [
+              0.465109258890152,
+              0.9336152076721191
+            ]
+          ]
+        },
+        {
+          "id": [
+            "NA_UrisHall_6x9_LOD1_Base",
+            492
+          ],
+          "world": [
+            [
+              23.760000228881836,
+              24.274999618530273,
+              7.199997901916504
+            ],
+            [
+              23.60000228881836,
+              24.274999618530273,
+              0.5999980568885803
+            ],
+            [
+              23.76000213623047,
+              24.274999618530273,
+              0.5999980568885803
+            ]
+          ],
+          "normal": [
+            0,
+            -1,
+            0
+          ],
+          "material": "NA_UrisHall_6x9_Base",
+          "uv": [
+            [
+              0.465109258890152,
+              0.9259133338928223
+            ],
+            [
+              0.4652959406375885,
+              0.9336152076721191
+            ],
+            [
+              0.465109258890152,
+              0.9336152076721191
+            ]
+          ]
+        }
+      ],
+      "standalone_deletion": {
+        "status": "rejected; output not written",
+        "still_incident_faces": [
+          1,
+          2,
+          1
+        ],
+        "max_raw_uv_normal_tangent_binormal_difference": [
+          2.9802322387695312e-8,
+          8.891829887441927e-8,
+          0,
+          8.891829887441927e-8
+        ]
+      }
+    }
+  }
+}
