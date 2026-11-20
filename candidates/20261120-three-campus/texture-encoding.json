@@ -1,0 +1,2478 @@
+{
+  "python": "3.12.14",
+  "zlib": "1.3.2",
+  "pillow": "12.3.0",
+  "blender": "4.3.2",
+  "files": [
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "5227400cf748fce28b82267f2e55e19c9c0d4310b468ff23db386e1209fdca7c",
+      "before_bytes": 6580164,
+      "after_bytes": 6580164,
+      "before_sha256": "c333902a9d7fa1fc966d0f8cbe68310c11642af0b74c41a1a53c9ab964d591c9",
+      "after_sha256": "c333902a9d7fa1fc966d0f8cbe68310c11642af0b74c41a1a53c9ab964d591c9"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "57ad6a6efd7066f5a7320537e107c4e726c2ec67226a0e5f039b85c665df3486",
+      "before_bytes": 312513,
+      "after_bytes": 78418,
+      "before_sha256": "2083a7e7f25c902fa1dc4c96372db786b15323739bc4c3a662d58c3d432757cc",
+      "after_sha256": "33d9b2006cb80c3d1d95fdeb3d4d13c9dd6d3a0cacdff186ad9753aad95e844e"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "52af9001850d7737da6ad4ed04035cb4b77951e0ae9e7c497cb42b13779a0ad6",
+      "before_bytes": 305914,
+      "after_bytes": 75858,
+      "before_sha256": "5ae57ae68210523dc0c8e82fdcde8fafca718dc05a041496e1de5a76e7ebec53",
+      "after_sha256": "88abb964b7fe7da8c1c4ec3e0d7eb02b92b8351e6bc2501520b16179fae7ace2"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "ccc8442accbc9acd3d61a2491707471cf2fe8a240aec2bdb708579aa2a5d6b0f",
+      "before_bytes": 1303367,
+      "after_bytes": 1292891,
+      "before_sha256": "9f7f11ce3c397d56a014c0881c4c38315e57cad42610705f9f8087e1fc8dcd2d",
+      "after_sha256": "f20ba79cc7ede9828a40c010649405f8b8b291f8cdd9d4365ea8df9d02dff709"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 89292,
+      "after_bytes": 89292,
+      "before_sha256": "ff368f7e9de8c55d06672229ceb86274b13fcc18784d3c2c49e3d425f10a8d7c",
+      "after_sha256": "ff368f7e9de8c55d06672229ceb86274b13fcc18784d3c2c49e3d425f10a8d7c"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 27952,
+      "after_bytes": 27952,
+      "before_sha256": "32f861d23bb721ae3f5062123efcd64ac8d42e37e6beb08a592a0ed9da542095",
+      "after_sha256": "32f861d23bb721ae3f5062123efcd64ac8d42e37e6beb08a592a0ed9da542095"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "cc7ed5527e96e62228d89b596806008580641ee0fe949ac91c09df3a6ca1e821",
+      "before_bytes": 179948,
+      "after_bytes": 114079,
+      "before_sha256": "22c04fefed691c03ad0d17ae591320ceded1b63fbed0ca63d6f94cce8d2fd131",
+      "after_sha256": "3fc1d4b24898479281ea15b035b9a83f57ecdf0272e30b3235c4b52ec9f770d9"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "3845b4cc35cf882ddfc263de44dfdaefeb1da722ec42c19f3e1146b8c27a4053",
+      "before_bytes": 751189,
+      "after_bytes": 751189,
+      "before_sha256": "97ce27a468b06607f2da9fcae57a18905691a25e6140dc526920cb6552c6900d",
+      "after_sha256": "97ce27a468b06607f2da9fcae57a18905691a25e6140dc526920cb6552c6900d"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "3c30c508a90e18262fabc1e869b0e35d25f372fbd6af9eaaa6abf4b162ea59f3",
+      "before_bytes": 405013,
+      "after_bytes": 133683,
+      "before_sha256": "56d01b48ebba3aebd8d5456db407b8a6e53695ba83defaca5ab73fe023fd3bc0",
+      "after_sha256": "e0509626ea2a8b1a335b3a6de29244aeccfc5a566aadc3657f635a8d77309aa5"
+    },
+    {
+      "path": "AveryHall/NA_AveryHall_6x4_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "fcbcc1cae5312e0a0608c0fb2c5647479af46abef37fc83cacf5b1a3bd24d751",
+      "before_bytes": 2906884,
+      "after_bytes": 2906884,
+      "before_sha256": "34deee83b47a1d74c2342bf6d83eb30e71658c94ade47794ff0b004d60a614ec",
+      "after_sha256": "34deee83b47a1d74c2342bf6d83eb30e71658c94ade47794ff0b004d60a614ec"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "38cf922c180dd07e7c7740ea41409d6adc3820ff3f9ab6e08967e29df992f1f6",
+      "before_bytes": 2452962,
+      "after_bytes": 2452962,
+      "before_sha256": "a59cc449f0cae2da09f252f9564d2a9cb604b8eb2c8740d9f263007f92c3f331",
+      "after_sha256": "a59cc449f0cae2da09f252f9564d2a9cb604b8eb2c8740d9f263007f92c3f331"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "ef4514b5dd414282ac4fdf532717424abe32e9dd33dbc24bbcbb0e8df7ace676",
+      "before_bytes": 310100,
+      "after_bytes": 77494,
+      "before_sha256": "d7c0053757e272beab15e6515c876d8bf2bf26d4f39029db4b6e0abbb96dcc07",
+      "after_sha256": "faaf31eb11e782cf2be9e05500888b059e3fe0ec12ec2940e45e063e91dfe5d1"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "732df717d56fdbeebca458b70c547855ef1489409ada9a98a4c886c2095652b3",
+      "before_bytes": 308366,
+      "after_bytes": 75981,
+      "before_sha256": "22dd7ffa2162e5c3636772fcab4d8fc774c88395f2f50af67591d06e121ed6e5",
+      "after_sha256": "7c7f7adfb5ba6a847e0e429b48b583c28619b4c9ea8acf4c8bc4c110b626ffc7"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "6f7f07241badd7d7571f9878471a35bfd2d24fa2782e7b22321e4537692cb567",
+      "before_bytes": 1343289,
+      "after_bytes": 1304366,
+      "before_sha256": "8405682a98c3a7d48e875060e325b82da759e0b3a2df0a85bb013e86a2666309",
+      "after_sha256": "e79156e8ba2826a274fa91bab494d263782adc17a04174ddc55ba7729b1f3506"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 117600,
+      "after_bytes": 117600,
+      "before_sha256": "db1cb6f76de58894d90879caa1fbda1f5ab8c7ad32ec4ab03f19a660a2e65543",
+      "after_sha256": "db1cb6f76de58894d90879caa1fbda1f5ab8c7ad32ec4ab03f19a660a2e65543"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 33005,
+      "after_bytes": 33005,
+      "before_sha256": "aa323fbe50fcfdd91c74f2b2e13b46c31d11437507f863c383d783981867b6c6",
+      "after_sha256": "aa323fbe50fcfdd91c74f2b2e13b46c31d11437507f863c383d783981867b6c6"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 147840,
+      "after_bytes": 147840,
+      "before_sha256": "0c36408d740c27b09bd6a30800c888d9132bb5dd6360603c1f74a66e9e7951da",
+      "after_sha256": "0c36408d740c27b09bd6a30800c888d9132bb5dd6360603c1f74a66e9e7951da"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "bb8cf8b08aba0ce413a3bc9cfaa80fdd21cca2d5c957fa4822a87aa7bb1767c4",
+      "before_bytes": 527255,
+      "after_bytes": 527255,
+      "before_sha256": "073bd32659925bd2a6baa975bf88b72acc4beae57eb92896e7b5cd83c222f806",
+      "after_sha256": "073bd32659925bd2a6baa975bf88b72acc4beae57eb92896e7b5cd83c222f806"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "cdaebb8f510b18d48f104ddca30780019adcf0a7fe882901102bb48b5dd248a1",
+      "before_bytes": 320062,
+      "after_bytes": 83280,
+      "before_sha256": "838313cd0cb32c4c0132380ffd8e25ceaf7f1979f7bf1264ba0c7eb1da54b8d5",
+      "after_sha256": "03d5078363f1579135d1710276143f0e4533352acefaf939d504ecc2afbc0203"
+    },
+    {
+      "path": "ButlerLibrary/NA_ButlerLibrary_11x7_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "63d80bffa9c8ee6b8f13b49b3157fe16d335eb112cc72d832c4a1df77892cec6",
+      "before_bytes": 774695,
+      "after_bytes": 774695,
+      "before_sha256": "d659b5db2cbaba347ec972d5867b511d743d8218b8c81a5922e779d7f81309df",
+      "after_sha256": "d659b5db2cbaba347ec972d5867b511d743d8218b8c81a5922e779d7f81309df"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "d9764ccc6dca65d3d9ed186d4464fda9cd4c14ab221e4502c26366903f4b536f",
+      "before_bytes": 5007316,
+      "after_bytes": 5007316,
+      "before_sha256": "ad8b5e14652459149e69484418733c2d6e81296ff939849eb6d402b8a910da21",
+      "after_sha256": "ad8b5e14652459149e69484418733c2d6e81296ff939849eb6d402b8a910da21"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "f4a9c32ae37bee2a3d048c4ddf99415c2b7f2c2c9357e1b6bbd39068d29b3e7f",
+      "before_bytes": 312117,
+      "after_bytes": 78171,
+      "before_sha256": "e21b8b68359babbdee515085eb5759d6de678138f21b132043582943906b2557",
+      "after_sha256": "c1d3d7e8a53e0c1883e5b3ce0a51e5f07e60885a3fc7272e2822f82f028a99c2"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "4c3e6cc239ffd9831859d5a9c12643d7932548ef9537a7dc1541897c6fa6c47b",
+      "before_bytes": 306063,
+      "after_bytes": 76113,
+      "before_sha256": "38815855a02fcbbf56080619896f0b5d637575735f80c00a116bf3b97352b717",
+      "after_sha256": "d89d58afd9e03308d1c86431da9270c1c27893749e1dafde4dd80f79b47b8e3e"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "72ad51a0bfeee9695cf691248537c0cacbbd17ec6291f42481006fe7a0d33c15",
+      "before_bytes": 1188798,
+      "after_bytes": 1173309,
+      "before_sha256": "a6bb2830a6363dcfa7dcfa95aca541e1392e6682f687e78763d16322a2213c30",
+      "after_sha256": "0f58fb58f026ede2adcd17f5c33409b439b6fa811689f2e34f4b9d26db3edb5a"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 83195,
+      "after_bytes": 83195,
+      "before_sha256": "eacea94a606d613585d311164d695a62902878c6c90c00fb32c1f8697057be28",
+      "after_sha256": "eacea94a606d613585d311164d695a62902878c6c90c00fb32c1f8697057be28"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 30531,
+      "after_bytes": 30531,
+      "before_sha256": "4173ce6785c7d7bc36f6caa8da66dc27cfbb1535f9e58d33d5b024cc2ede6206",
+      "after_sha256": "4173ce6785c7d7bc36f6caa8da66dc27cfbb1535f9e58d33d5b024cc2ede6206"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "2e0e3de6646acc050598e79e64bed8a5b7febe7bff85a715c9379c7cd3e6328b",
+      "before_bytes": 164914,
+      "after_bytes": 105149,
+      "before_sha256": "d6e8dbd739e5a788ad4b09015b52307a877aea66b63307c0ebbc8564a39fa677",
+      "after_sha256": "1f10a5922fb696ec682c229ea2cccb2a9604253f9d59706fbf05e986dee4da47"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "cc7e3b5354b77da0b683b6da50c47b63ae1c9567b866bf8c43b6bb8ed1683947",
+      "before_bytes": 592401,
+      "after_bytes": 592401,
+      "before_sha256": "e6e1b01185667830cfc84189a69aaba1461e5dcc1b6c78eec2e6b91118980d5a",
+      "after_sha256": "e6e1b01185667830cfc84189a69aaba1461e5dcc1b6c78eec2e6b91118980d5a"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "94831e4cebd2e679e01709156edc475a37d86b12770576d4672f8e5da7ebcd10",
+      "before_bytes": 389779,
+      "after_bytes": 126403,
+      "before_sha256": "b89229bae11b0a5968572465e4683376e5477cad90ddd6fc458ee2e9d8cdb8a6",
+      "after_sha256": "4d3228e3347306f366ee940ae9d441778e71d5ff86e611b086f30c7b9d3b0982"
+    },
+    {
+      "path": "DodgeHall/NA_DodgeHall_9x5_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "2392c31d70cb592cf3b94c4797cf9dc383551f9869ab5ee8e4480a43a1d682d8",
+      "before_bytes": 1699444,
+      "after_bytes": 1699444,
+      "before_sha256": "7b0702d7388d3b69b3b470efda47f377bf530bd43df80db3b7064ac98c8a2f41",
+      "after_sha256": "7b0702d7388d3b69b3b470efda47f377bf530bd43df80db3b7064ac98c8a2f41"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "174f39cc75a30a18e8db4016cc206ce151f826e5c65b2bf9501bd750b29d8d9d",
+      "before_bytes": 9387377,
+      "after_bytes": 9387377,
+      "before_sha256": "7c077d16ad92516c708a2b7c7cf398338e65bcef1f2fa1e6a8e8104805a52580",
+      "after_sha256": "7c077d16ad92516c708a2b7c7cf398338e65bcef1f2fa1e6a8e8104805a52580"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "a54d7f4bae22973a9c62ddb07908d19f6ceee237618aa986a097f3abb7b1f59c",
+      "before_bytes": 313986,
+      "after_bytes": 78794,
+      "before_sha256": "600c47d3adb93294d20c7e6f11adfeb8d1fb1550c0fb219e14bce395bdb1f819",
+      "after_sha256": "9a73cf34c95d61b863b96945b225dc197d4607abcb8d7945aad7f1e9312a047f"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "c52ae8f20e970690eaeea80a03992d985dc5fb340d7488d1e82de9e3d2d720c3",
+      "before_bytes": 306138,
+      "after_bytes": 76022,
+      "before_sha256": "e11290c03ddb3f357573233b3486266b0ffdf9f0773b7cd3d61e1fc9bc64ea8e",
+      "after_sha256": "10957eb3667946c909a29f3f8d91be3987e1a77ea50c1fa5c342f423ebe0ad16"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "810cc498ee96eb1c4e491538e59cdbeb1816dee136d86764813b69a6ffeed00a",
+      "before_bytes": 1385444,
+      "after_bytes": 1364110,
+      "before_sha256": "90fc8ca98b8b164a0fe629fef576c94281389eb6a4ab4b63996bc6b3361a0f33",
+      "after_sha256": "5b98fd6ba6d9323196d91d34fbc97ea5ecfb49b38521fcc73e9d638cad503a28"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 130930,
+      "after_bytes": 130930,
+      "before_sha256": "60f45424e57d16f824ce999b5e0b941fc053e48407b72c4284b949ec0a3af165",
+      "after_sha256": "60f45424e57d16f824ce999b5e0b941fc053e48407b72c4284b949ec0a3af165"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 28179,
+      "after_bytes": 28179,
+      "before_sha256": "649d6f9442df1fe0cd2a14e8702b40301b2310bf37d379533d64debea1d42347",
+      "after_sha256": "649d6f9442df1fe0cd2a14e8702b40301b2310bf37d379533d64debea1d42347"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 133776,
+      "after_bytes": 133776,
+      "before_sha256": "a5a2586522df4f36bf9e1ffdeec8ddc0945c3b4a5314eeca40b692d1e5cd121a",
+      "after_sha256": "a5a2586522df4f36bf9e1ffdeec8ddc0945c3b4a5314eeca40b692d1e5cd121a"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "6813042531455e237759acbe43139d44bd0a96c11055ca10aac0f8191345cbd3",
+      "before_bytes": 862357,
+      "after_bytes": 862357,
+      "before_sha256": "10ef2d9e195b049c1b36d7a9afc1116fd1afdaa2ac5490e138c61f14c94f7720",
+      "after_sha256": "10ef2d9e195b049c1b36d7a9afc1116fd1afdaa2ac5490e138c61f14c94f7720"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "a42adba06ca636256313224f62fd9f97f677c9dbd8d005b109e59f1a486a1243",
+      "before_bytes": 319041,
+      "after_bytes": 82898,
+      "before_sha256": "8f9cf341d933c7ac825169c5f3abf622eed41c0ba409a5c392801c87275509ed",
+      "after_sha256": "18632ddfc6708e565843892e0b5c7a67d336f9402d63f560ed6dd0cfdcadfb74"
+    },
+    {
+      "path": "EarlHall/NA_EarlHall_3x5_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "1e8fabafeb896665790b822cf322b17d51fe116869e73cf156e2bc2d4f2c2510",
+      "before_bytes": 6749709,
+      "after_bytes": 6749709,
+      "before_sha256": "efd656b0d37de9ad86b3506b900c4cb9bbcc34c7a054101f183d9d147e7c6b18",
+      "after_sha256": "efd656b0d37de9ad86b3506b900c4cb9bbcc34c7a054101f183d9d147e7c6b18"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "93286f577c4ef4c0a5c4b8de38f2d292d8acbde3a07c8a17c1aebc47d344f0ef",
+      "before_bytes": 4194193,
+      "after_bytes": 4194193,
+      "before_sha256": "b96072f1f923bc0b6b42097e006bcfe362c2934f2ee7844eebfde47255e4df58",
+      "after_sha256": "b96072f1f923bc0b6b42097e006bcfe362c2934f2ee7844eebfde47255e4df58"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "6fcb6feb492bcb85f29cf3a8b5b3099c169b0685a040902ace57cbeb30f54168",
+      "before_bytes": 312980,
+      "after_bytes": 78508,
+      "before_sha256": "578c3a19b5274e60ff146bdf18e363ec71474e30c8bce66d8874bb2880ff2b27",
+      "after_sha256": "5d602516435c653b735a4ad9d005091e52325700b01a5aa5b37b3b8056394f04"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "065270ef4f3cb2c75a977b3de52955009d67e6e04aed8356ebffe711cc5e91e2",
+      "before_bytes": 308697,
+      "after_bytes": 76055,
+      "before_sha256": "a2fdb2f736f9a9c8bc8b49a2d643eba6a61aba180b6286494b285bbef5b3c1a3",
+      "after_sha256": "40c119f431949868fb94ac498b34ec7a4281fb5c4d74350625b3c0701a1d0d31"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "3250189467ef662689f90b11ccca02d639107ae0a27db0e78c44ccf690c92cb7",
+      "before_bytes": 1329800,
+      "after_bytes": 1319188,
+      "before_sha256": "dd45acf7d2123ec3e8c957c0450b68c27e8891c84dae1f6b02593d59e22e02a6",
+      "after_sha256": "49dfd6dd6d2ebc114e9018973d34f19fb7c4818fca1accba05c78e3df749575d"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 82837,
+      "after_bytes": 82837,
+      "before_sha256": "de68ab3652845dd42d63c56360d97a71715753e742d3932c201d049efed8908b",
+      "after_sha256": "de68ab3652845dd42d63c56360d97a71715753e742d3932c201d049efed8908b"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 29880,
+      "after_bytes": 29880,
+      "before_sha256": "379c0c03ecb78dac168b18b87defed54015a86660d4b338f120ee25ad9a2ae67",
+      "after_sha256": "379c0c03ecb78dac168b18b87defed54015a86660d4b338f120ee25ad9a2ae67"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "38f761143958d90d6f91171f6cb270bbebe46b0234c81b08d4c1d877ecfcf93b",
+      "before_bytes": 174655,
+      "after_bytes": 110343,
+      "before_sha256": "857e251afe243e604ca45543e46a1a705b5a1f9e011bdfd17bdd9a91d88970ab",
+      "after_sha256": "9cce4e41481b4112f115ad021f8c1f37cf606cbde9fe513badca1eebedce3a38"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "3cdb35cb1847fe4d789df2a541187afa59b0f08ea52b4480384848b3038c3ead",
+      "before_bytes": 737832,
+      "after_bytes": 737832,
+      "before_sha256": "9c2eabe68bc8e0e2bcf046d4643c89db5a384bb426ea84c6c14351fb33b84d8e",
+      "after_sha256": "9c2eabe68bc8e0e2bcf046d4643c89db5a384bb426ea84c6c14351fb33b84d8e"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "bd0cc9329b798a82d355cff77a18ba6317f04c5d321d876d55a3ddd12ed047ff",
+      "before_bytes": 367892,
+      "after_bytes": 112611,
+      "before_sha256": "033e09e46ea47f4fb5dabe1e81f4cea18f359115dccb70fe89fe9422eccd8ef4",
+      "after_sha256": "fd964aac18e111e377a4c19359e23bf6b78346fccb430df142272e76247fbe03"
+    },
+    {
+      "path": "FayerweatherHall/NA_FayerweatherHall_6x5_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "4ca02c85a3afb4fad008f0dcf6613dc6084d49cfc21513b3ed39bd0ad38b1256",
+      "before_bytes": 1515869,
+      "after_bytes": 1515869,
+      "before_sha256": "c2534de351b686a61db9add6686092d4ddf9e491c180283b364c479eb3a4749a",
+      "after_sha256": "c2534de351b686a61db9add6686092d4ddf9e491c180283b364c479eb3a4749a"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "a94e55d55984787394f08b0b4d49654c4edd1d0399251666e99926f2f5e7a85d",
+      "before_bytes": 2825802,
+      "after_bytes": 2825802,
+      "before_sha256": "d0a2f49fd3d9ae10b13d0b2e0aadfbe287a372ec3a30226999895ce4bd2c3adf",
+      "after_sha256": "d0a2f49fd3d9ae10b13d0b2e0aadfbe287a372ec3a30226999895ce4bd2c3adf"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "3cdb673a49dc39202558b7dec1b73fe9ae3c43d55d48f9b1aeec73cd9f839b8f",
+      "before_bytes": 309274,
+      "after_bytes": 77283,
+      "before_sha256": "a15843ecd7e38a518fabd3f9a1981ceab7a10310de85eea5bb8b905d35b2c126",
+      "after_sha256": "e7dcb87c113064abc7298aadf55850a39f35e9f2ee98ffae684528b95daa0f39"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "df7cc9b6abc0612d73b6d934aac0435e57c199c7121641f8b28724f8b8e5fc4d",
+      "before_bytes": 308531,
+      "after_bytes": 75987,
+      "before_sha256": "472d796f72d1eba9fb598a94199681f88b795a57d931d5383acecdee658bbf78",
+      "after_sha256": "f257a04df5761bb0827fce7b2e01fff9d799fd7ffcd1d622a4c0272fa5011dfc"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "59ac2b4f7382d18ca05826f5a5fe2701c59c77322e1bc27f79fdc4692a4ee704",
+      "before_bytes": 1311933,
+      "after_bytes": 1304193,
+      "before_sha256": "7b76354712927f0384d80990e4239cf12c2654cb33a691e68e5095667f13ca5a",
+      "after_sha256": "ae8b0e723731b9aea643623b4cb89694c4780a53e28597317feeff8fdef8dc61"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 72895,
+      "after_bytes": 72895,
+      "before_sha256": "a822448c324c4ca707fcaabfd133a297936107f8d2fea401664f3719d6d1f056",
+      "after_sha256": "a822448c324c4ca707fcaabfd133a297936107f8d2fea401664f3719d6d1f056"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 29081,
+      "after_bytes": 29081,
+      "before_sha256": "ade61b148e6a2a161753a10568f6f66868d88a7377790975b8af90b8f1ae0abe",
+      "after_sha256": "ade61b148e6a2a161753a10568f6f66868d88a7377790975b8af90b8f1ae0abe"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 133178,
+      "after_bytes": 133178,
+      "before_sha256": "b026a2c750fe09f6a6a25240be7ca7736f9d98b19fe748cdb515293911b304e8",
+      "after_sha256": "b026a2c750fe09f6a6a25240be7ca7736f9d98b19fe748cdb515293911b304e8"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "bca86b3bf5da80815320308994f5e4b8bbd73c026ede0de30acf2bcb467650c2",
+      "before_bytes": 665268,
+      "after_bytes": 665268,
+      "before_sha256": "c5b53baca8a2a0b7e754e31d336e192837547a99395a052f682e5cd9435f47b4",
+      "after_sha256": "c5b53baca8a2a0b7e754e31d336e192837547a99395a052f682e5cd9435f47b4"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "6c5a29d203984ebaa9445182cc261f4655cc2c2dd1da2c44a62f43cef57f9195",
+      "before_bytes": 343497,
+      "after_bytes": 97811,
+      "before_sha256": "382608d92e0ae361c19f7c3d983a22a28475020b65b7f225af4603fc50e2fb47",
+      "after_sha256": "89a7fb86bd686fcab370133ad86dfcaa70e6d782b42addfa58ffeae90b432019"
+    },
+    {
+      "path": "FurnaldHall/NA_FurnaldHall_8x5_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "804388ac0c560a914d0b2dc6fc248861a8bed0a93724715e59ea635150c0cb48",
+      "before_bytes": 982629,
+      "after_bytes": 982629,
+      "before_sha256": "e9b6e2f00734ba617dee8d6926a481bf3ad90dfd7a07ac21b0999ae9fce304eb",
+      "after_sha256": "e9b6e2f00734ba617dee8d6926a481bf3ad90dfd7a07ac21b0999ae9fce304eb"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "6ecdd425bffe8f99fad812fa6677bf02c95c8d0b81629feb5d3d38e9f258cfcb",
+      "before_bytes": 2896351,
+      "after_bytes": 2896351,
+      "before_sha256": "998476cc9ae8d237a9b338fc97d9ee9bcefa38d6f8dd8f6c97eaf5f1de5683d8",
+      "after_sha256": "998476cc9ae8d237a9b338fc97d9ee9bcefa38d6f8dd8f6c97eaf5f1de5683d8"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "8d043db082e6b79d8ee05fa36196c4dbeb6d21a272928f82babacae18752ce83",
+      "before_bytes": 311298,
+      "after_bytes": 77827,
+      "before_sha256": "3fdd1d4b0a46807b3e5eefac23bf05d5125d41a44ec3b48b8d97d044c3c454d0",
+      "after_sha256": "fcd7a152e56f7864e0db6c06051548402be6168226e0953da37462632ba7941a"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "8ba31ad1ff273ce8e91a138768242873e425b667dd7867b369c5db74c6a09f29",
+      "before_bytes": 306962,
+      "after_bytes": 75945,
+      "before_sha256": "789d63d1da8da1796a37336cf20e7ef29c95f358e16c4bb510fce633d8be2576",
+      "after_sha256": "7db0a58351ad791823d5a920cb30ebf3ad64151e7562b1ffbcda40c52d647859"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "d198d6d43152ee7730ec7b9e3ff263fd8c802bdde76af4665c4089dea1177840",
+      "before_bytes": 1353277,
+      "after_bytes": 1351751,
+      "before_sha256": "b5f8c5665b6a0f3432bcbce089dc15f44d90c40b0662393121c9d1b26e6ae417",
+      "after_sha256": "92be67b9686eef08fc2c76f33c7e50dbadfab8e72a017b982eef54f3b02a5bdb"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 91395,
+      "after_bytes": 91395,
+      "before_sha256": "ac6c2ae5926dc05e611b9995a688adc4c3d13620e0c40646b9603b0a6f0b772d",
+      "after_sha256": "ac6c2ae5926dc05e611b9995a688adc4c3d13620e0c40646b9603b0a6f0b772d"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 34424,
+      "after_bytes": 34424,
+      "before_sha256": "169d88149768cefde2cafbda6438267f2d5c6a7c73af19f9dea7b8fe46948a89",
+      "after_sha256": "169d88149768cefde2cafbda6438267f2d5c6a7c73af19f9dea7b8fe46948a89"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 135163,
+      "after_bytes": 135163,
+      "before_sha256": "2f5f4425ba37b96ef08f5d7f6bde74a1078970c56ba855d4f5e859e06f9154ba",
+      "after_sha256": "2f5f4425ba37b96ef08f5d7f6bde74a1078970c56ba855d4f5e859e06f9154ba"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "e313a9d3b85b79c8a8f41036d166b2834885d81822832638f25767fc31f6ff1a",
+      "before_bytes": 681959,
+      "after_bytes": 681959,
+      "before_sha256": "7547a8944becb39d492d92a702c605e6083a7ab4327017a65c3b582bbaad68a9",
+      "after_sha256": "7547a8944becb39d492d92a702c605e6083a7ab4327017a65c3b582bbaad68a9"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "a12e7478cf767c9d114866253d1e811078cfe56d4df0d000cf1a7651cceaa901",
+      "before_bytes": 332092,
+      "after_bytes": 90653,
+      "before_sha256": "e144166805ed5f914791fde95ee95690b82dda7a4293de395cb55b38460cb390",
+      "after_sha256": "9ea571a0c4d799fc7d1001e4484532625037e4bfd0b3654f0e4335ce6b1ba079"
+    },
+    {
+      "path": "HamiltonHall/NA_HamiltonHall_8x4_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "cb3d977c11ec037c3c1699eee6f19e07a2d6141cc58110a34e5172d4ed67feeb",
+      "before_bytes": 960076,
+      "after_bytes": 960076,
+      "before_sha256": "39771605598791306cb9eb5f0a6256f215dd0462b604017ea17427533ddd6555",
+      "after_sha256": "39771605598791306cb9eb5f0a6256f215dd0462b604017ea17427533ddd6555"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "3e1a09fc8dfc2d01e747fd164e1ab6801b6e792763fb7d148a11028d842f1437",
+      "before_bytes": 2714524,
+      "after_bytes": 2714524,
+      "before_sha256": "3066c32144860db773ff4dc9ffcadf4fb912f5c17a23154a19847fd0207ead3a",
+      "after_sha256": "3066c32144860db773ff4dc9ffcadf4fb912f5c17a23154a19847fd0207ead3a"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "27d0f84c39fa04fa6576fe9b2b60ea3ac05f9fb9915ff8fc5442c4ef224f4c95",
+      "before_bytes": 312025,
+      "after_bytes": 78311,
+      "before_sha256": "3f407bd8775f2e31e172b0aba9f1babab8dc9e6f40760edda88cddab13489687",
+      "after_sha256": "98ac40fd5dae34500cb686b6b33c1ea9aa8fe1f2bfba2295553b88e8b506a8b1"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "15d96f94f6377b23d967dd4d32d5081292d49a3bdbbcab5bb283b537b829ffbb",
+      "before_bytes": 308526,
+      "after_bytes": 76020,
+      "before_sha256": "e2e32d91bf13aaeb326d4993c725d41e6fa9b364ffc75b2be72db12dc529113f",
+      "after_sha256": "7ecf51c930c4fdd1a5eaf4c348e9638678df7808065ddec9c8f46f4188e6fd85"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "c67c20884c77ee035b205958c97ab138976b27f69df319ee48365d0d1a9d8dad",
+      "before_bytes": 1408758,
+      "after_bytes": 1402946,
+      "before_sha256": "f2cb5db77be2a38c261f0fcebf5a6906bdccfa52ead0aed226f7edd19fb6ff37",
+      "after_sha256": "865baa66456ed39d1050e7bf84092b7d8f504e7bd46bcabdedffcb4699a6c15a"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 87865,
+      "after_bytes": 87865,
+      "before_sha256": "d76bc38b720d030ba2a7f3c78c94d167014965818ae7394c12a999fa68a73746",
+      "after_sha256": "d76bc38b720d030ba2a7f3c78c94d167014965818ae7394c12a999fa68a73746"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 31318,
+      "after_bytes": 31318,
+      "before_sha256": "9d1d643c6de6d5ada07804b9a319ae401ce1e4b69ec6a08d29676678bf2f4804",
+      "after_sha256": "9d1d643c6de6d5ada07804b9a319ae401ce1e4b69ec6a08d29676678bf2f4804"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "73b87ab3c40ffee2292625a426db6e71aed236b2aa4d992e4155127f8d5f27d3",
+      "before_bytes": 176095,
+      "after_bytes": 111641,
+      "before_sha256": "1278de0b3a005fe3d14d60acd6fcd8fca9f30cf3346ad7dc2890e1dc4a2bb492",
+      "after_sha256": "a7f0b75bc14073e22558b9de70196ce3277d574f270a5f2bd05b9109ad2d5c97"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "8e71cc83dad3108aff924fc320fa547dd96d0886f72f11484e793a1d471d1ac6",
+      "before_bytes": 595794,
+      "after_bytes": 595794,
+      "before_sha256": "1c9f9f03add17100f0161d2dce74a15fc6e302c4a788be7e3dade05c363d2c5a",
+      "after_sha256": "1c9f9f03add17100f0161d2dce74a15fc6e302c4a788be7e3dade05c363d2c5a"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "c01fd431bfa294cdb070424f33b1b4a2a0f613504aa0bc5100cc989b63add230",
+      "before_bytes": 336821,
+      "after_bytes": 93364,
+      "before_sha256": "78c03a339aa85bf09e96ea214cb0347cb6797e2ae6541c72ba6e3b37d7382369",
+      "after_sha256": "dbd7d6d831f641f557380f41b85ad8f5a806689dd3caccec4cda7ae1c2b84072"
+    },
+    {
+      "path": "HavemeyerHall/NA_HavemeyerHall_8x8_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "a3965b46a06ce097f64a7079cc5e12bedf1831ee2453949f7924b6cc429d3bb9",
+      "before_bytes": 822274,
+      "after_bytes": 822274,
+      "before_sha256": "143967cb215606a66c0992defb6d316a032a51c8caadc4260d7b6697cdf90001",
+      "after_sha256": "143967cb215606a66c0992defb6d316a032a51c8caadc4260d7b6697cdf90001"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "0db8a32a26064f2943a3a9775c1806453d339328e7558cef9bc0db3759da812f",
+      "before_bytes": 2126621,
+      "after_bytes": 2126621,
+      "before_sha256": "fae41a05de7367b7e7d495287d1dbef36bd73ecc341acec7dda0a5782ecd38f9",
+      "after_sha256": "fae41a05de7367b7e7d495287d1dbef36bd73ecc341acec7dda0a5782ecd38f9"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "12881e4939ff386740002bc5e90536859963b1ea22e99b2c1206c7f59a89793e",
+      "before_bytes": 312104,
+      "after_bytes": 78458,
+      "before_sha256": "1bc6369c0b0a779a9b21cf1c419bb22ef80c2478c80a542df5333b2c99e30a93",
+      "after_sha256": "b7b7955048c4f2d4b2f8b5047c22da73565cbcd456a630c6bb7c95f1796562c7"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "9f9e9f209aa398014948e05e4d5dea91e92e7d89be964aac82e36bf916533e66",
+      "before_bytes": 308411,
+      "after_bytes": 76049,
+      "before_sha256": "54a76083e317b6fe76c86a738892b5e2ae65a0c23bf27d483f2d74744b899581",
+      "after_sha256": "703f575d72a17bd0a2f87d765e582b0f3f325ad7fb084a608555afb9aecb7bc6"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "84b7959eddbc1ee7a72feea56df5b09d7f603cad7dbeae281007bbe7a5dc93e0",
+      "before_bytes": 1270865,
+      "after_bytes": 1270865,
+      "before_sha256": "2d0d8f55db2f3c5381ea519c0c7ef6e3d810f13ddeea4f18a9dec072c9603848",
+      "after_sha256": "2d0d8f55db2f3c5381ea519c0c7ef6e3d810f13ddeea4f18a9dec072c9603848"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 95190,
+      "after_bytes": 95190,
+      "before_sha256": "f53c1ea821a8178a0e535339656cbe181d698d0f3470ca014329bd45184e85b6",
+      "after_sha256": "f53c1ea821a8178a0e535339656cbe181d698d0f3470ca014329bd45184e85b6"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 34147,
+      "after_bytes": 34147,
+      "before_sha256": "1fe8e96d13b918dfae377189414ec957d18f44bbaf1abb71c3517497254583e4",
+      "after_sha256": "1fe8e96d13b918dfae377189414ec957d18f44bbaf1abb71c3517497254583e4"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 142482,
+      "after_bytes": 142482,
+      "before_sha256": "21388e56bba510752826d67f094d3ad38c902dbb157b2277bd7f4a8dbb5feb48",
+      "after_sha256": "21388e56bba510752826d67f094d3ad38c902dbb157b2277bd7f4a8dbb5feb48"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "c67fbed19b41ed56e23745b213344136f6affdebf4160d92de1982a3372da3da",
+      "before_bytes": 542756,
+      "after_bytes": 542756,
+      "before_sha256": "17be88d430a4dbca6b2ae9fd3fa24cda2dd01d67d68c74ece3b159c3a3cbbf1a",
+      "after_sha256": "17be88d430a4dbca6b2ae9fd3fa24cda2dd01d67d68c74ece3b159c3a3cbbf1a"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "291475dfabdaabcba174f4f9d31539f2b289a280349f99a0689661e8d6b2f753",
+      "before_bytes": 323838,
+      "after_bytes": 86803,
+      "before_sha256": "3e174d469dc3e6a2f7b81933f036460c556abe6ea51db7f2d01067302844b231",
+      "after_sha256": "062df3c417353c6cf5f531e5f71e1f46689074ee0807b155cd083d7804a46938"
+    },
+    {
+      "path": "JohnJayHall/NA_JohnJayHall_8x4_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "a04ebe77823195cb9eef6d7a9514186c5289a613947c25db7e45088abbe3a12d",
+      "before_bytes": 571388,
+      "after_bytes": 571388,
+      "before_sha256": "6875880189875cac55c2d9f064bb7bcae74a61ee6a29b4d21ab20afb99d892b3",
+      "after_sha256": "6875880189875cac55c2d9f064bb7bcae74a61ee6a29b4d21ab20afb99d892b3"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "f11a1ab9bb0f49bf6c0e0b01f8b3c90de6872cc7d40b404ed0103635c3aaf469",
+      "before_bytes": 3714006,
+      "after_bytes": 3714006,
+      "before_sha256": "c7fcf2483ce2f717eb9cc9c7e90402d536913b2880801fe4e7e03762aee2d62a",
+      "after_sha256": "c7fcf2483ce2f717eb9cc9c7e90402d536913b2880801fe4e7e03762aee2d62a"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "8a242dd2071c4b5914b15578d0af32260cf26599fd489fe2254b7a6d7ce73159",
+      "before_bytes": 312429,
+      "after_bytes": 78425,
+      "before_sha256": "207e27239c53dda325bde43a80931cb4dbf7e8b2d70fa24c8c35e327ef60bbfb",
+      "after_sha256": "c73dd32e173eb86f46ac65a1176a463818aa6c6c75b5a83c482d30c8f968ee10"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "945723af8f9015097c6c54283a1ad58b13f8dd0c94258cc243b9944427901eb3",
+      "before_bytes": 308022,
+      "after_bytes": 75909,
+      "before_sha256": "e6b9d026402679ae6bfb9eb294355dba125dece5725e46d22fac948cd9eadfb6",
+      "after_sha256": "956997c7f3147cfdcda64cff77ae70d76052e968126065ea2786e4bb84c44dd0"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "7b518f7901b6528cafd1008280ed0dc6e1565249b892ab555ed8195ce341e96c",
+      "before_bytes": 1312360,
+      "after_bytes": 1304670,
+      "before_sha256": "8ca48973c20cf7616b350fdd0d34e688c6ba9daa4c1427fd07ec833d69556b63",
+      "after_sha256": "a45c23c25b332a6a929b813131bdc1d99966b2c39d1f5b322db6588a0ab6c870"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 80809,
+      "after_bytes": 80809,
+      "before_sha256": "f967ac7bdaa172886c48bf8a6598d6e172ce8f4bb8a76369bdee4005629d5c5b",
+      "after_sha256": "f967ac7bdaa172886c48bf8a6598d6e172ce8f4bb8a76369bdee4005629d5c5b"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 31410,
+      "after_bytes": 31410,
+      "before_sha256": "9f55ab6e9ed5097caf62791cf3671d708dcfe7c069d44de6b2985fc914bcb9f2",
+      "after_sha256": "9f55ab6e9ed5097caf62791cf3671d708dcfe7c069d44de6b2985fc914bcb9f2"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "a53db5356cfc0c423197502c199b6fb66b44ef4d9d7a8d9b394769deb60ff377",
+      "before_bytes": 176933,
+      "after_bytes": 110349,
+      "before_sha256": "b5130023a3bac7bfed50cfca1dd6408c8f690de5efefeae42b99d0be7a766f8d",
+      "after_sha256": "1a962e451bdf8933a71f02f0f8f8b304621b83ba87cd50fe7e05f5d1ba598c61"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "a39dbda889e6782acb8b4b4c86b0425728179db31c200166660c0f6150cda85f",
+      "before_bytes": 713326,
+      "after_bytes": 713326,
+      "before_sha256": "bffa805b1be927bd493b0605436996ca37ec4696669e7d65c49a51d95aa35999",
+      "after_sha256": "bffa805b1be927bd493b0605436996ca37ec4696669e7d65c49a51d95aa35999"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "0264bb80f9b483bcc9444257493edbaab0c1c4fca25f4fdd9e0da3e0534eb6f3",
+      "before_bytes": 365482,
+      "after_bytes": 110107,
+      "before_sha256": "e860babd5a90805d6f4f14bf60b25c6584720fb4068681a1fc86289ed61b7ec3",
+      "after_sha256": "f02daa76673986547eebc3296d73d3333078aeffaa9e8e8116d7be5ce0699a84"
+    },
+    {
+      "path": "KentHall/NA_KentHall_8x4_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "e271bcc768f0b333a09078d99742f1b776caa5585d0fc4adf85393519001a8cf",
+      "before_bytes": 1306940,
+      "after_bytes": 1306940,
+      "before_sha256": "83367b7490b801f6fd416622ba862399948d1bea86e02befcd72f10f89f5a247",
+      "after_sha256": "83367b7490b801f6fd416622ba862399948d1bea86e02befcd72f10f89f5a247"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_BaseColor.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "353d11761052e9f13ef1835e02ead4dbac53761d927a47e9607f1bb6d8b1d75a",
+      "before_bytes": 3504882,
+      "after_bytes": 3504882,
+      "before_sha256": "0ea660edea73b5237a1ce7b8b79098e1ff543882737473cf89dc6390ebd611ee",
+      "after_sha256": "0ea660edea73b5237a1ce7b8b79098e1ff543882737473cf89dc6390ebd611ee"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_ControlMask.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 41036,
+      "after_bytes": 41036,
+      "before_sha256": "4e79f3d843b259c239cd8b94efc8601ba3984719aa38e8d8844a6f64732f6b13",
+      "after_sha256": "4e79f3d843b259c239cd8b94efc8601ba3984719aa38e8d8844a6f64732f6b13"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_Emissive.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 21233,
+      "after_bytes": 21233,
+      "before_sha256": "03937270bf28203b87786e0a667bc030f6af2e5b286e28a89196205232946476",
+      "after_sha256": "03937270bf28203b87786e0a667bc030f6af2e5b286e28a89196205232946476"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "204333e373635ec9e51d65560cda41682f44b403c2b8a1c0d756198d81304973",
+      "before_bytes": 1220138,
+      "after_bytes": 1217847,
+      "before_sha256": "0c205dc0c46321437376a586609675bcc85b47509bf67a97354bdf8c3d0625b4",
+      "after_sha256": "b5aef10365af832febd92e526c30766c3c95515096d629fd2d746b18d44ff574"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 89613,
+      "after_bytes": 89613,
+      "before_sha256": "2731a9b5960c9262ce3fbb309ba244c430c80bce280929afa9ff250292baf5dc",
+      "after_sha256": "2731a9b5960c9262ce3fbb309ba244c430c80bce280929afa9ff250292baf5dc"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 30759,
+      "after_bytes": 30759,
+      "before_sha256": "989d5130c076c79a2c64ee954a853b6d90178902cc49edff4fca241f4a56027b",
+      "after_sha256": "989d5130c076c79a2c64ee954a853b6d90178902cc49edff4fca241f4a56027b"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 81260,
+      "after_bytes": 81260,
+      "before_sha256": "6c4f4724366a1427ca7d7c984d0aaff985a71b3573efafc6f740461335dc3752",
+      "after_sha256": "6c4f4724366a1427ca7d7c984d0aaff985a71b3573efafc6f740461335dc3752"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "5f2749e2068ae3b6fdd53ac48510c3487960a8c05bf24b9c16c1abe7b42ad6b2",
+      "before_bytes": 497537,
+      "after_bytes": 497537,
+      "before_sha256": "336a3db316d13cc78522631c17bced958af1be7463b7e6519e69c053fcadf845",
+      "after_sha256": "336a3db316d13cc78522631c17bced958af1be7463b7e6519e69c053fcadf845"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_MaskMap.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 42616,
+      "after_bytes": 42616,
+      "before_sha256": "adfce40e1a5fd14320c7bf3346ab9cdf035bb3e9df51d6732ea96c7443991359",
+      "after_sha256": "adfce40e1a5fd14320c7bf3346ab9cdf035bb3e9df51d6732ea96c7443991359"
+    },
+    {
+      "path": "LernerHall/NA_LernerHall_9x9_Normal.png",
+      "size": [
+        2048,
+        2048
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "1abba2e9b69b92c6b978a7e4d8e31a085e1137fd1605ba34593dbea8e4bc598a",
+      "before_bytes": 2515292,
+      "after_bytes": 2515292,
+      "before_sha256": "c91ecfed103e00a3c9392187c9fb143b3b9f2efec35d8385129b1f42d5e38f9c",
+      "after_sha256": "c91ecfed103e00a3c9392187c9fb143b3b9f2efec35d8385129b1f42d5e38f9c"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "d9e8b5695ed817c75b934d0eac9298e33d989d8e5327c3dceee8c8de51b455bd",
+      "before_bytes": 4571097,
+      "after_bytes": 4571097,
+      "before_sha256": "d5d349f247f37a8eb0fc9166c8303faeee6918df09c697adccad0823bfd94a78",
+      "after_sha256": "d5d349f247f37a8eb0fc9166c8303faeee6918df09c697adccad0823bfd94a78"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "dc78852030d458119cb44e136babc5ddc0c2d4e44b4e838830ff8ab9bb490d4f",
+      "before_bytes": 312360,
+      "after_bytes": 78183,
+      "before_sha256": "0cc33feaf8bfa9a7160f7081c29bb01d0e9b56c51385f2129592232e5331fe40",
+      "after_sha256": "9396db00448d249272b0b9af19bb4a03460988bd7b037bc6b6b08957889d2a85"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "a6c15797eeec4c4aff73ef35b976f996dd3ced4cb9895dafefdadffb751ee6b2",
+      "before_bytes": 308042,
+      "after_bytes": 75871,
+      "before_sha256": "7ab95b8ba5f18cb5117e4b9acae65e479fd9a05a2108a34a5f3e0aa8f4297ba0",
+      "after_sha256": "3881bc41bcb110c85a4cb2ca8a1afeb5da6ab22c611de4657e9358a15abeb886"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "34447ebe9e10c0cec9c0de4fe4fdf278177175081cee9361fea22240add3aa77",
+      "before_bytes": 1355197,
+      "after_bytes": 1335294,
+      "before_sha256": "b38418e0ca4df5f7a8d57de695af0ba3a77bcacc33e36624ca4d6b1ad0c12cfa",
+      "after_sha256": "59bc8b578a0fd291f296bccab892c37f981222c346e7f66e428507c1a00e5e5f"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 92932,
+      "after_bytes": 92932,
+      "before_sha256": "3bd5250a866d81a9654a4592148fa95bafcf583a0351161ffd60f3764fb6f695",
+      "after_sha256": "3bd5250a866d81a9654a4592148fa95bafcf583a0351161ffd60f3764fb6f695"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 31581,
+      "after_bytes": 31581,
+      "before_sha256": "128a7c135d74e372f6066ec6ff49e43960abcde713c5fb09c3677efedad72ddf",
+      "after_sha256": "128a7c135d74e372f6066ec6ff49e43960abcde713c5fb09c3677efedad72ddf"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "f8fe875960537267a4a134638bf0b6304341ab2dd8388c5aecb430ba69a45b5b",
+      "before_bytes": 202254,
+      "after_bytes": 129208,
+      "before_sha256": "89033058ab19cd6c976864a26b7f1b406b12f2aa0432b8238f394b3befe698e1",
+      "after_sha256": "2cbe89b25469ebbb13bb7fca3615ac8fc8683ade9cf1ff7d852fad95fb37f8bd"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "6c7496e8ca03ba91cc69d9c392f1040d53e5831833d71a3a162751f80a8e9686",
+      "before_bytes": 740189,
+      "after_bytes": 740189,
+      "before_sha256": "eb9b60397973a6e4638b88b62f78a1e2186adfd79f169a3031e638e6081388ad",
+      "after_sha256": "eb9b60397973a6e4638b88b62f78a1e2186adfd79f169a3031e638e6081388ad"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "8f662dfd3d6a63cb3b23071caaa8cb8a3c285cf7c42dd82b49caa4cea23dcc44",
+      "before_bytes": 377487,
+      "after_bytes": 117783,
+      "before_sha256": "fb03a8d194cf19ce34280ad5cc8bf2bd7d3ffe78ce356a159790d2a93bbf4b78",
+      "after_sha256": "8e6670b72b9eac8be1f64966cc5fd540facc48d06c2319b811fdc2cca3ac054a"
+    },
+    {
+      "path": "LewisohnHall/NA_LewisohnHall_6x4_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "61dd20338dbeb791a1a217e3e3bc9e557ae8ebb013feffa4eccff1abe6083db6",
+      "before_bytes": 1595422,
+      "after_bytes": 1595422,
+      "before_sha256": "1b729fc36ae11382752ae0ddd4174fb604d8159d42eefc464f164860abe8efe7",
+      "after_sha256": "1b729fc36ae11382752ae0ddd4174fb604d8159d42eefc464f164860abe8efe7"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "138b886fee6f494c57a51225386a02f3f5664d37969b3dab3fe25e5887a44010",
+      "before_bytes": 12034620,
+      "after_bytes": 10152056,
+      "before_sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+      "after_sha256": "0b19cfb7c34c506f3c1848b4a41c6ef76db76fbda7a882ddc95988d76b439c37"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "170d30fe7635d6d7e00f84acb86def16bfd91cd5bcb494a20eea3c1b8a0dad99",
+      "before_bytes": 322231,
+      "after_bytes": 83717,
+      "before_sha256": "aad6ade0155a5547e7c1d0220dec1dcf886c82028cb3f36604e5a43471db78b1",
+      "after_sha256": "83d57c290e85e64f095d3ab11cea87bd6e633ec55d1bed352777a4676ab16d3c"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "dbb3994ebb7ebae067d6ee0a4a645bc5d7dd9c07326d60724c41f33c3398d35f",
+      "before_bytes": 308787,
+      "after_bytes": 76265,
+      "before_sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+      "after_sha256": "178670d5dd858a4705c2dd011007ec3d156ee7baf86e147ae4cecee36fd9c2f1"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "c4967ae4a3202ad3ebccc41b55f1d0ba32c74b4abc433bec8a794cb526a353d9",
+      "before_bytes": 1534242,
+      "after_bytes": 1357730,
+      "before_sha256": "1117a940b90dfb8493c7ab205b411c686b2ad878aaa5ff85fe4bab63dd8a3fe4",
+      "after_sha256": "773dcfac32f722665766cdf7703f22c016ea5654d825c6be00e0de193b178cd7"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 77957,
+      "after_bytes": 77957,
+      "before_sha256": "8ded455694f1f0ac4d45975110d8320b036fa8e7365f61607dffcb2d8e3660cd",
+      "after_sha256": "8ded455694f1f0ac4d45975110d8320b036fa8e7365f61607dffcb2d8e3660cd"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 24984,
+      "after_bytes": 24984,
+      "before_sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460",
+      "after_sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "84a61bca03e59ae407783b8c4e8a137366f2efbdfdf567dfacad25379e3c4c0d",
+      "before_bytes": 231309,
+      "after_bytes": 142917,
+      "before_sha256": "4fd3c1f845e238298408ad5801ee49396601256c51686573d3cd90d597e7c17a",
+      "after_sha256": "fa8d5c99a6d2d33ec0a2b376fc868cd08656b98d969ceb7c07ee90ae9d3c835a"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "c64057833b85b7f5ca03a513696aa1b85e4e96568421d79ecde283a1ea16f756",
+      "before_bytes": 928267,
+      "after_bytes": 734138,
+      "before_sha256": "b912ca39930cbce6d2add1cd588c78290e784994a14b8bf0b6305a9e1cc80c3e",
+      "after_sha256": "94efcf87900a975f7e8dcf71ec3e3bc294ec598fa347d49d4f79ec92f5c606f8"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "d6a285bd74b5d606acde68142d3d7babe5d976650f236bd6faf9165d79ceb561",
+      "before_bytes": 556503,
+      "after_bytes": 228280,
+      "before_sha256": "3f62224943fe2a7e20b6d386ae46ea0a8ae44a89bad5216814e19d0eae827eeb",
+      "after_sha256": "40935919d6c120e7b714bd999a93785b6b4f555be542071a28b87cd9936ebd8b"
+    },
+    {
+      "path": "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "39a0a4f4c01ea138a5a894b8199438251e52e70c83578fc7144feb1d0cd4d1ba",
+      "before_bytes": 5200720,
+      "after_bytes": 3697590,
+      "before_sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+      "after_sha256": "02c5e5869f146ea6fdee1a6e9c18ce7d96743b7c2846dca391f28a37def054c6"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "1c4329bba7338e6f4e2b4e2acc8e71110726f72b6e6196af40b20c79f4159dd5",
+      "before_bytes": 4280724,
+      "after_bytes": 4280724,
+      "before_sha256": "92e6129d13fead2f4ea8550ea9437b69f0fdf92dd4aad9a8f3a9d25579edf50e",
+      "after_sha256": "92e6129d13fead2f4ea8550ea9437b69f0fdf92dd4aad9a8f3a9d25579edf50e"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "f9abb135e2a0b06cc19d0a77d1b6190e42e8eb0a18454000c21b3db9c80f10bb",
+      "before_bytes": 309097,
+      "after_bytes": 77014,
+      "before_sha256": "a551b7190af56b8bf9467aaf191febb740e88ad1db6bded5c459e15c538d2b78",
+      "after_sha256": "a9ab85ef6d2ef13b7616adb9b55db4c1bc550e66bd344acc52e6b46ddc58b7c3"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "8bcaf3bb5c875dff661df6a75e2d819181f714fd66c83e0d4fad30b76d3ada86",
+      "before_bytes": 305878,
+      "after_bytes": 75951,
+      "before_sha256": "cb422681c06da96083cce3e44a38bc26b34a3673eee72f188111daf35695af89",
+      "after_sha256": "9a5c95badea2cc51642c9638a5c1b9114a1508eeeb8761ecdb6c0d808671ea59"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "391c22a9f02263cb102645fe6ff9b4a0771017f66d7d62cc9dfb8c55053a9d31",
+      "before_bytes": 1165806,
+      "after_bytes": 1158864,
+      "before_sha256": "f7ddb9ff9fac4fb5853b49157e8b1f2e1c7da3ade71fb02e1e33d0f154c695e7",
+      "after_sha256": "824e68aef4bc7f0120c63d0d4819dbf7605feba2a54ca7446dca60193d7022bb"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 62715,
+      "after_bytes": 62715,
+      "before_sha256": "7eddf210957d569fa0e1b88179ac51b874d02cfc2996523662f1927fc4779463",
+      "after_sha256": "7eddf210957d569fa0e1b88179ac51b874d02cfc2996523662f1927fc4779463"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 26528,
+      "after_bytes": 26528,
+      "before_sha256": "72043bbd91c3ea0b3cf58135b85789499ffdd0bbc49240072214c7d714d98490",
+      "after_sha256": "72043bbd91c3ea0b3cf58135b85789499ffdd0bbc49240072214c7d714d98490"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 112891,
+      "after_bytes": 112891,
+      "before_sha256": "0967cf53e225cdb7b02b441b6142bd661ad7bfc0d7af6fa782495e9f874b747f",
+      "after_sha256": "0967cf53e225cdb7b02b441b6142bd661ad7bfc0d7af6fa782495e9f874b747f"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "e9c71d54a24a27b7db98e14c637f2b7de6b0a931700819d57e3fe46348f51bbb",
+      "before_bytes": 615817,
+      "after_bytes": 615817,
+      "before_sha256": "c9e9004c66affc8b09972c5acd8e3430fb0648969a6a38c088a8726dd282904c",
+      "after_sha256": "c9e9004c66affc8b09972c5acd8e3430fb0648969a6a38c088a8726dd282904c"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "1af5cfc0bd45923b1847f8cfdd7df6c1b57c572105d5d2bc5fbe4c3aff40ddc4",
+      "before_bytes": 370785,
+      "after_bytes": 113904,
+      "before_sha256": "4d6b316ade3155853abc459f70eeb7d7287c79a442411da6575d6c345fd4d772",
+      "after_sha256": "0214b9f48e7a3c50cf6466413cd1e5bef6f1749e1d14b9951a05e6072f07b61d"
+    },
+    {
+      "path": "MathematicsHall/NA_MathematicsHall_7x5_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "650993f79a1e318ae4febba5416edb64bd0a7a36651c40f218c2a1abacca2e18",
+      "before_bytes": 2045126,
+      "after_bytes": 2045126,
+      "before_sha256": "5f7b57fd9082698dbeabf173f6e1d3801b94ab89e41e41b85474159fb8fee97c",
+      "after_sha256": "5f7b57fd9082698dbeabf173f6e1d3801b94ab89e41e41b85474159fb8fee97c"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "81916af8739832e7ad9764720f8e7f4bb6dd86e9c28dae5aad6cdb5b04099d03",
+      "before_bytes": 4081214,
+      "after_bytes": 4081214,
+      "before_sha256": "22bc2dc2d234102b6bba55711ca9b54c2a67672dab026c8caf6c3565e201421f",
+      "after_sha256": "22bc2dc2d234102b6bba55711ca9b54c2a67672dab026c8caf6c3565e201421f"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "cfaed7b6fbd26b027f5c69f0555235e9c7d9b560a6c8b0170fc2a35ccc2f78e1",
+      "before_bytes": 312193,
+      "after_bytes": 78080,
+      "before_sha256": "802d12ca6b4f18213841c072f79e7e0b1aa50aaf2543b1287e5a7b3bb8d6e21e",
+      "after_sha256": "2b5d62f96255759952e29bd05fa2164e2028799eda885e29bda3c992e5facb24"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "10c003a431c41959f652917e4193b3b0040b8b745d0e3f0275765dcb7bd4fe44",
+      "before_bytes": 307043,
+      "after_bytes": 75921,
+      "before_sha256": "eced134564f786018534d0ee3a866ed9a1a525f0e833d4f474da41fc0a50b186",
+      "after_sha256": "2c6171534bf8f0a5e27128daec56455566692149026fea9c465a631316348612"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "1b56974afef2239312797c093450f3747f50b42ef944f9f4c66a69bfe4e9f6c3",
+      "before_bytes": 1287715,
+      "after_bytes": 1272659,
+      "before_sha256": "cd9db18a6755b17a227a7befd41a9c9ca58583b214dbda75e7fc61be594da799",
+      "after_sha256": "cc78e7c65c98365a093bf4e0345a6910e19bf63ef26109e4c335ca4783f16f82"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 93497,
+      "after_bytes": 93497,
+      "before_sha256": "2ac9462ddde14f66f52c1beb2a25c45d0ff316c29936ba6060d8640944b70300",
+      "after_sha256": "2ac9462ddde14f66f52c1beb2a25c45d0ff316c29936ba6060d8640944b70300"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 33359,
+      "after_bytes": 33359,
+      "before_sha256": "2f9f212e3c87a3918635343c36bebedf55779a3ab611f02bf7af65c9441a90de",
+      "after_sha256": "2f9f212e3c87a3918635343c36bebedf55779a3ab611f02bf7af65c9441a90de"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "144514c6832a0dce074e1be835a3e759be0b607df16bb8382ed9aa9bce0ac4c6",
+      "before_bytes": 193486,
+      "after_bytes": 126099,
+      "before_sha256": "3aadfbe5bb7fe354949fb84243fdf2d609b2be434e089fa81439eec307dee53e",
+      "after_sha256": "6d0982032af1ad267d6302a4cfda09355bc6db75628b1f7ebcc7f4095312755e"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "64c35bfa0e5dddc8f9f4704c9ffbd1c803087103f6c803b871143d607d690942",
+      "before_bytes": 704179,
+      "after_bytes": 704179,
+      "before_sha256": "42eee53e1b0ab74985bbd7b96c3482acbc95b6b3ba6909807f6b3ff6758b8cd3",
+      "after_sha256": "42eee53e1b0ab74985bbd7b96c3482acbc95b6b3ba6909807f6b3ff6758b8cd3"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "54dfbeb90e873c5eb125c6883a0df17b9937ea6112bee1ed94a2571435a9fd26",
+      "before_bytes": 361830,
+      "after_bytes": 107908,
+      "before_sha256": "b99adaeb0e741f73c578af532993896865df56c873da57edf603cabc374642a9",
+      "after_sha256": "3d458c63790872ee01a3dc46d93fb2ae8afb710909604d80df83c2cdf4f453d7"
+    },
+    {
+      "path": "PhilosophyHall/NA_PhilosophyHall_6x4_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "e0d4fc20c9d1336e7d04aefee33af45c371ad44f28c8be6f827d8ced846c6f67",
+      "before_bytes": 1464619,
+      "after_bytes": 1464619,
+      "before_sha256": "f8ed62b6bd67480aeea59bda22181b4aa5de3b1fca0b01c0d733eb0a16d788ac",
+      "after_sha256": "f8ed62b6bd67480aeea59bda22181b4aa5de3b1fca0b01c0d733eb0a16d788ac"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "507d3c6c693d4c4f151f8a7125d1179756a2d59a3a9f3bc414932094bf04e667",
+      "before_bytes": 2007362,
+      "after_bytes": 2007362,
+      "before_sha256": "8b3953500288990f5b595240d4ff40cb9606c2f6f6bd505080a44a650cf223d8",
+      "after_sha256": "8b3953500288990f5b595240d4ff40cb9606c2f6f6bd505080a44a650cf223d8"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "2818685b17d17995826d9cb8f67b4255135b4a55cb0fb29d0130674b77183e5f",
+      "before_bytes": 309574,
+      "after_bytes": 77281,
+      "before_sha256": "91c571587e018d9056d9baca0d490f9b671ed16b0ff167f59aaeb9d135717487",
+      "after_sha256": "cb5e2156cb7d80475bc6ea6db79317fe5f02891d2b58e5bb618665d08381ce91"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "8bc2583798b4780b161a5210f6f819fc314fb8922ae517ffe444e45fc3f9d2e0",
+      "before_bytes": 308525,
+      "after_bytes": 76085,
+      "before_sha256": "4db7a42fcbd7b1a666a67dafa0ae70d6792d4e994722eef9154c5df5ac018ff1",
+      "after_sha256": "91e13f93ad6562b11ce6cb1c055570f970ee4a0e9f8d5c1c26256c66953f961f"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "8e95e209c8035056febd92c30f5e0592047bc018005f7e0867358a502623a5bb",
+      "before_bytes": 1300952,
+      "after_bytes": 1292531,
+      "before_sha256": "09336dee647786ca2e7b78992000a3c8e7bb8cd964c258c6bdda09378017adab",
+      "after_sha256": "8713e3f52fb5056ff64f30b6e039f3af4987c96826efe59231a5461d2ddbacfb"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 109339,
+      "after_bytes": 109339,
+      "before_sha256": "374235c2a22b3bd122f75c31aa09f86d16c598a76e6ac7739ef80103285e2a2c",
+      "after_sha256": "374235c2a22b3bd122f75c31aa09f86d16c598a76e6ac7739ef80103285e2a2c"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 36513,
+      "after_bytes": 36513,
+      "before_sha256": "e2ab1193000079c8f0fa102bf6c139a454d0d4ae386d9309d36a0f72f44f3443",
+      "after_sha256": "e2ab1193000079c8f0fa102bf6c139a454d0d4ae386d9309d36a0f72f44f3443"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "fc4b41052ace836cc16fcedc0b122936c9d8c299b7746da5bec3ddabfae8a549",
+      "before_bytes": 173803,
+      "after_bytes": 110695,
+      "before_sha256": "551d95efeee9547dc2789293701179349499699df3b8ba44943f1d58c5d46368",
+      "after_sha256": "94e428bc722ffcdb1f768386e79eb4203dc4c5c0f3821a71ccd01918f18df1f1"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "e254488aa75f3005e1b1ffc2984bccb32cb4e73a3d4c3eba73f13a3425798161",
+      "before_bytes": 774917,
+      "after_bytes": 774917,
+      "before_sha256": "82417eb2db9df51310fc750e156bcbbbdf967e7ec1cf5067141a48be3afce7cb",
+      "after_sha256": "82417eb2db9df51310fc750e156bcbbbdf967e7ec1cf5067141a48be3afce7cb"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "d18448b8d86c041de20664a32ab5e3110e8ceb9e605dfd2e5dbda4305da9b0d4",
+      "before_bytes": 322853,
+      "after_bytes": 84963,
+      "before_sha256": "3282cb40ac88cd2c1e59999276806e820622cd7dabf0ae5fb08fda0886e1d769",
+      "after_sha256": "8ba4158cb8b72fda81d31d7aeb6a99f4de3a90c0316d30a142c0a52992f88894"
+    },
+    {
+      "path": "PupinHall/NA_PupinHall_8x3_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "c1c223178e633268be76e786163958fa83448f45b026b79a2de72016d5353748",
+      "before_bytes": 582186,
+      "after_bytes": 582186,
+      "before_sha256": "cf67dc519a34699a63f381b5133d9cbd5d5357aec7847c57d3355f37d1851b34",
+      "after_sha256": "cf67dc519a34699a63f381b5133d9cbd5d5357aec7847c57d3355f37d1851b34"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "734a669ac105c4be25f2cb77cb9162384bd57d85a948fff10e057d7becb31e9c",
+      "before_bytes": 4000749,
+      "after_bytes": 4000749,
+      "before_sha256": "ead69007a1e05a0786689f48437850556e0b87ba7de20246b634fdf789a54de9",
+      "after_sha256": "ead69007a1e05a0786689f48437850556e0b87ba7de20246b634fdf789a54de9"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "fe98203abc6fd0d115f01609c7fb4acbfbb8655460cf0520d82f53da56461c02",
+      "before_bytes": 312491,
+      "after_bytes": 78503,
+      "before_sha256": "13782b26c5e6fa5bb8fd2cf60b610641a010a73e1b76bd8a5f68ef6328167e71",
+      "after_sha256": "78f8ce3f38d61f3697e1fc1081417bd415c8b5b369c0c08b2def646efc0a2a8e"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "333b4608eb92d7b4747f7eb632c054cd54c92f9e55ac448063991297cdbb02ea",
+      "before_bytes": 306869,
+      "after_bytes": 76030,
+      "before_sha256": "774e6a3fa19cb6d776f73ecba99d477bf2d782185b291a76f9a2d24f3afbf92c",
+      "after_sha256": "c5599326738d08d4d426326e2ccc26fb0ad669c2322fa3b00ce5596241140607"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "d0111426a3260b8b39911550a2c93b92c20762665cde2e28542a4520b651fd27",
+      "before_bytes": 1310561,
+      "after_bytes": 1299606,
+      "before_sha256": "5b2acfecdc7d47c32821ab0d576a1a57ecdd1febc468b84ef93f20fa53cb29b6",
+      "after_sha256": "ec0a8cf6bfc9539978e707f3d78c3c8c791ccfec813da6faf0f552d3bac0cba1"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 91486,
+      "after_bytes": 91486,
+      "before_sha256": "84db063503746346cecf301d15434fed8a6d7bde6ba15140b18ea98a7613bfea",
+      "after_sha256": "84db063503746346cecf301d15434fed8a6d7bde6ba15140b18ea98a7613bfea"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 30343,
+      "after_bytes": 30343,
+      "before_sha256": "ca9975fdc223cfa331966a159566a1e04cfeadc569eb8f28398bf600357337bb",
+      "after_sha256": "ca9975fdc223cfa331966a159566a1e04cfeadc569eb8f28398bf600357337bb"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "52f0bed79748f9850a28d63a87af75b0a1405008fe9389c24f62d864f8a5ed0f",
+      "before_bytes": 182503,
+      "after_bytes": 118717,
+      "before_sha256": "abe6d13d660c53a4816f51c498319b77fc786a26dcae799aeb6d2fd48c2e14d9",
+      "after_sha256": "6b83511e4cb89d1b369514952f401fa91df97a55692bb70e9f982c0c83f65514"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "134d2d7f50fc060792c131768228083bd97eab1c18a1b89d3e6e456ae50d2699",
+      "before_bytes": 597209,
+      "after_bytes": 597209,
+      "before_sha256": "04e0698e1fa73abebdb3e4a22877c70d9ef2fb56ab5e649fadbe647a2dfd9215",
+      "after_sha256": "04e0698e1fa73abebdb3e4a22877c70d9ef2fb56ab5e649fadbe647a2dfd9215"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "58411243f8e5a7270e439efa60fc6c1f72018871837f18f7498d3c4b54cc7840",
+      "before_bytes": 364265,
+      "after_bytes": 110135,
+      "before_sha256": "155f4b363692729aa8483b0e8ebc3f66866fe97ffc0b438fca883207a645f6de",
+      "after_sha256": "7e3ad3b1afb15139f15df23ab667ca5a2efb37b3608014cd2d19b22f8d3ecfd0"
+    },
+    {
+      "path": "SchermerhornHall/NA_SchermerhornHall_8x6_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "5a66896193ff25b2ce97a46732bcfbe226f83e90e1d298355a4576520e043912",
+      "before_bytes": 1331849,
+      "after_bytes": 1331849,
+      "before_sha256": "e791219d2a358530f4f1370534a96b421cabcf8df2536bc04bf2f2c66564ebdd",
+      "after_sha256": "e791219d2a358530f4f1370534a96b421cabcf8df2536bc04bf2f2c66564ebdd"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "540502e64ef028ed24e021cff8a2ff64bf51ff51482e51ed071c177a92569ddd",
+      "before_bytes": 10298499,
+      "after_bytes": 10298499,
+      "before_sha256": "0aa2c35b9bf3a02473867db6c418c0fb9d62b036e4f48c1e7d905de0c72938c3",
+      "after_sha256": "0aa2c35b9bf3a02473867db6c418c0fb9d62b036e4f48c1e7d905de0c72938c3"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "95877d05094570b4a78fbd3d436059d8135397cc03f957e8640dfb28dba59a1f",
+      "before_bytes": 313942,
+      "after_bytes": 78765,
+      "before_sha256": "a8a5f606694351c9dec1c7e8b40c6633c43204107558b097a05fdaae665da351",
+      "after_sha256": "6ed40f52778179292842e873985d768366508562881b357d937b16346f0dcfd5"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "552ec937aea672be05a000bc396cd6e6fe86e4d087a01f84aaf1db510bcd7b1a",
+      "before_bytes": 308291,
+      "after_bytes": 75917,
+      "before_sha256": "4e77ab45fb24e17d2d21caee041b845af429b7a80068940c680d16ce465a6fef",
+      "after_sha256": "777648ed06db643244356270cd3efa229eae4c2201cb25ef42173430108d03a7"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "c83fa829a414dc519d96a53e4f7b34626a86a052d9eacd4e72b5455612d033cf",
+      "before_bytes": 1111039,
+      "after_bytes": 1108524,
+      "before_sha256": "9d91efc50613c65add0a60fe8d3dca8b7dda2205b3b9579a4888631e6363ec21",
+      "after_sha256": "c282a4a711b2f88fe4c92a29b91d47b5fd16850e8833dce2f230eb7fe22e31f5"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 82623,
+      "after_bytes": 82623,
+      "before_sha256": "f3d09a9ecbc8d83334a78971465f78c76ce10e0b9107a2d56968df580729a18b",
+      "after_sha256": "f3d09a9ecbc8d83334a78971465f78c76ce10e0b9107a2d56968df580729a18b"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 26141,
+      "after_bytes": 26141,
+      "before_sha256": "ce12ef8010c69a852ee7b51b37547afa4eca7369dfb8346639672cf5b9730202",
+      "after_sha256": "ce12ef8010c69a852ee7b51b37547afa4eca7369dfb8346639672cf5b9730202"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 135639,
+      "after_bytes": 135639,
+      "before_sha256": "0368afb9e1df0b9364d36159920ae60741aa0304c319a76f5e22ab27fb5a30d1",
+      "after_sha256": "0368afb9e1df0b9364d36159920ae60741aa0304c319a76f5e22ab27fb5a30d1"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "9b7f8a084be83f879e6d31348ef2079ea823e9b33e30326c9595174efd2a9bd4",
+      "before_bytes": 721232,
+      "after_bytes": 721232,
+      "before_sha256": "c1c7bcc69c80cc7375dae5c529cb89a96d769fd523acf8b2deaffc955f3ddc18",
+      "after_sha256": "c1c7bcc69c80cc7375dae5c529cb89a96d769fd523acf8b2deaffc955f3ddc18"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "535a94c4277be10d7a4f7dbf6645fd1fd80905b72d9b727f31999e1f2084c441",
+      "before_bytes": 319638,
+      "after_bytes": 82714,
+      "before_sha256": "55a0382cd7998d97aae0542c21af76e1b2bfeb61ad4d8d0e5e2720ce4591bf55",
+      "after_sha256": "115c7092655f8f7b39b1f406e616e3c5908533f168aa7f3002e77f942be20891"
+    },
+    {
+      "path": "StPaulsChapel/NA_StPaulsChapel_4x6_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "b31008c26cbc330939321422028a2749612ed504a82acf78ccf61b12e66ed9c3",
+      "before_bytes": 6936062,
+      "after_bytes": 6936062,
+      "before_sha256": "25a6281b5807c8b0bc3aff8d48269eea4079b5b2b05b626119f85c135f721153",
+      "after_sha256": "25a6281b5807c8b0bc3aff8d48269eea4079b5b2b05b626119f85c135f721153"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_BaseColor.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "2e49212f6f63f24c64f2376b225b2645a2966185c9467371ddec601661b7b3bc",
+      "before_bytes": 14518834,
+      "after_bytes": 14518834,
+      "before_sha256": "1318f23f71c978865f214251e0254626f92a4d1d4df88cbcb87e9f31a425bb8d",
+      "after_sha256": "1318f23f71c978865f214251e0254626f92a4d1d4df88cbcb87e9f31a425bb8d"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_ControlMask.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "9abef4f02a60123a939b47786710c6f2a5dbeb7bfab167f3ca33035afe2b5cfc",
+      "before_bytes": 313682,
+      "after_bytes": 78856,
+      "before_sha256": "d707d23a521009e707bbbae2f4a4443fcde9bb3d7144b87cb6e440083a82cd4e",
+      "after_sha256": "0a837d3699920d9932da165122275c3a391a83054883a4cc535a0fa95f2129a0"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_Emissive.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "2ff22e2d91be2c5239ef93dab73d89500004e297c2c219402599f04cd36828ca",
+      "before_bytes": 308489,
+      "after_bytes": 75911,
+      "before_sha256": "96bb1126f74f49ec92c5045c4ce311c392a667bbbafb76aaa8f802e12b639d48",
+      "after_sha256": "7b5adf17e9b1639618017ef9c2e0505beaf9b8d3f180b979b6e43ef8fdfff2e8"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_LOD2_BaseColor.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "14e1ecc3cd19c3f522da48f8139e6f5a63e5ab75e103381935bf4aa93d68f469",
+      "before_bytes": 1155154,
+      "after_bytes": 1145372,
+      "before_sha256": "511b9ae93bc891aeb46d859402ec7cb78a7efc4ead553bd1a27d824cb9aa507b",
+      "after_sha256": "2867d75508af7f3a3f7f651521c89a5fb6734da09b5bab87be22b4e5ca3c2bce"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_LOD2_ControlMask.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 54079,
+      "after_bytes": 54079,
+      "before_sha256": "b2ac5efa78e7eb86571502c6bdbed28a4efab5354fd55f57340f024cfd07476e",
+      "after_sha256": "b2ac5efa78e7eb86571502c6bdbed28a4efab5354fd55f57340f024cfd07476e"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_LOD2_Emissive.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 28870,
+      "after_bytes": 28870,
+      "before_sha256": "f820a5330c556efcb3d0782e7c3822d1cafb0b2a805fbe14473d45b3ac2808b5",
+      "after_sha256": "f820a5330c556efcb3d0782e7c3822d1cafb0b2a805fbe14473d45b3ac2808b5"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_LOD2_MaskMap.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": null,
+      "before_bytes": 56926,
+      "after_bytes": 56926,
+      "before_sha256": "c5da97a8cafa63314ffd3426589ebc63c0f8afaf777e6d3d5a83e0d52333ff49",
+      "after_sha256": "c5da97a8cafa63314ffd3426589ebc63c0f8afaf777e6d3d5a83e0d52333ff49"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_LOD2_Normal.png",
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "2dffce7af8d6aceef1413a95ac8160f433f23022b900578b57bb0b68801d85f0",
+      "before_bytes": 363076,
+      "after_bytes": 363076,
+      "before_sha256": "710bc43f717cc15aa94c3d67021cf2831f79fc38cb1fd6e32b0c75e3483aa80f",
+      "after_sha256": "710bc43f717cc15aa94c3d67021cf2831f79fc38cb1fd6e32b0c75e3483aa80f"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_MaskMap.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGBA",
+      "scanline_sha256": "d2671684c9aaf67ccf8d270bbb4592dd172e1c010c3a2accf41f6ea0160470d1",
+      "before_bytes": 316037,
+      "after_bytes": 81106,
+      "before_sha256": "6eb31842d1dae7fc111a0ac320ee9cd12560cd4d3be818d32bdcc09f8b5bd511",
+      "after_sha256": "77bc5d7495d2d8d84bd95880e88c304f2cb19d6b1e0242831486015f251838b7"
+    },
+    {
+      "path": "UrisHall/NA_UrisHall_6x9_Normal.png",
+      "size": [
+        4096,
+        4096
+      ],
+      "mode": "RGB",
+      "scanline_sha256": "10929719f8526ffc58c038ef4a36e8215874bc9d2fb8d1bf8457380675535944",
+      "before_bytes": 9998813,
+      "after_bytes": 9998813,
+      "before_sha256": "8308fad811e5d8c454c4e55cbf2c292f1b239d1433cacfb1617ac270bc21c01b",
+      "after_sha256": "8308fad811e5d8c454c4e55cbf2c292f1b239d1433cacfb1617ac270bc21c01b"
+    }
+  ]
+}
