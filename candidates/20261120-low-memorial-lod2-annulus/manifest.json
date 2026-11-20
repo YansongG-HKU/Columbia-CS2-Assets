@@ -1,0 +1,72 @@
+{
+  "box": [
+    824,
+    604,
+    920,
+    708
+  ],
+  "textures": [
+    {
+      "input": "LowMemorialLibrary/textures/NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png",
+      "output": "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png",
+      "input_sha256": "1117a940b90dfb8493c7ab205b411c686b2ad878aaa5ff85fe4bab63dd8a3fe4",
+      "output_rgba_sha256": "2240f67ee0badaf49867183fc9837cd810e0afecc57174d9be80c4fe4498113a",
+      "build_png_sha256": "aaf2755a071c1984c08ce4caad3fd1d05ec6e3f429a9e224bfc21074e7a10bf9",
+      "tile": "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png.rgba",
+      "tile_sha256": "8d281a2a037d053aa26b285b7b5657f4ff80ce6e4eb96ff675b980f8afae8748"
+    },
+    {
+      "input": "LowMemorialLibrary/textures/NA_ColumbiaLowLibrary_13x10_LOD2_ControlMask.png",
+      "output": "NA_ColumbiaLowLibrary_13x10_LOD2_ControlMask.png",
+      "input_sha256": "8ded455694f1f0ac4d45975110d8320b036fa8e7365f61607dffcb2d8e3660cd",
+      "output_rgba_sha256": "5b826ef1be5cc2f14a9b88e5ea0380952386fd9e8b58c9b0b8bd2b6319470cdf",
+      "build_png_sha256": "373986a97300e83571eaf23b5d7b2a1ae398ede36fabeb5d0e9f6cb099deb24a",
+      "tile": "NA_ColumbiaLowLibrary_13x10_LOD2_ControlMask.png.rgba",
+      "tile_sha256": "0ae997cf209ff6179bf57d0418201254446e795503a22f5a3dfe4e402c353973"
+    },
+    {
+      "input": "LowMemorialLibrary/textures/NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png",
+      "output": "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png",
+      "input_sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460",
+      "output_rgba_sha256": "cf3749189e11f7f18f1571b2bee21d399c5047ea38759fa32e87e3def9cb1aac",
+      "build_png_sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460",
+      "tile": null
+    },
+    {
+      "input": "LowMemorialLibrary/textures/NA_ColumbiaLowLibrary_13x10_LOD2_MaskMap.png",
+      "output": "NA_ColumbiaLowLibrary_13x10_LOD2_MaskMap.png",
+      "input_sha256": "4fd3c1f845e238298408ad5801ee49396601256c51686573d3cd90d597e7c17a",
+      "output_rgba_sha256": "f0ab3f93f3b63c285ae09ccfbcd5134ec950cded203dee3fb8a476e9f3f2ac38",
+      "build_png_sha256": "142a9d51e1b366e72a83d66ad9e75ba6649f8b4f80df6a92bd1d2a5421f84c0b",
+      "tile": "NA_ColumbiaLowLibrary_13x10_LOD2_MaskMap.png.rgba",
+      "tile_sha256": "6f318bb04319bd710d8306d042a3b504ba2e8d97594faf053311309af8a60263"
+    },
+    {
+      "input": "LowMemorialLibrary/textures/NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png",
+      "output": "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png",
+      "input_sha256": "b912ca39930cbce6d2add1cd588c78290e784994a14b8bf0b6305a9e1cc80c3e",
+      "output_rgba_sha256": "1a08ecaddde80f4dc23706cfc5db49d07a1273c320f079f16f955603b31bf543",
+      "build_png_sha256": "e34570e4ff63fdfdfbb2ec0d9ba3eeca8dc83a345123ecec89783631a4deda37",
+      "tile": "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png.rgba",
+      "tile_sha256": "89d24618e3ae9c5b35d34f6d2ab8b2472fa0e583e213394df0ea8210a28ce2e2"
+    }
+  ],
+  "fbx": {
+    "input": "LowMemorialLibrary/fbx/split/NA_ColumbiaLowLibrary_13x10_LOD2.fbx",
+    "output": "NA_ColumbiaLowLibrary_13x10_LOD2.fbx",
+    "input_sha256": "c0fa5c09cf99c442b0737f3ca00595fdc865f743672cda82bfcd875c9ab2df61",
+    "output_sha256": "46671cf6a59478e72f79c2e24002231c8a232a0795b203589b018eecc631ca8b",
+    "patch": [
+      {
+        "file": "mesh.zst.part01",
+        "sha256": "fc8e6dbd51c2eb4a6df9a27cad0ef3dfabc7359ccdba6a91f451f1c3ed72e368"
+      },
+      {
+        "file": "mesh.zst.part02",
+        "sha256": "18c0a23671c395d4822745b3cb6f0c8639c3e4a14eca516b2ed1191f7d75fedd"
+      }
+    ],
+    "bytes": 71884
+  },
+  "tile_archive_sha256": "d884ae87ac7dbe0533dcac6c2b3c9f99b2897217f06c9e69955b93a9e74faa0c"
+}

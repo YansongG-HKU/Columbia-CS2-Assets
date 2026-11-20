@@ -1,0 +1,44 @@
+{
+  "front-base": {
+    "projected_annulus_change_gt2": 5343,
+    "outside_change_gt2": 0,
+    "outside_max": 0,
+    "outside_p99": 0.0,
+    "foreground_silhouette_different_px": 0
+  },
+  "front-lit": {
+    "projected_annulus_change_gt2": 7834,
+    "outside_change_gt2": 3412,
+    "outside_max": 27,
+    "outside_p99": 5.0,
+    "foreground_silhouette_different_px": 0
+  },
+  "rear-base": {
+    "projected_annulus_change_gt2": 5588,
+    "outside_change_gt2": 0,
+    "outside_max": 0,
+    "outside_p99": 0.0,
+    "foreground_silhouette_different_px": 0
+  },
+  "rear-lit": {
+    "projected_annulus_change_gt2": 8126,
+    "outside_change_gt2": 3401,
+    "outside_max": 27,
+    "outside_p99": 5.0,
+    "foreground_silhouette_different_px": 0
+  },
+  "aerial-base": {
+    "projected_annulus_change_gt2": 15711,
+    "outside_change_gt2": 0,
+    "outside_max": 0,
+    "outside_p99": 0.0,
+    "foreground_silhouette_different_px": 0
+  },
+  "aerial-lit": {
+    "projected_annulus_change_gt2": 19997,
+    "outside_change_gt2": 7287,
+    "outside_max": 25,
+    "outside_p99": 8.0,
+    "foreground_silhouette_different_px": 0
+  }
+}

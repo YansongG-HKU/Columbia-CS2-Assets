@@ -1,0 +1,10 @@
+{
+  "input_sha256": "c0fa5c09cf99c442b0737f3ca00595fdc865f743672cda82bfcd875c9ab2df61",
+  "output_sha256": "46671cf6a59478e72f79c2e24002231c8a232a0795b203589b018eecc631ca8b",
+  "untouched_vertices": 428,
+  "triangles": 736,
+  "indexed_directed_edges": 1104,
+  "removed_downward_disk_faces": 22,
+  "added_atlased_annulus_faces": 32,
+  "render_validation_pending": false
+}
