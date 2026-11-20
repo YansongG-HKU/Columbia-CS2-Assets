@@ -1,0 +1,96 @@
+{
+  "54.76471": {
+    "action": "fit primary matched stable height only",
+    "calibrated_navd88_m": 55.03999999999999,
+    "comparison_historical_minus_observation_not_absolute_survey_error": -0.27528999999999115,
+    "train_in_band_n": 16709,
+    "hold_in_band_n": 3581,
+    "train_inside_all_z_n": 18336,
+    "hold_inside_all_z_n": 3923,
+    "hold_abs_vertical_p50_p90_p95_m": [
+      0.030000000000001137,
+      0.06999999999999318,
+      0.0800000000000125
+    ]
+  },
+  "56.71145": {
+    "action": "fit primary matched stable height only",
+    "calibrated_navd88_m": 57.629999999999995,
+    "comparison_historical_minus_observation_not_absolute_survey_error": -0.9185499999999962,
+    "train_in_band_n": 5527,
+    "hold_in_band_n": 2089,
+    "train_inside_all_z_n": 5579,
+    "hold_inside_all_z_n": 2124,
+    "hold_abs_vertical_p50_p90_p95_m": [
+      0.05000000000001137,
+      0.0800000000000125,
+      0.09999999999999432
+    ]
+  },
+  "60.30248": {
+    "action": "fit primary matched stable height only",
+    "calibrated_navd88_m": 60.75999999999999,
+    "comparison_historical_minus_observation_not_absolute_survey_error": -0.45751999999998816,
+    "train_in_band_n": 20653,
+    "hold_in_band_n": 10286,
+    "train_inside_all_z_n": 34133,
+    "hold_inside_all_z_n": 14031,
+    "hold_abs_vertical_p50_p90_p95_m": [
+      0.03999999999999204,
+      0.06999999999999318,
+      0.09000000000000341
+    ]
+  },
+  "62.98827": {
+    "action": "fit primary matched stable height only",
+    "calibrated_navd88_m": 62.81,
+    "comparison_historical_minus_observation_not_absolute_survey_error": 0.1782699999999977,
+    "train_in_band_n": 283,
+    "hold_in_band_n": 146,
+    "train_inside_all_z_n": 283,
+    "hold_inside_all_z_n": 146,
+    "hold_abs_vertical_p50_p90_p95_m": [
+      0.030000000000001137,
+      0.0800000000000125,
+      0.09000000000000341
+    ]
+  },
+  "63.00226": {
+    "action": "fit primary matched stable height only",
+    "calibrated_navd88_m": 62.79999999999998,
+    "comparison_historical_minus_observation_not_absolute_survey_error": 0.20226000000001676,
+    "train_in_band_n": 298,
+    "hold_in_band_n": 147,
+    "train_inside_all_z_n": 298,
+    "hold_inside_all_z_n": 147,
+    "hold_abs_vertical_p50_p90_p95_m": [
+      0.03999999999999204,
+      0.06999999999999318,
+      0.06999999999999318
+    ]
+  },
+  "82.71374": {
+    "action": "fit primary matched stable height only",
+    "calibrated_navd88_m": 83.13999999999999,
+    "comparison_historical_minus_observation_not_absolute_survey_error": -0.426259999999985,
+    "train_in_band_n": 3479,
+    "hold_in_band_n": 1918,
+    "train_inside_all_z_n": 5696,
+    "hold_inside_all_z_n": 3138,
+    "hold_abs_vertical_p50_p90_p95_m": [
+      0.03999999999999204,
+      0.08999999999997499,
+      0.09999999999999432
+    ]
+  },
+  "85.28278": {
+    "action": "retain historical tier; no one-to-one height correspondence",
+    "all_window_train_count": 5325,
+    "all_window_holdout_count": 3297
+  },
+  "88.1794": {
+    "action": "retain historical tier; no one-to-one height correspondence",
+    "all_window_train_count": 513,
+    "all_window_holdout_count": 332
+  }
+}
