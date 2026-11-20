@@ -1,0 +1,507 @@
+{
+  "NA_AveryHall_6x4_LOD2.fbx": {
+    "sha256": "4cb0d1172e16096be62ba7a5cc148e8d4dab30587e2a960fc944a4d1eec57001",
+    "triangle_count": 172,
+    "vertex_count": 116,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [
+      [
+        69,
+        156
+      ],
+      [
+        72,
+        153
+      ]
+    ],
+    "component_vertex_counts": [
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_ButlerLibrary_11x7_LOD2.fbx": {
+    "sha256": "627885e459caa89b366f211222b7c57312938695ccb916fb1823e4a97a91c3b1",
+    "triangle_count": 376,
+    "vertex_count": 232,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12
+    ]
+  },
+  "NA_ColumbiaLowLibrary_13x10_LOD2.fbx": {
+    "sha256": "c0fa5c09cf99c442b0737f3ca00595fdc865f743672cda82bfcd875c9ab2df61",
+    "triangle_count": 726,
+    "vertex_count": 428,
+    "degenerate_triangle_ids": [],
+    "open_edges": 8,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      16,
+      144
+    ]
+  },
+  "NA_DodgeHall_9x5_LOD2.fbx": {
+    "sha256": "01e070d01ee9142ea777bbaf7f499ba79b4753015d4690b5e0e6818fee5883da",
+    "triangle_count": 56,
+    "vertex_count": 38,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_EarlHall_3x5_LOD2.fbx": {
+    "sha256": "4f439195fe2939f43f187c5e3c3a5269027e17196dccb51b2e53233a537ff4a0",
+    "triangle_count": 436,
+    "vertex_count": 244,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32
+    ]
+  },
+  "NA_FayerweatherHall_6x5_LOD2.fbx": {
+    "sha256": "a628e1ea6615794695eafe4e63201aa8b51f78af6407e55ea9895679e22557ae",
+    "triangle_count": 96,
+    "vertex_count": 66,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_FurnaldHall_8x5_LOD2.fbx": {
+    "sha256": "f09c770c05923ad710e68ad363ef19313e45a895bb227732c72e19056f9dd642",
+    "triangle_count": 32,
+    "vertex_count": 22,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      8,
+      8
+    ]
+  },
+  "NA_HamiltonHall_8x4_LOD2.fbx": {
+    "sha256": "7fce505e50fce828e05489eca5eefc8cb9d18e7514308e7ea6607ec1759e0ab8",
+    "triangle_count": 60,
+    "vertex_count": 40,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_HavemeyerHall_8x8_LOD2.fbx": {
+    "sha256": "e1f7d54e94004529a7cd9096a69466527f8c9990383992c9d292321b0bb56083",
+    "triangle_count": 160,
+    "vertex_count": 102,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      18,
+      18
+    ]
+  },
+  "NA_JohnJayHall_8x4_LOD2.fbx": {
+    "sha256": "08293e5b75e80278bf06659888876a818ee5eaf108047f9c9feeed3a2c8df07a",
+    "triangle_count": 48,
+    "vertex_count": 32,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_KentHall_8x4_LOD2.fbx": {
+    "sha256": "6c4e1c9a712ca129ef7d20408124de18dc9b0595a9a327735952dc65c6853126",
+    "triangle_count": 108,
+    "vertex_count": 74,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [
+      [
+        38,
+        92
+      ],
+      [
+        41,
+        89
+      ]
+    ],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_LernerHall_9x9_LOD2.fbx": {
+    "sha256": "447ef5acffafe29467729bd73b1e6120145f8eba3d6623e2a54338ea6da8055f",
+    "triangle_count": 72,
+    "vertex_count": 48,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_LewisohnHall_6x4_LOD2.fbx": {
+    "sha256": "261c38823407bddf97ccc1384985d08488b6d5ffd18db64a55f82db9ce455fe6",
+    "triangle_count": 96,
+    "vertex_count": 66,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [
+      [
+        38,
+        86
+      ],
+      [
+        41,
+        83
+      ]
+    ],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_MathematicsHall_7x5_LOD2.fbx": {
+    "sha256": "35b3df07fcdeaa52539f3da1bd24059140e201e170122bbb22abab6db8abc257",
+    "triangle_count": 32,
+    "vertex_count": 22,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      8,
+      8
+    ]
+  },
+  "NA_PhilosophyHall_6x4_LOD2.fbx": {
+    "sha256": "a5056d08fa4d505473049d379fa679f90460b7f43e3c31bbd59bdfc5da3fb6b9",
+    "triangle_count": 96,
+    "vertex_count": 66,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [
+      [
+        38,
+        86
+      ],
+      [
+        41,
+        83
+      ]
+    ],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_PupinHall_8x3_LOD2.fbx": {
+    "sha256": "84da2f79e59c4e3d92c0159c819fee766277d3f29749e8c0dcda031ec370981e",
+    "triangle_count": 84,
+    "vertex_count": 56,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  "NA_SchermerhornHall_8x6_LOD2.fbx": {
+    "sha256": "6b30f8e42a6ccf29783af67f33a97e8fc8f3659d66f2446c6eff97e461d74dd0",
+    "triangle_count": 160,
+    "vertex_count": 102,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      18,
+      18
+    ]
+  },
+  "NA_StPaulsChapel_4x6_LOD2.fbx": {
+    "sha256": "8a3558d202680eb96b71b6c8b5efef0a9de584c0f9844f32aac7b20403c1d75a",
+    "triangle_count": 616,
+    "vertex_count": 344,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [
+      [
+        11,
+        220
+      ],
+      [
+        14,
+        219
+      ],
+      [
+        33,
+        238
+      ],
+      [
+        36,
+        237
+      ],
+      [
+        50,
+        253
+      ],
+      [
+        53,
+        252
+      ]
+    ],
+    "component_vertex_counts": [
+      6,
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      16,
+      16,
+      32,
+      32,
+      32,
+      48,
+      48,
+      48
+    ]
+  },
+  "NA_UrisHall_6x9_LOD2.fbx": {
+    "sha256": "88201d18179231b86247107f8db91fa4b8a3442bf101e0f4e912226525452b02",
+    "triangle_count": 72,
+    "vertex_count": 48,
+    "degenerate_triangle_ids": [],
+    "open_edges": 0,
+    "multi_face_edges": 0,
+    "same_winding_edge_count": 0,
+    "exact_same_direction_geometry": [],
+    "exact_opposed_geometry": [],
+    "component_vertex_counts": [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8
+    ]
+  }
+}
