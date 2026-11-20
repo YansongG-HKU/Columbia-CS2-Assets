@@ -1,0 +1,177 @@
+{
+  "source_sha256": "3bc48a79992641c1e42089d1dfec6b9b74e9bcd0777f2b07408bc587ab6148c3",
+  "candidate_blend_sha256": "ab3cc4b88001f83440f00c55559c322ed50aa00ceb629458d3300314683aa32f",
+  "unchanged_state_sha256": "23f5b1423d77020fb6dc574696fb8c69fdce77ba9641f6379f247a978adf3f1a",
+  "mesh_objects": 7,
+  "unchanged_bindings": [
+    [
+      "NA_UrisHall_6x9_Base",
+      "Image Texture",
+      "NA_UrisHall_6x9_BaseColor"
+    ],
+    [
+      "NA_UrisHall_6x9_Base",
+      "Image Texture.001",
+      "NA_UrisHall_6x9_Normal"
+    ],
+    [
+      "NA_UrisHall_6x9_Base",
+      "Image Texture.002",
+      "NA_UrisHall_6x9_MaskMap"
+    ],
+    [
+      "NA_UrisHall_6x9_Base",
+      "Image Texture.003",
+      "NA_UrisHall_6x9_Emissive"
+    ],
+    [
+      "NA_UrisHall_6x9_Gls",
+      "Image Texture",
+      "NA_UrisHall_6x9_BaseColor"
+    ],
+    [
+      "NA_UrisHall_6x9_Gls",
+      "Image Texture.001",
+      "NA_UrisHall_6x9_Normal"
+    ],
+    [
+      "NA_UrisHall_6x9_Gls",
+      "Image Texture.002",
+      "NA_UrisHall_6x9_MaskMap"
+    ],
+    [
+      "NA_UrisHall_6x9_Gls",
+      "Image Texture.003",
+      "NA_UrisHall_6x9_Emissive"
+    ],
+    [
+      "NA_UrisHall_6x9_LOD2_Base",
+      "Image Texture",
+      "NA_UrisHall_6x9_LOD2_BaseColor"
+    ],
+    [
+      "NA_UrisHall_6x9_LOD2_Base",
+      "Image Texture.001",
+      "NA_UrisHall_6x9_LOD2_Normal"
+    ],
+    [
+      "NA_UrisHall_6x9_LOD2_Base",
+      "Image Texture.002",
+      "NA_UrisHall_6x9_LOD2_MaskMap"
+    ],
+    [
+      "NA_UrisHall_6x9_LOD2_Base",
+      "Image Texture.003",
+      "NA_UrisHall_6x9_LOD2_Emissive"
+    ]
+  ],
+  "decoded_maps": [
+    {
+      "file": "NA_UrisHall_6x9_BaseColor.png",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "sha256": "1318f23f71c978865f214251e0254626f92a4d1d4df88cbcb87e9f31a425bb8d"
+    },
+    {
+      "file": "NA_UrisHall_6x9_Emissive.png",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "sha256": "96bb1126f74f49ec92c5045c4ce311c392a667bbbafb76aaa8f802e12b639d48"
+    },
+    {
+      "file": "NA_UrisHall_6x9_LOD2_BaseColor.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "sha256": "511b9ae93bc891aeb46d859402ec7cb78a7efc4ead553bd1a27d824cb9aa507b"
+    },
+    {
+      "file": "NA_UrisHall_6x9_LOD2_Emissive.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "sha256": "f820a5330c556efcb3d0782e7c3822d1cafb0b2a805fbe14473d45b3ac2808b5"
+    },
+    {
+      "file": "NA_UrisHall_6x9_LOD2_MaskMap.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "sha256": "c5da97a8cafa63314ffd3426589ebc63c0f8afaf777e6d3d5a83e0d52333ff49"
+    },
+    {
+      "file": "NA_UrisHall_6x9_LOD2_Normal.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "sha256": "710bc43f717cc15aa94c3d67021cf2831f79fc38cb1fd6e32b0c75e3483aa80f"
+    },
+    {
+      "file": "NA_UrisHall_6x9_MaskMap.png",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "sha256": "6eb31842d1dae7fc111a0ac320ee9cd12560cd4d3be818d32bdcc09f8b5bd511"
+    },
+    {
+      "file": "NA_UrisHall_6x9_Normal.png",
+      "dimensions": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "sha256": "8308fad811e5d8c454c4e55cbf2c292f1b239d1433cacfb1617ac270bc21c01b"
+    }
+  ],
+  "unassigned_file_maps_preserved": [
+    "brick_col.png",
+    "brick_h.png",
+    "bronze_col.png",
+    "bronze_h.png",
+    "carve_col.png",
+    "carve_h.png",
+    "copper_col.png",
+    "copper_h.png",
+    "glass_col.png",
+    "glass_col.png.001",
+    "glass_h.png",
+    "glass_h.png.001",
+    "gran_col.png",
+    "gran_h.png",
+    "iron_col.png",
+    "iron_h.png",
+    "lampt_col.png",
+    "lampt_h.png",
+    "lawn_col.png",
+    "lawn_h.png",
+    "leaf_col.png",
+    "leaf_h.png",
+    "lime_col.png",
+    "lime_h.png",
+    "limed_col.png",
+    "limed_h.png",
+    "pave_col.png",
+    "pave_h.png",
+    "roof_col.png",
+    "roof_h.png",
+    "rust_col.png",
+    "rust_h.png"
+  ],
+  "scope": "editable-source portability only; no FBX geometry or game changes"
+}
