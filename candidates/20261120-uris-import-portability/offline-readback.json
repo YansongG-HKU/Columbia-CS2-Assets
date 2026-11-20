@@ -1,0 +1,115 @@
+{
+  "files": {
+    "NA_UrisHall_6x9.fbx": {
+      "old_absolute_fields_removed": 6,
+      "pre_sha256": "64277811ac5bd5a4af42925b8e26d272e4301385073067841af1738fb569e817",
+      "final_sha256": "3a42b31830eddc816b1c9bdefb7145f22dfef5b7292248fc499964e8493d9780",
+      "object": "NA_UrisHall_6x9_Base",
+      "triangles": 7210,
+      "degenerate_mesh_triangles": 0,
+      "near_zero_uv_area_triangles": 3444,
+      "images_decoded": {
+        "NA_UrisHall_6x9_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_UrisHall_6x9_LOD1.fbx": {
+      "old_absolute_fields_removed": 6,
+      "pre_sha256": "7e793663c01b6ff65eaec8db82a5f82f1fb5d78a4c426a4bc7eff09dd2ce9b36",
+      "final_sha256": "86dd8d09614ff7bdeb8b1acb788a9cbf64a77e985f53aa0dd74555bc8296078e",
+      "object": "NA_UrisHall_6x9_LOD1_Base",
+      "triangles": 4762,
+      "degenerate_mesh_triangles": 0,
+      "nonpositive_absolute_uv_area_triangles": 2168,
+      "images_decoded": {
+        "NA_UrisHall_6x9_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_UrisHall_6x9_LOD2.fbx": {
+      "old_absolute_fields_removed": 6,
+      "pre_sha256": "88201d18179231b86247107f8db91fa4b8a3442bf101e0f4e912226525452b02",
+      "final_sha256": "3dde42a760068a4dd3319103035f527b7adadcd5392ffa97b7e0b85f33ff72bd",
+      "object": "NA_UrisHall_6x9_LOD2_Base",
+      "triangles": 72,
+      "degenerate_mesh_triangles": 0,
+      "nonpositive_absolute_uv_area_triangles": 0,
+      "images_decoded": {
+        "NA_UrisHall_6x9_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_UrisHall_6x9_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_UrisHall_6x9_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_UrisHall_6x9_Gls.fbx": {
+      "old_absolute_fields_removed": 0,
+      "pre_sha256": "7e9beba1858dab084b12b440aecd050500e4e1d0f1c3e4efe93a28f42535a8b7",
+      "final_sha256": "7e9beba1858dab084b12b440aecd050500e4e1d0f1c3e4efe93a28f42535a8b7",
+      "object": "NA_UrisHall_6x9_Gls",
+      "triangles": 72,
+      "degenerate_mesh_triangles": 0,
+      "nonpositive_absolute_uv_area_triangles": 0,
+      "images_decoded": {}
+    },
+    "NA_UrisHall_6x9_LOD1_Gls.fbx": {
+      "old_absolute_fields_removed": 0,
+      "pre_sha256": "42683e7493353ad9565c6ea0a58006b3e97a833ec1dea507e5646c135900748c",
+      "final_sha256": "42683e7493353ad9565c6ea0a58006b3e97a833ec1dea507e5646c135900748c",
+      "object": "NA_UrisHall_6x9_LOD1_Gls",
+      "triangles": 72,
+      "degenerate_mesh_triangles": 0,
+      "nonpositive_absolute_uv_area_triangles": 0,
+      "images_decoded": {}
+    },
+    "NA_UrisHall_6x9_Win.fbx": {
+      "old_absolute_fields_removed": 0,
+      "pre_sha256": "10ec2bfd4635763acb1b3cf66bec3ff9c7281da0797cb48f08318164d4904168",
+      "final_sha256": "10ec2bfd4635763acb1b3cf66bec3ff9c7281da0797cb48f08318164d4904168",
+      "object": "NA_UrisHall_6x9_Win",
+      "triangles": 80,
+      "degenerate_mesh_triangles": 0,
+      "nonpositive_absolute_uv_area_triangles": 0,
+      "images_decoded": {}
+    },
+    "NA_UrisHall_6x9_LOD1_Win.fbx": {
+      "old_absolute_fields_removed": 0,
+      "pre_sha256": "14ea7cfd32ffd6fba6dcf8359a998f0348b1e88d7ad647bcbf38a3a65bbe2672",
+      "final_sha256": "14ea7cfd32ffd6fba6dcf8359a998f0348b1e88d7ad647bcbf38a3a65bbe2672",
+      "object": "NA_UrisHall_6x9_LOD1_Win",
+      "triangles": 80,
+      "degenerate_mesh_triangles": 0,
+      "nonpositive_absolute_uv_area_triangles": 0,
+      "images_decoded": {}
+    }
+  },
+  "manifest_entries": 18,
+  "scope": "Blender only. No overlap/shape modifications in base mesh; no game tests."
+}
