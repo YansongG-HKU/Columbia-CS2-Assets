@@ -1,0 +1,47 @@
+Counter({2: 924}) same winding 0
+b'Properties70' []
+b'GeometryVersion' []
+b'Vertices' []
+b'PolygonVertexIndex' []
+b'Edges' []
+b'LayerElementSmoothing' [(b'Version', 102), (b'Name', b''), (b'MappingInformationType', b'ByPolygon'), (b'ReferenceInformationType', b'Direct'), (b'Smoothing', 616)]
+b'LayerElementNormal' [(b'Version', 101), (b'Name', b''), (b'MappingInformationType', b'ByVertice'), (b'ReferenceInformationType', b'IndexToDirect'), (b'Normals', 1032), (b'NormalsIndex', 344)]
+b'LayerElementBinormal' [(b'Version', 101), (b'Name', b'UVMap'), (b'MappingInformationType', b'ByPolygonVertex'), (b'ReferenceInformationType', b'Direct'), (b'Binormals', 5544)]
+b'LayerElementTangent' [(b'Version', 101), (b'Name', b'UVMap'), (b'MappingInformationType', b'ByPolygonVertex'), (b'ReferenceInformationType', b'Direct'), (b'Tangents', 5544)]
+b'LayerElementUV' [(b'Version', 101), (b'Name', b'UVMap'), (b'MappingInformationType', b'ByPolygonVertex'), (b'ReferenceInformationType', b'IndexToDirect'), (b'UV', 1480), (b'UVIndex', 1848)]
+b'LayerElementMaterial' [(b'Version', 101), (b'Name', b''), (b'MappingInformationType', b'AllSame'), (b'ReferenceInformationType', b'IndexToDirect'), (b'Materials', 1)]
+b'Layer' [(b'Version', 100)]
+CAP [11, 14, 219, 220] weld {11: 19, 9: 16, 15: 20, 13: 17}
+11 other positive coplanar []
+14 other positive coplanar []
+219 other positive coplanar []
+220 other positive coplanar []
+Counter({2: 918}) same winding 0
+new defects []
+CAP [33, 36, 237, 238] weld {39: 47, 37: 44, 43: 48, 41: 45}
+33 other positive coplanar []
+36 other positive coplanar []
+237 other positive coplanar []
+238 other positive coplanar []
+Counter({2: 918}) same winding 0
+new defects []
+CAP [50, 53, 252, 253] weld {61: 69, 59: 66, 65: 70, 63: 67}
+50 other positive coplanar []
+53 other positive coplanar []
+252 other positive coplanar []
+253 other positive coplanar []
+Counter({2: 918}) same winding 0
+new defects []
+Counter({2: 906}) same winding 0
+new defects combined []
+vertical/sloping triangles meeting open cap interior 15.0 []
+outward attachments {216: -15.0, 215: -15.0, 214: -15.0, 217: -15.0}
+outward attachments {12: 3.704700469970703, 222: 3.704700469970703, 13: 3.704700469970703, 15: 3.704700469970703}
+vertical/sloping triangles meeting open cap interior 13.0 [56, 57, 65, 74, 82, 91, 104, 106, 256, 257, 265, 274, 286, 295, 332, 334]
+vertical/sloping triangles meeting open cap interior 10.199999809265137 []
+outward attachments {249: -10.199999809265137, 248: -10.199999809265137, 247: -10.199999809265137, 250: -10.199999809265137}
+outward attachments {51: 3.947999954223633, 255: 3.947999954223633, 52: 3.947999954223633, 54: 3.947999954223633}
+Blender 4.3.2
+
+Blender quit
+BLENDER_BATCH_EXIT pid=7 sampled_peak_rss_mib=224 available_before_mib=8768 available_after_mib=8757

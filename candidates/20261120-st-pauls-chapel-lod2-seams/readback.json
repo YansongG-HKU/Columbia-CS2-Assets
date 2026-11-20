@@ -1,0 +1,94 @@
+{
+  "before": {
+    "triangles": 616,
+    "edges_all_degree_two": 924,
+    "vertices": 344,
+    "decoded_textures": {
+      "NA_StPaulsChapel_4x6_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_StPaulsChapel_4x6_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      6,
+      6,
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      16,
+      16,
+      32,
+      32,
+      32,
+      48,
+      48,
+      48
+    ],
+    "bounds": [
+      [
+        -16.0,
+        -24.0,
+        -0.05000181123614311
+      ],
+      [
+        16.0,
+        24.0,
+        33.0
+      ]
+    ]
+  },
+  "after": {
+    "triangles": 608,
+    "edges_all_degree_two": 912,
+    "vertices": 336,
+    "decoded_textures": {
+      "NA_StPaulsChapel_4x6_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_StPaulsChapel_4x6_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      10,
+      10,
+      16,
+      16,
+      32,
+      32,
+      32,
+      48,
+      48,
+      48
+    ],
+    "bounds": [
+      [
+        -16.0,
+        -24.0,
+        -0.05000181123614311
+      ],
+      [
+        16.0,
+        24.0,
+        33.0
+      ]
+    ]
+  }
+}
