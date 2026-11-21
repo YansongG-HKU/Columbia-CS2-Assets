@@ -1,0 +1,7 @@
+# Furnald Hall and Mathematics Hall LOD2 base/eave seam repair
+
+21 November 2026. Offline candidate patches, not edits to canonical assets. Removed opposing enclosed caps at base and eave underside; retained the exposed planar rings, kept the original donor diagonals for corner attributes, and split adjacent edges at the four exact crossings. Each FBX: 22→26 vertices / 32→48 triangles; one orientable closed indexed shell with 72 paired triangle edges. Whole-component coplanar positive-area counts 8→0 in both at a 10 µm plane tolerance and 1e-5 m² area threshold.
+
+- Furnald candidate SHA-256 07c3c979f30cf5aafe19946cbbc59e31cc12ae47446779cab660e00f9ba18450. Mathematics candidate SHA-256 7817ef46d9a46f5b1696a89b5ff965946ba2f124bd85f8cd9d34ef1c15453817.
+- 20 retained triangles in each have exact native face indices and corner UV, normals, tangent and binormal values. Normal mapping changes from per-vertex to per-corner; Blender-normal roundtrip max component-vector difference < 0.00019. Texture connections unchanged; pixel availability and game importer not checked. Reimport exact extracted candidate: 49,770 exterior hits out of 142,578 probes, maximum first hit displacement 0.0384 mm, UV delta < 2.83e-7. Also 24,975 exposed ring probes and 2,500 internal probes.
+- Archive 165,787 bytes, SHA-256 46a2000cb000e5f416292fe690a26878323a5b1b20e32b6e09517cc92228261b. No changes to LOD0/1, original project textures, canonical binaries, LFS or publishing. CS2 Editor acceptance still required.
