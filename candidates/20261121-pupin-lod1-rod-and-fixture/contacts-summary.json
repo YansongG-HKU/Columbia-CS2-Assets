@@ -1,0 +1,34 @@
+{
+  "paired_edges": 1050,
+  "unchanged_triangles": 36586,
+  "aabb_exact": [
+    [
+      -32.0,
+      -12.0,
+      -0.05000195652246475
+    ],
+    [
+      32.0,
+      12.0,
+      56.650001525878906
+    ]
+  ],
+  "cap_link_count": {
+    "20": 22,
+    "21": 26,
+    "22": 24,
+    "48": 24
+  },
+  "contact_counts": {
+    "roof_identical_source_sill_pairs": 336,
+    "roof_inherited_window_pairs": 436,
+    "lantern_lower_pairs": 102,
+    "lantern_inherited_glass_pairs": 120,
+    "lantern_right_existing_upper_pairs": 66,
+    "left_cap_to_four_posts_pairs": 96,
+    "left_cap_to_inherited_glass_pairs": 25
+  },
+  "known_pre_cap_missing_upper_seat_donor": 21,
+  "maximum_two_source_donor_error_m": 3.874301910400391e-06,
+  "note": "Contact counts are local BVH triangle pairs. The near/medium window and glass vertices and face order are identical. No claim of global watertightness or in-game validation."
+}

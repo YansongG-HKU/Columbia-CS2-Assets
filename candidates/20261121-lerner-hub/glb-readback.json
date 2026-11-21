@@ -1,0 +1,106 @@
+{
+  "exact_glb_readback": {
+    "byte_size": 911008,
+    "sha256": "c338e1b9b7e902f907919041cdcda81a57f89be2da7c9506feb321465f5f67bb",
+    "glb_mesh_counts": {
+      "pane_meshes": 119,
+      "pane_triangles": 1428,
+      "ramp_meshes": 3,
+      "ramp_triangles": 132,
+      "steel/detail_meshes": 6,
+      "steel/detail_triangles": 14904
+    },
+    "all_meshes_welded_positions_return_closed_oriented": true,
+    "point_glass_transmission_verified": true,
+    "three_ramp_sections": {
+      "Ramp_north_1_with_2_level_landings": {
+        "path_section_x_m": [
+          0.0,
+          8.9,
+          10.45,
+          19.83,
+          21.38,
+          30.48
+        ],
+        "top_yup_height_m": [
+          3.14,
+          3.6861,
+          3.6861,
+          4.2616,
+          4.2616,
+          4.82
+        ],
+        "flat_intervals": [
+          [
+            8.9,
+            10.45
+          ],
+          [
+            19.83,
+            21.38
+          ]
+        ],
+        "rise_m": 1.68
+      },
+      "Ramp_north_2_with_2_level_landings": {
+        "path_section_x_m": [
+          0.0,
+          8.9,
+          10.45,
+          19.83,
+          21.38,
+          30.48
+        ],
+        "top_yup_height_m": [
+          6.79,
+          7.3361,
+          7.3361,
+          7.9116,
+          7.9116,
+          8.47
+        ],
+        "flat_intervals": [
+          [
+            8.9,
+            10.45
+          ],
+          [
+            19.83,
+            21.38
+          ]
+        ],
+        "rise_m": 1.68
+      },
+      "Ramp_north_3_with_2_level_landings": {
+        "path_section_x_m": [
+          0.0,
+          8.9,
+          10.45,
+          19.83,
+          21.38,
+          30.48
+        ],
+        "top_yup_height_m": [
+          10.44,
+          10.9861,
+          10.9861,
+          11.5616,
+          11.5616,
+          12.12
+        ],
+        "flat_intervals": [
+          [
+            8.9,
+            10.45
+          ],
+          [
+            19.83,
+            21.38
+          ]
+        ],
+        "rise_m": 1.68
+      }
+    }
+  },
+  "disclaimer": "No authoritative interior or exterior building registration, no CS2 interoperability asserted. Individual metal/support primitives can overlap intentionally."
+}

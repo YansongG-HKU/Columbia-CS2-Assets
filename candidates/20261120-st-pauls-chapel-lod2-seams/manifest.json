@@ -1,0 +1,11 @@
+[
+  {
+    "base": "StPaulsChapel/fbx/split/NA_StPaulsChapel_4x6_LOD2.fbx",
+    "candidate": "StPaulsChapel/NA_StPaulsChapel_4x6_LOD2.fbx",
+    "patch": "NA_StPaulsChapel_4x6_LOD2.fbx.zst",
+    "before_sha256": "8a3558d202680eb96b71b6c8b5efef0a9de584c0f9844f32aac7b20403c1d75a",
+    "after_sha256": "54c2626ce7f656781952dbe8ef43a693bc20a938d685dd661edefdc3a36107a7",
+    "patch_sha256": "5e2d2d7f36a82985f6d6197fe3066406273367e721800ab5d5daa45052c88e4e",
+    "bytes": 64652
+  }
+]

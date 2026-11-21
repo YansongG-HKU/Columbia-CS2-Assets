@@ -1,0 +1,59 @@
+{
+  "n_hold": 3929,
+  "data_note": "All three models compared in original game coordinates without per-model shifting. For absolute LiDAR residual only, a shared local offset uses game LOD2 apex z43 as survey central z88. No installation/ground registration.",
+  "near_mid_before_and_after_are_exactly_equal_at_all_ray_origins": true,
+  "near_far_previous_untouched_near_and_already_corrected_far_p50_p90_p95": [
+    0.4888343811035156,
+    0.6541236877441406,
+    0.6690361022949218
+  ],
+  "near_far_after_this_batch_p50_p90_p95": [
+    0.223419189453125,
+    0.6082115173339844,
+    0.6475555419921875
+  ],
+  "near_far_before_this_batch_by_range": {
+    "inner_0_2p75": [
+      0.37523651123046875,
+      0.41303482055664065,
+      0.42795639038085936
+    ],
+    "mid_2p75_10p5": [
+      0.5127716064453125,
+      0.6595626831054687,
+      0.671624755859375
+    ],
+    "outer_10p5_11p42": [
+      0.04233551025390625,
+      0.08512802124023437,
+      0.10957412719726563
+    ]
+  },
+  "near_far_after_this_batch_by_range": {
+    "inner_0_2p75": [
+      0.37523651123046875,
+      0.41303482055664065,
+      0.42795639038085936
+    ],
+    "mid_2p75_10p5": [
+      0.19687271118164062,
+      0.5615806579589844,
+      0.6426303863525391
+    ],
+    "outer_10p5_11p42": [
+      0.5833168029785156,
+      0.6438468933105469,
+      0.67149658203125
+    ]
+  },
+  "near_far_before_both_batches_p50_p90_p95": [
+    0.16243743896484375,
+    0.2284149169921875,
+    0.29646759033203124
+  ],
+  "groups_counts": {
+    "outer_10p5_11p42": 617,
+    "mid_2p75_10p5": 3083,
+    "inner_0_2p75": 229
+  }
+}

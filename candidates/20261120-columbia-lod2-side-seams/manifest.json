@@ -1,0 +1,38 @@
+[
+  {
+    "base": "AveryHall/fbx/split/NA_AveryHall_6x4_LOD2.fbx",
+    "candidate": "AveryHall/NA_AveryHall_6x4_LOD2.fbx",
+    "patch": "NA_AveryHall_6x4_LOD2.fbx.zst",
+    "before_sha256": "4cb0d1172e16096be62ba7a5cc148e8d4dab30587e2a960fc944a4d1eec57001",
+    "after_sha256": "ce381c98aa845259b8b5b88a68fef0d9927d4c04621afb464c308d8926ff9b86",
+    "patch_sha256": "861c46f4f9c7b6be0bdf7df4f143d65821fb46cc6b3f127ee91fe007ac62cb1e",
+    "bytes": 33084
+  },
+  {
+    "base": "KentHall/fbx/split/NA_KentHall_8x4_LOD2.fbx",
+    "candidate": "KentHall/NA_KentHall_8x4_LOD2.fbx",
+    "patch": "NA_KentHall_8x4_LOD2.fbx.zst",
+    "before_sha256": "6c4e1c9a712ca129ef7d20408124de18dc9b0595a9a327735952dc65c6853126",
+    "after_sha256": "528002dee2ab84d1e54900a5ee0eee75248d92be06cb8f547afd0d0e01e8fa81",
+    "patch_sha256": "d987d997ba5c539e089217f69166982f77609ce6c8089d1b6fc22aad65f56054",
+    "bytes": 28956
+  },
+  {
+    "base": "LewisohnHall/fbx/split/NA_LewisohnHall_6x4_LOD2.fbx",
+    "candidate": "LewisohnHall/NA_LewisohnHall_6x4_LOD2.fbx",
+    "patch": "NA_LewisohnHall_6x4_LOD2.fbx.zst",
+    "before_sha256": "261c38823407bddf97ccc1384985d08488b6d5ffd18db64a55f82db9ce455fe6",
+    "after_sha256": "c52abcb6d350bac072ed5b28232b4aea0d6172df6fe355419d8fef523b1b38eb",
+    "patch_sha256": "042a4bc56c051d247f56f729a71ad89137521222b51b9353bfa1157bb0c5934e",
+    "bytes": 28636
+  },
+  {
+    "base": "PhilosophyHall/fbx/split/NA_PhilosophyHall_6x4_LOD2.fbx",
+    "candidate": "PhilosophyHall/NA_PhilosophyHall_6x4_LOD2.fbx",
+    "patch": "NA_PhilosophyHall_6x4_LOD2.fbx.zst",
+    "before_sha256": "a5056d08fa4d505473049d379fa679f90460b7f43e3c31bbd59bdfc5da3fb6b9",
+    "after_sha256": "ea1d7184ecaf609d15e507e35b3ec17c5d1e7a8f499ab889e53ea7c6e5f8fa04",
+    "patch_sha256": "ce0cd830ae3eb6ce6ccb63f769e1367852b52de5c61f99a6e850cb3cb0151e47",
+    "bytes": 28732
+  }
+]

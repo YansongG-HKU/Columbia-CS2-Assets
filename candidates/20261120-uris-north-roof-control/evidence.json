@@ -1,0 +1,516 @@
+{
+  "source_csv_gz_sha256": "453a1daf89522fd60b43c3c87239733adce8d2a87a9bdd78cc6544164917c428",
+  "heldout_ids": [
+    1135,
+    1136
+  ],
+  "station": {
+    "curved_north_flat": {
+      "polygon_2024_ortho_pixels": [
+        [
+          566,
+          155
+        ],
+        [
+          615,
+          145
+        ],
+        [
+          649,
+          171
+        ],
+        [
+          648,
+          193
+        ],
+        [
+          622,
+          208
+        ],
+        [
+          572,
+          190
+        ]
+      ],
+      "train": {
+        "n": 3465,
+        "p10_50_90_navd88_m": [
+          55.02,
+          55.06,
+          55.1
+        ]
+      },
+      "hold": {
+        "n": 752,
+        "p10_50_90_navd88_m": [
+          55,
+          55.03,
+          55.06
+        ]
+      }
+    },
+    "low_rectangular_front": {
+      "polygon_2024_ortho_pixels": [
+        [
+          452,
+          367
+        ],
+        [
+          488,
+          384
+        ],
+        [
+          476,
+          414
+        ],
+        [
+          434,
+          394
+        ]
+      ],
+      "train": {
+        "n": 1140,
+        "p10_50_90_navd88_m": [
+          60.71,
+          60.74,
+          60.77
+        ]
+      },
+      "hold": {
+        "n": 532,
+        "p10_50_90_navd88_m": [
+          60.68,
+          60.7,
+          60.72
+        ]
+      }
+    },
+    "low_rectangular_east": {
+      "polygon_2024_ortho_pixels": [
+        [
+          641,
+          378
+        ],
+        [
+          661,
+          342
+        ],
+        [
+          662,
+          368
+        ],
+        [
+          648,
+          397
+        ],
+        [
+          632,
+          412
+        ]
+      ],
+      "train": {
+        "n": 508,
+        "p10_50_90_navd88_m": [
+          60.72,
+          60.74,
+          60.77
+        ]
+      },
+      "hold": {
+        "n": 354,
+        "p10_50_90_navd88_m": [
+          60.67,
+          60.7,
+          60.72
+        ]
+      }
+    },
+    "low_rectangular_rear_mixed_edges": {
+      "polygon_2024_ortho_pixels": [
+        [
+          449,
+          205
+        ],
+        [
+          491,
+          226
+        ],
+        [
+          478,
+          243
+        ],
+        [
+          442,
+          230
+        ]
+      ],
+      "train": {
+        "n": 1215,
+        "p10_50_90_navd88_m": [
+          60.74,
+          60.76,
+          61.666
+        ]
+      },
+      "hold": {
+        "n": 360,
+        "p10_50_90_navd88_m": [
+          60.7,
+          60.72,
+          61.57
+        ]
+      }
+    },
+    "east_step_mixed": {
+      "polygon_2024_ortho_pixels": [
+        [
+          518,
+          407
+        ],
+        [
+          529,
+          413
+        ],
+        [
+          523,
+          426
+        ],
+        [
+          509,
+          421
+        ]
+      ],
+      "train": {
+        "n": 178,
+        "p10_50_90_navd88_m": [
+          61.084,
+          61.525,
+          61.886
+        ]
+      },
+      "hold": {
+        "n": 78,
+        "p10_50_90_navd88_m": [
+          61.077,
+          61.545,
+          61.863
+        ]
+      }
+    },
+    "west_apparent_fan_mixed": {
+      "polygon_2024_ortho_pixels": [
+        [
+          465,
+          279
+        ],
+        [
+          471,
+          271
+        ],
+        [
+          484,
+          278
+        ],
+        [
+          483,
+          290
+        ],
+        [
+          473,
+          294
+        ],
+        [
+          465,
+          286
+        ]
+      ],
+      "train": {
+        "n": 279,
+        "p10_50_90_navd88_m": [
+          90.17,
+          91.71,
+          92.86
+        ]
+      },
+      "hold": {
+        "n": 151,
+        "p10_50_90_navd88_m": [
+          91.65,
+          91.76,
+          92.86
+        ]
+      }
+    },
+    "east_apparent_fan_mixed": {
+      "polygon_2024_ortho_pixels": [
+        [
+          586,
+          351
+        ],
+        [
+          597,
+          351
+        ],
+        [
+          605,
+          358
+        ],
+        [
+          602,
+          368
+        ],
+        [
+          591,
+          369
+        ],
+        [
+          585,
+          362
+        ]
+      ],
+      "train": {
+        "n": 246,
+        "p10_50_90_navd88_m": [
+          90.94,
+          92.91,
+          93.03
+        ]
+      },
+      "hold": {
+        "n": 150,
+        "p10_50_90_navd88_m": [
+          90.25,
+          92.85,
+          92.991
+        ]
+      }
+    },
+    "front_plaza_ground": {
+      "polygon_2024_ortho_pixels": [
+        [
+          444,
+          453
+        ],
+        [
+          460,
+          459
+        ],
+        [
+          458,
+          468
+        ],
+        [
+          440,
+          462
+        ]
+      ],
+      "train": {
+        "n": 143,
+        "p10_50_90_navd88_m": [
+          46.46,
+          46.48,
+          46.5
+        ]
+      },
+      "hold": {
+        "n": 69,
+        "p10_50_90_navd88_m": [
+          46.43,
+          46.44,
+          46.47
+        ]
+      }
+    },
+    "upper_station_west_83m": {
+      "polygon_epsg6347_m": [
+        [
+          587586.95,
+          4518076.03
+        ],
+        [
+          587588.17,
+          4518075.44
+        ],
+        [
+          587587.37,
+          4518073.82
+        ],
+        [
+          587586.15,
+          4518074.41
+        ]
+      ],
+      "train": {
+        "n": 40,
+        "p10_50_90_navd88_m": [
+          83.119,
+          83.14,
+          83.17
+        ]
+      },
+      "hold": {
+        "n": 21,
+        "p10_50_90_navd88_m": [
+          83.07,
+          83.1,
+          83.11
+        ]
+      }
+    },
+    "upper_station_mid_83m": {
+      "polygon_epsg6347_m": [
+        [
+          587603.56,
+          4518065.23
+        ],
+        [
+          587606,
+          4518064.05
+        ],
+        [
+          587605.4,
+          4518062.83
+        ],
+        [
+          587602.96,
+          4518064.01
+        ]
+      ],
+      "train": {
+        "n": 51,
+        "p10_50_90_navd88_m": [
+          83.15,
+          83.17,
+          83.2
+        ]
+      },
+      "hold": {
+        "n": 29,
+        "p10_50_90_navd88_m": [
+          83.12,
+          83.13,
+          83.142
+        ]
+      }
+    },
+    "upper_east_cap_85m": {
+      "polygon_epsg6347_m": [
+        [
+          587629.29,
+          4518062.29
+        ],
+        [
+          587630.51,
+          4518061.7
+        ],
+        [
+          587629.42,
+          4518059.47
+        ],
+        [
+          587628.2,
+          4518060.06
+        ]
+      ],
+      "train": {
+        "n": 46,
+        "p10_50_90_navd88_m": [
+          85.52,
+          85.55,
+          85.57
+        ]
+      },
+      "hold": {
+        "n": 34,
+        "p10_50_90_navd88_m": [
+          85.5,
+          85.52,
+          85.53
+        ]
+      }
+    }
+  },
+  "north_patch": {
+    "datum_horizontal": "EPSG:6347",
+    "datum_vertical": "NAVD88 metres GEOID18",
+    "origin_utm_m": [
+      587623.1421979353,
+      4518097.006500896
+    ],
+    "local_z0_navd88_m": 46.46,
+    "surface_navd88_m": 55.04999999999998,
+    "train_z_band_m": [
+      54.9,
+      55.18
+    ],
+    "train_n_in_band": 16708,
+    "hold_n_in_band": 3613,
+    "train_spatial_cells_with_repeated_swaths": 2862,
+    "hull_held_coverage_with_55cm_tolerance": 0.9753667312482701,
+    "held_all_z_inside_hull_n": 3447,
+    "held_all_z_inside_hull_within_25cm": 0.9561937917029301,
+    "held_outside_25cm_z_p10_50_90_m": [
+      55.7,
+      56.04,
+      56.78
+    ],
+    "hold_abs_height_error_p50_p90_in_band_m": [
+      0.03999999999999204,
+      0.07999999999998408
+    ],
+    "mesh_area_m2": 873.5091192509428,
+    "mesh_extents_local_utm_m": [
+      [
+        -19.789104705663313,
+        -9.411600300632701
+      ],
+      [
+        22.212839548174042,
+        24.95339964737517
+      ]
+    ],
+    "ring_vertices": 12,
+    "expected_open_edges": 12
+  },
+  "blender_readback": {
+    "vertices": 13,
+    "triangles": 12,
+    "intentional_open_perimeter_edges": 12,
+    "interior_two_face_edges": 12,
+    "nonmanifold_3plus_edges": 0,
+    "area_m2": 873.509165763855
+  },
+  "input_fbx_exact_trial_measurements_local_m": {
+    "near_lod1": {
+      "rectangular_front_strip_inner_or_cap": [
+        18.4,
+        18.42
+      ],
+      "shallow_rear_rectangular": [
+        8.1,
+        8.15
+      ],
+      "broad_deck": [
+        11.7,
+        11.75
+      ],
+      "upper_body_and_inner_deck": [
+        43.2,
+        44.1,
+        44.15
+      ],
+      "generic_plant_box": 47.2
+    },
+    "lod2": {
+      "rear_and_broad_decks": [
+        8.1,
+        11.7
+      ],
+      "front_strip": 18.4,
+      "upper_deck": 44.1,
+      "generic_plant_box": 47.2
+    }
+  },
+  "ept_url": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/entwine/geoid18/9306/ept.json",
+  "ortho_url": "https://tiles.arcgis.com/tiles/yG5s3afENB5iO9fj/arcgis/rest/services/NYC_Orthos_2024/MapServer"
+}

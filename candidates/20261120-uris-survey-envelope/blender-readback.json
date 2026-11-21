@@ -1,0 +1,65 @@
+{
+  "original_city": {
+    "verts": 284,
+    "tris": 564,
+    "oriented_two_face_edges": 846,
+    "open_cut_edges": 0,
+    "disjoint_triangle_intersections": 0,
+    "min_face_area_m2": 0.004042650572955608,
+    "signed_volume_m3": 114981.12926742743,
+    "extent": [
+      [
+        -52.447509765625,
+        -60.27410125732422,
+        -8.463800430297852
+      ],
+      [
+        27.391399383544922,
+        25.625019073486328,
+        41.719398498535156
+      ]
+    ]
+  },
+  "survey_envelope": {
+    "verts": 284,
+    "tris": 564,
+    "oriented_two_face_edges": 846,
+    "open_cut_edges": 0,
+    "disjoint_triangle_intersections": 0,
+    "min_face_area_m2": 0.004042650572955608,
+    "signed_volume_m3": 116746.65667171644,
+    "extent": [
+      [
+        -52.447509765625,
+        -60.27410125732422,
+        -8.463800430297852
+      ],
+      [
+        27.391399383544922,
+        25.625019073486328,
+        41.719398498535156
+      ]
+    ]
+  },
+  "roof_rim_detail": {
+    "verts": 180,
+    "tris": 290,
+    "oriented_two_face_edges": 401,
+    "open_cut_edges": 68,
+    "disjoint_triangle_intersections": 0,
+    "min_face_area_m2": 0.4521855115890503,
+    "signed_volume_m3": null,
+    "extent": [
+      [
+        -18.490184783935547,
+        10.678399085998535,
+        8.579999923706055
+      ],
+      [
+        21.629241943359375,
+        25.578453063964844,
+        9.600000381469727
+      ]
+    ]
+  }
+}

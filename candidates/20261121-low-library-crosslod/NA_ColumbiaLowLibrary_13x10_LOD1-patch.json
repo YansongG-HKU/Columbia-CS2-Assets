@@ -1,0 +1,62 @@
+{
+  "before": "6652da3ce5725f773d16eeb6d6ef8bd9267733eb458252cf22b16164a845ae23",
+  "after": "20da51b64d4153b40182f0eaf002b25d79d63c41159299e80ab7ba3bd47562a8",
+  "triangles": 50407,
+  "moved_crown_vertices": 768,
+  "affected_dome_faces": 1728,
+  "corrected_corners": 5184,
+  "ring_movements": [
+    {
+      "radius_m": 4.7674,
+      "old_height_m": 41.3488,
+      "blend_weight": 0.373095,
+      "rise_m": 0.26
+    },
+    {
+      "radius_m": 5.9125,
+      "old_height_m": 40.9387,
+      "blend_weight": 0.901449,
+      "rise_m": 0.63
+    },
+    {
+      "radius_m": 7.0227,
+      "old_height_m": 40.442,
+      "blend_weight": 1,
+      "rise_m": 0.68712
+    },
+    {
+      "radius_m": 8.0916,
+      "old_height_m": 39.8617,
+      "blend_weight": 1,
+      "rise_m": 0.674475
+    },
+    {
+      "radius_m": 9.1129,
+      "old_height_m": 39.2011,
+      "blend_weight": 1,
+      "rise_m": 0.669199
+    },
+    {
+      "radius_m": 10.0805,
+      "old_height_m": 38.4641,
+      "blend_weight": 1,
+      "rise_m": 0.691995
+    },
+    {
+      "radius_m": 10.9887,
+      "old_height_m": 37.6552,
+      "blend_weight": 0.9,
+      "rise_m": 0.5994
+    },
+    {
+      "radius_m": 11.8322,
+      "old_height_m": 36.7789,
+      "blend_weight": 1,
+      "rise_m": 0.7011
+    }
+  ],
+  "max_corner_normal_rotation_deg": 18.02127995525481,
+  "old_affected_nonunit_frames": 0,
+  "old_affected_nonorthogonal_frames": 0,
+  "uv_topology_resource_nodes_exactly_unchanged": true
+}

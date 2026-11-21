@@ -1,0 +1,198 @@
+{
+  "separate_FBX": {
+    "NA_JohnJayHall_8x4.fbx": {
+      "triangles": 98288,
+      "bounds_m": [
+        [
+          -32.0,
+          -16.0,
+          -0.05000260844826698
+        ],
+        [
+          32.0,
+          16.0,
+          47.20000076293945
+        ]
+      ],
+      "images": {
+        "NA_JohnJayHall_8x4_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_JohnJayHall_8x4_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_JohnJayHall_8x4_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_JohnJayHall_8x4_LOD1.fbx": {
+      "triangles": 43934,
+      "bounds_m": [
+        [
+          -32.0,
+          -16.0,
+          -0.05000260844826698
+        ],
+        [
+          32.0,
+          16.0,
+          47.20000076293945
+        ]
+      ],
+      "images": {
+        "NA_JohnJayHall_8x4_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_JohnJayHall_8x4_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_JohnJayHall_8x4_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_JohnJayHall_8x4_LOD2.fbx": {
+      "triangles": 48,
+      "bounds_m": [
+        [
+          -32.0,
+          -16.0,
+          -0.05000260844826698
+        ],
+        [
+          32.0,
+          16.0,
+          47.20000076293945
+        ]
+      ],
+      "images": {
+        "NA_JohnJayHall_8x4_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_JohnJayHall_8x4_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_JohnJayHall_8x4_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_JohnJayHall_8x4_Gls.fbx": {
+      "triangles": 112,
+      "bounds_m": [
+        [
+          -4.840000152587891,
+          -14.928252220153809,
+          3.000002384185791
+        ],
+        [
+          4.840000152587891,
+          -14.471745491027832,
+          3.500002384185791
+        ]
+      ],
+      "images": {}
+    },
+    "NA_JohnJayHall_8x4_LOD1_Gls.fbx": {
+      "triangles": 112,
+      "bounds_m": [
+        [
+          -4.840000152587891,
+          -14.928252220153809,
+          3.000002384185791
+        ],
+        [
+          4.840000152587891,
+          -14.471745491027832,
+          3.500002384185791
+        ]
+      ],
+      "images": {}
+    },
+    "NA_JohnJayHall_8x4_Win.fbx": {
+      "triangles": 1528,
+      "bounds_m": [
+        [
+          -31.260000228881836,
+          -13.310003280639648,
+          1.399997591972351
+        ],
+        [
+          31.260000228881836,
+          14.910000801086426,
+          45.46000289916992
+        ]
+      ],
+      "images": {}
+    },
+    "NA_JohnJayHall_8x4_LOD1_Win.fbx": {
+      "triangles": 1528,
+      "bounds_m": [
+        [
+          -31.260000228881836,
+          -13.310003280639648,
+          1.399997591972351
+        ],
+        [
+          31.260000228881836,
+          14.910000801086426,
+          45.46000289916992
+        ]
+      ],
+      "images": {}
+    }
+  },
+  "all_PNGs_decoded": {
+    "NA_JohnJayHall_8x4_BaseColor.png": [
+      4096,
+      4096
+    ],
+    "NA_JohnJayHall_8x4_ControlMask.png": [
+      4096,
+      4096
+    ],
+    "NA_JohnJayHall_8x4_Emissive.png": [
+      4096,
+      4096
+    ],
+    "NA_JohnJayHall_8x4_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_JohnJayHall_8x4_LOD2_ControlMask.png": [
+      1024,
+      1024
+    ],
+    "NA_JohnJayHall_8x4_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_JohnJayHall_8x4_LOD2_MaskMap.png": [
+      1024,
+      1024
+    ],
+    "NA_JohnJayHall_8x4_LOD2_Normal.png": [
+      1024,
+      1024
+    ],
+    "NA_JohnJayHall_8x4_MaskMap.png": [
+      4096,
+      4096
+    ],
+    "NA_JohnJayHall_8x4_Normal.png": [
+      4096,
+      4096
+    ]
+  },
+  "scope": "Offline package, independent mesh and texture checks, not combined shader or Editor test"
+}

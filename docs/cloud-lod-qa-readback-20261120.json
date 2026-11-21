@@ -1,0 +1,47 @@
+{
+  "scope": "Pinned canonical split Base FBX only (excludes separately delivered roof candidate, glass and windows)",
+  "asset": "UrisHall",
+  "pinned_draft": "05800b022c9edde0b087b545717b879ba0507d79",
+  "blender": "4.3.2",
+  "source_fbx_sha256": {
+    "NA_UrisHall_6x9.fbx": "64277811ac5bd5a4af42925b8e26d272e4301385073067841af1738fb569e817",
+    "NA_UrisHall_6x9_LOD1.fbx": "7e793663c01b6ff65eaec8db82a5f82f1fb5d78a4c426a4bc7eff09dd2ce9b36",
+    "NA_UrisHall_6x9_LOD2.fbx": "88201d18179231b86247107f8db91fa4b8a3442bf101e0f4e912226525452b02"
+  },
+  "mesh_checks": {
+    "NA_UrisHall_6x9_Base": {
+      "tris": 7210,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 191,
+      "zero_area": 0,
+      "loose_verts": 0,
+      "bad_winding": 0,
+      "components": 429,
+      "flipped_closed": 0,
+      "floating": 0
+    },
+    "NA_UrisHall_6x9_LOD1_Base": {
+      "tris": 4762,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 191,
+      "zero_area": 0,
+      "loose_verts": 0,
+      "bad_winding": 0,
+      "components": 225,
+      "flipped_closed": 0,
+      "floating": 0
+    },
+    "NA_UrisHall_6x9_LOD2_Base": {
+      "tris": 72,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "zero_area": 0,
+      "loose_verts": 0,
+      "bad_winding": 0,
+      "components": 6,
+      "flipped_closed": 0,
+      "floating": 0
+    }
+  },
+  "cs2_editor_tested": false
+}

@@ -1,0 +1,27 @@
+{
+  "payload_files": 18,
+  "crc_and_manifest_ok": true,
+  "bytes": 26579151,
+  "archive_sha256": "01c51612d1ddbb23c4b09a192cfa3d3b8d374b90a794f0856b855c2245dd4965",
+  "input_portability_manifest_sha256": "520f62b68352ab83c8861e8df1aa7eb3000fb8de2725327e714a6393bf7c0d77",
+  "asset": {
+    "NA_UrisHall_6x9.fbx": "8130ab8a01159608512eacff9dd2031390f42cda01fa2415c7432217fdbe69e4",
+    "NA_UrisHall_6x9_BaseColor.png": "1318f23f71c978865f214251e0254626f92a4d1d4df88cbcb87e9f31a425bb8d",
+    "NA_UrisHall_6x9_ControlMask.png": "d707d23a521009e707bbbae2f4a4443fcde9bb3d7144b87cb6e440083a82cd4e",
+    "NA_UrisHall_6x9_Emissive.png": "96bb1126f74f49ec92c5045c4ce311c392a667bbbafb76aaa8f802e12b639d48",
+    "NA_UrisHall_6x9_Gls.fbx": "7e9beba1858dab084b12b440aecd050500e4e1d0f1c3e4efe93a28f42535a8b7",
+    "NA_UrisHall_6x9_LOD1.fbx": "2629a324366f1133f3e3add41bebc1c6893477706871afebf59be91bd4ea9081",
+    "NA_UrisHall_6x9_LOD1_Gls.fbx": "42683e7493353ad9565c6ea0a58006b3e97a833ec1dea507e5646c135900748c",
+    "NA_UrisHall_6x9_LOD1_Win.fbx": "14ea7cfd32ffd6fba6dcf8359a998f0348b1e88d7ad647bcbf38a3a65bbe2672",
+    "NA_UrisHall_6x9_LOD2.fbx": "3dde42a760068a4dd3319103035f527b7adadcd5392ffa97b7e0b85f33ff72bd",
+    "NA_UrisHall_6x9_LOD2_BaseColor.png": "511b9ae93bc891aeb46d859402ec7cb78a7efc4ead553bd1a27d824cb9aa507b",
+    "NA_UrisHall_6x9_LOD2_ControlMask.png": "b2ac5efa78e7eb86571502c6bdbed28a4efab5354fd55f57340f024cfd07476e",
+    "NA_UrisHall_6x9_LOD2_Emissive.png": "f820a5330c556efcb3d0782e7c3822d1cafb0b2a805fbe14473d45b3ac2808b5",
+    "NA_UrisHall_6x9_LOD2_MaskMap.png": "c5da97a8cafa63314ffd3426589ebc63c0f8afaf777e6d3d5a83e0d52333ff49",
+    "NA_UrisHall_6x9_LOD2_Normal.png": "710bc43f717cc15aa94c3d67021cf2831f79fc38cb1fd6e32b0c75e3483aa80f",
+    "NA_UrisHall_6x9_MaskMap.png": "6eb31842d1dae7fc111a0ac320ee9cd12560cd4d3be818d32bdcc09f8b5bd511",
+    "NA_UrisHall_6x9_Normal.png": "8308fad811e5d8c454c4e55cbf2c292f1b239d1433cacfb1617ac270bc21c01b",
+    "NA_UrisHall_6x9_Win.fbx": "10ec2bfd4635763acb1b3cf66bec3ff9c7281da0797cb48f08318164d4904168",
+    "settings.json": "0ddd96d77fc27cb2e7076b9ec99bea398d5bb71c5eadd5ba50142e0a3c25ab1c"
+  }
+}

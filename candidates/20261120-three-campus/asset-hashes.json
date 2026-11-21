@@ -1,0 +1,3505 @@
+{
+  "baseline_revision": "98587eeddab6ddf83a0c562efbf449207d633582",
+  "assets": {
+    "AveryHall": {
+      "files": {
+        "NA_AveryHall_6x4.fbx": {
+          "bytes": 1670908,
+          "sha256": "5e1a91ad285dc0dd4bc89e6e8662b6b4ee894c2bb372bf490356bd72b0fe8d68"
+        },
+        "NA_AveryHall_6x4_BaseColor.png": {
+          "bytes": 6580164,
+          "sha256": "c333902a9d7fa1fc966d0f8cbe68310c11642af0b74c41a1a53c9ab964d591c9"
+        },
+        "NA_AveryHall_6x4_ControlMask.png": {
+          "bytes": 78418,
+          "sha256": "33d9b2006cb80c3d1d95fdeb3d4d13c9dd6d3a0cacdff186ad9753aad95e844e"
+        },
+        "NA_AveryHall_6x4_Emissive.png": {
+          "bytes": 75858,
+          "sha256": "88abb964b7fe7da8c1c4ec3e0d7eb02b92b8351e6bc2501520b16179fae7ace2"
+        },
+        "NA_AveryHall_6x4_Gls.fbx": {
+          "bytes": 23404,
+          "sha256": "f51589ba2302437b54c0b1284b756d3b9c89005c832a814251e99f9ae9c3a8ef"
+        },
+        "NA_AveryHall_6x4_LOD1.fbx": {
+          "bytes": 1189052,
+          "sha256": "7c619d096622223a56edf22e99857c0eac863cb92a6373c072266e184f475db1"
+        },
+        "NA_AveryHall_6x4_LOD1_Gls.fbx": {
+          "bytes": 23404,
+          "sha256": "dea5d970b1348fcbcc6e1398bc0229bcd1781b8d09a76d42bfb490e0146e2d5e"
+        },
+        "NA_AveryHall_6x4_LOD1_Win.fbx": {
+          "bytes": 45004,
+          "sha256": "a7d7a0907dcc5b2d92a5916886f90c796012ec0319266769822ddc8ed72aba2e"
+        },
+        "NA_AveryHall_6x4_LOD2.fbx": {
+          "bytes": 37772,
+          "sha256": "f3159b79935ee5ac52ffec1e27e2020f0d80ce204767cddf0edc1452d8e02051"
+        },
+        "NA_AveryHall_6x4_LOD2_BaseColor.png": {
+          "bytes": 1292891,
+          "sha256": "f20ba79cc7ede9828a40c010649405f8b8b291f8cdd9d4365ea8df9d02dff709"
+        },
+        "NA_AveryHall_6x4_LOD2_ControlMask.png": {
+          "bytes": 89292,
+          "sha256": "ff368f7e9de8c55d06672229ceb86274b13fcc18784d3c2c49e3d425f10a8d7c"
+        },
+        "NA_AveryHall_6x4_LOD2_Emissive.png": {
+          "bytes": 27952,
+          "sha256": "32f861d23bb721ae3f5062123efcd64ac8d42e37e6beb08a592a0ed9da542095"
+        },
+        "NA_AveryHall_6x4_LOD2_MaskMap.png": {
+          "bytes": 114079,
+          "sha256": "3fc1d4b24898479281ea15b035b9a83f57ecdf0272e30b3235c4b52ec9f770d9"
+        },
+        "NA_AveryHall_6x4_LOD2_Normal.png": {
+          "bytes": 751189,
+          "sha256": "97ce27a468b06607f2da9fcae57a18905691a25e6140dc526920cb6552c6900d"
+        },
+        "NA_AveryHall_6x4_MaskMap.png": {
+          "bytes": 133683,
+          "sha256": "e0509626ea2a8b1a335b3a6de29244aeccfc5a566aadc3657f635a8d77309aa5"
+        },
+        "NA_AveryHall_6x4_Normal.png": {
+          "bytes": 2906884,
+          "sha256": "34deee83b47a1d74c2342bf6d83eb30e71658c94ade47794ff0b004d60a614ec"
+        },
+        "NA_AveryHall_6x4_Win.fbx": {
+          "bytes": 44988,
+          "sha256": "8a5694a7ebdcd3ecd6b00e5bdae15b3ca702abc91f24139dad91163bc1eacd58"
+        },
+        "settings.json": {
+          "bytes": 403,
+          "sha256": "bcd24f7f95e175b37fd9f6df7f1907d6dfd564f177daeae62ae9790fe0fbbfb1"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/AveryHall.zip",
+        "bytes": 14751314,
+        "sha256": "a0aa92fa9f5737ba1d861e3b1addfdf61894af3af47a532f4b7e4c287a829d9c"
+      },
+      "fbx": {
+        "NA_AveryHall_6x4.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_AveryHall_6x4_BaseColor.png",
+            "NA_AveryHall_6x4_Emissive.png",
+            "NA_AveryHall_6x4_Normal.png"
+          ]
+        },
+        "NA_AveryHall_6x4_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_AveryHall_6x4_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_AveryHall_6x4_BaseColor.png",
+            "NA_AveryHall_6x4_Emissive.png",
+            "NA_AveryHall_6x4_Normal.png"
+          ]
+        },
+        "NA_AveryHall_6x4_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_AveryHall_6x4_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_AveryHall_6x4_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_AveryHall_6x4_LOD2_BaseColor.png",
+            "NA_AveryHall_6x4_LOD2_Emissive.png",
+            "NA_AveryHall_6x4_LOD2_Normal.png"
+          ]
+        },
+        "NA_AveryHall_6x4_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "ButlerLibrary": {
+      "files": {
+        "NA_ButlerLibrary_11x7.fbx": {
+          "bytes": 4034364,
+          "sha256": "be8f4f4ec0f0a651554c1e5820cdca569e6843ce44a5ef8147ac0266d7e5065c"
+        },
+        "NA_ButlerLibrary_11x7_BaseColor.png": {
+          "bytes": 2452962,
+          "sha256": "a59cc449f0cae2da09f252f9564d2a9cb604b8eb2c8740d9f263007f92c3f331"
+        },
+        "NA_ButlerLibrary_11x7_ControlMask.png": {
+          "bytes": 77494,
+          "sha256": "faaf31eb11e782cf2be9e05500888b059e3fe0ec12ec2940e45e063e91dfe5d1"
+        },
+        "NA_ButlerLibrary_11x7_Emissive.png": {
+          "bytes": 75981,
+          "sha256": "7c7f7adfb5ba6a847e0e429b48b583c28619b4c9ea8acf4c8bc4c110b626ffc7"
+        },
+        "NA_ButlerLibrary_11x7_Gls.fbx": {
+          "bytes": 19148,
+          "sha256": "d40d3435c7c64a039028eff545b80f58a4bdebb5f145a89f71bf67332d070db3"
+        },
+        "NA_ButlerLibrary_11x7_LOD1.fbx": {
+          "bytes": 2874092,
+          "sha256": "532f5878b92beccc375872632c34c8cc4fbb6e93761ef54274b2bbbc86f343de"
+        },
+        "NA_ButlerLibrary_11x7_LOD1_Gls.fbx": {
+          "bytes": 19164,
+          "sha256": "a5f66408aa4482351b4e87f687abc2a09d3e554949428cdcafb8bde96e1c501e"
+        },
+        "NA_ButlerLibrary_11x7_LOD1_Win.fbx": {
+          "bytes": 44108,
+          "sha256": "b6d80449d9183c45fb0019cccb53e0f2a6e6ea9b1ff5d4a85c659abd2e736539"
+        },
+        "NA_ButlerLibrary_11x7_LOD2.fbx": {
+          "bytes": 51564,
+          "sha256": "d8023ef298d467d009abd74976edf44521df38f2a8c0d611b1d5da3c3fb11d08"
+        },
+        "NA_ButlerLibrary_11x7_LOD2_BaseColor.png": {
+          "bytes": 1304366,
+          "sha256": "e79156e8ba2826a274fa91bab494d263782adc17a04174ddc55ba7729b1f3506"
+        },
+        "NA_ButlerLibrary_11x7_LOD2_ControlMask.png": {
+          "bytes": 117600,
+          "sha256": "db1cb6f76de58894d90879caa1fbda1f5ab8c7ad32ec4ab03f19a660a2e65543"
+        },
+        "NA_ButlerLibrary_11x7_LOD2_Emissive.png": {
+          "bytes": 33005,
+          "sha256": "aa323fbe50fcfdd91c74f2b2e13b46c31d11437507f863c383d783981867b6c6"
+        },
+        "NA_ButlerLibrary_11x7_LOD2_MaskMap.png": {
+          "bytes": 147840,
+          "sha256": "0c36408d740c27b09bd6a30800c888d9132bb5dd6360603c1f74a66e9e7951da"
+        },
+        "NA_ButlerLibrary_11x7_LOD2_Normal.png": {
+          "bytes": 527255,
+          "sha256": "073bd32659925bd2a6baa975bf88b72acc4beae57eb92896e7b5cd83c222f806"
+        },
+        "NA_ButlerLibrary_11x7_MaskMap.png": {
+          "bytes": 83280,
+          "sha256": "03d5078363f1579135d1710276143f0e4533352acefaf939d504ecc2afbc0203"
+        },
+        "NA_ButlerLibrary_11x7_Normal.png": {
+          "bytes": 774695,
+          "sha256": "d659b5db2cbaba347ec972d5867b511d743d8218b8c81a5922e779d7f81309df"
+        },
+        "NA_ButlerLibrary_11x7_Win.fbx": {
+          "bytes": 44108,
+          "sha256": "ef26268ccfa7ddb18e45dd609f2582e3238f4d7c1acc7a1f8f06364e58e62803"
+        },
+        "settings.json": {
+          "bytes": 453,
+          "sha256": "4a1cfc4ef6dd2905691980978c4159254a708023a150654f269b690f5be0651b"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/ButlerLibrary.zip",
+        "bytes": 11707921,
+        "sha256": "b5f4a392d754a8a53d223e1b354fe69167346e82a0cf05f06acd122ad6b66f78"
+      },
+      "fbx": {
+        "NA_ButlerLibrary_11x7.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_ButlerLibrary_11x7_BaseColor.png",
+            "NA_ButlerLibrary_11x7_Emissive.png",
+            "NA_ButlerLibrary_11x7_Normal.png"
+          ]
+        },
+        "NA_ButlerLibrary_11x7_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_ButlerLibrary_11x7_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_ButlerLibrary_11x7_BaseColor.png",
+            "NA_ButlerLibrary_11x7_Emissive.png",
+            "NA_ButlerLibrary_11x7_Normal.png"
+          ]
+        },
+        "NA_ButlerLibrary_11x7_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_ButlerLibrary_11x7_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_ButlerLibrary_11x7_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_ButlerLibrary_11x7_LOD2_BaseColor.png",
+            "NA_ButlerLibrary_11x7_LOD2_Emissive.png",
+            "NA_ButlerLibrary_11x7_LOD2_Normal.png"
+          ]
+        },
+        "NA_ButlerLibrary_11x7_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "DodgeHall": {
+      "files": {
+        "NA_DodgeHall_9x5.fbx": {
+          "bytes": 1075500,
+          "sha256": "b404b2b9e256620f6b7e59d0cc2c009a4ae319136a0174b84eca72fb615d8611"
+        },
+        "NA_DodgeHall_9x5_BaseColor.png": {
+          "bytes": 5007316,
+          "sha256": "ad8b5e14652459149e69484418733c2d6e81296ff939849eb6d402b8a910da21"
+        },
+        "NA_DodgeHall_9x5_ControlMask.png": {
+          "bytes": 78171,
+          "sha256": "c1d3d7e8a53e0c1883e5b3ce0a51e5f07e60885a3fc7272e2822f82f028a99c2"
+        },
+        "NA_DodgeHall_9x5_Emissive.png": {
+          "bytes": 76113,
+          "sha256": "d89d58afd9e03308d1c86431da9270c1c27893749e1dafde4dd80f79b47b8e3e"
+        },
+        "NA_DodgeHall_9x5_Gls.fbx": {
+          "bytes": 35292,
+          "sha256": "5d74efdfe27c512fb807a63b367a019d09476a6e4772ee09a36b1f5c0270b8a1"
+        },
+        "NA_DodgeHall_9x5_LOD1.fbx": {
+          "bytes": 726028,
+          "sha256": "9d44502124b77e1d263b16a4312c1f863311e2a84219bbdeb32e9e121dd2e03a"
+        },
+        "NA_DodgeHall_9x5_LOD1_Gls.fbx": {
+          "bytes": 35308,
+          "sha256": "dd6362856d8c3bdeab172dffc44b66ff03b4b7a43e536fa8ada4341a3a1c3226"
+        },
+        "NA_DodgeHall_9x5_LOD1_Win.fbx": {
+          "bytes": 33212,
+          "sha256": "d18199a53262357b4c15ce30e60564a72f827f04021dfb09b2271c7e1f104ba4"
+        },
+        "NA_DodgeHall_9x5_LOD2.fbx": {
+          "bytes": 30604,
+          "sha256": "403d944b37a385e359e50ba82f55a0ab0c7fcf67ab3d556113f456b7987e800e"
+        },
+        "NA_DodgeHall_9x5_LOD2_BaseColor.png": {
+          "bytes": 1173309,
+          "sha256": "0f58fb58f026ede2adcd17f5c33409b439b6fa811689f2e34f4b9d26db3edb5a"
+        },
+        "NA_DodgeHall_9x5_LOD2_ControlMask.png": {
+          "bytes": 83195,
+          "sha256": "eacea94a606d613585d311164d695a62902878c6c90c00fb32c1f8697057be28"
+        },
+        "NA_DodgeHall_9x5_LOD2_Emissive.png": {
+          "bytes": 30531,
+          "sha256": "4173ce6785c7d7bc36f6caa8da66dc27cfbb1535f9e58d33d5b024cc2ede6206"
+        },
+        "NA_DodgeHall_9x5_LOD2_MaskMap.png": {
+          "bytes": 105149,
+          "sha256": "1f10a5922fb696ec682c229ea2cccb2a9604253f9d59706fbf05e986dee4da47"
+        },
+        "NA_DodgeHall_9x5_LOD2_Normal.png": {
+          "bytes": 592401,
+          "sha256": "e6e1b01185667830cfc84189a69aaba1461e5dcc1b6c78eec2e6b91118980d5a"
+        },
+        "NA_DodgeHall_9x5_MaskMap.png": {
+          "bytes": 126403,
+          "sha256": "4d3228e3347306f366ee940ae9d441778e71d5ff86e611b086f30c7b9d3b0982"
+        },
+        "NA_DodgeHall_9x5_Normal.png": {
+          "bytes": 1699444,
+          "sha256": "7b0702d7388d3b69b3b470efda47f377bf530bd43df80db3b7064ac98c8a2f41"
+        },
+        "NA_DodgeHall_9x5_Win.fbx": {
+          "bytes": 33196,
+          "sha256": "8528077ae88e2885000a19f193ace249cd25cc166b1a3cd9f3deb6c33c33d133"
+        },
+        "settings.json": {
+          "bytes": 403,
+          "sha256": "07a8b4e0c5c05da4af839491160f28d65596216fe59795ceb05dd76e7e90ad28"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/DodgeHall.zip",
+        "bytes": 10547276,
+        "sha256": "7fe9d425135b99c373a7280dada97275b0e9b52ba1d10e3b3185bb209b5a6510"
+      },
+      "fbx": {
+        "NA_DodgeHall_9x5.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_DodgeHall_9x5_BaseColor.png",
+            "NA_DodgeHall_9x5_Emissive.png",
+            "NA_DodgeHall_9x5_Normal.png"
+          ]
+        },
+        "NA_DodgeHall_9x5_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_DodgeHall_9x5_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_DodgeHall_9x5_BaseColor.png",
+            "NA_DodgeHall_9x5_Emissive.png",
+            "NA_DodgeHall_9x5_Normal.png"
+          ]
+        },
+        "NA_DodgeHall_9x5_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_DodgeHall_9x5_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_DodgeHall_9x5_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_DodgeHall_9x5_LOD2_BaseColor.png",
+            "NA_DodgeHall_9x5_LOD2_Emissive.png",
+            "NA_DodgeHall_9x5_LOD2_Normal.png"
+          ]
+        },
+        "NA_DodgeHall_9x5_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "EarlHall": {
+      "files": {
+        "NA_EarlHall_3x5.fbx": {
+          "bytes": 1185468,
+          "sha256": "ea6fd7e9c5b4471bae09f32adb219894ac046fd52050aa357fef2c78ebcb843f"
+        },
+        "NA_EarlHall_3x5_BaseColor.png": {
+          "bytes": 9387377,
+          "sha256": "7c077d16ad92516c708a2b7c7cf398338e65bcef1f2fa1e6a8e8104805a52580"
+        },
+        "NA_EarlHall_3x5_ControlMask.png": {
+          "bytes": 78794,
+          "sha256": "9a73cf34c95d61b863b96945b225dc197d4607abcb8d7945aad7f1e9312a047f"
+        },
+        "NA_EarlHall_3x5_Emissive.png": {
+          "bytes": 76022,
+          "sha256": "10957eb3667946c909a29f3f8d91be3987e1a77ea50c1fa5c342f423ebe0ad16"
+        },
+        "NA_EarlHall_3x5_Gls.fbx": {
+          "bytes": 22780,
+          "sha256": "e3d1e2b215a502aaf41c471cba7a4efa170bf42f52cb041b3068d5f9d149ed59"
+        },
+        "NA_EarlHall_3x5_LOD1.fbx": {
+          "bytes": 888620,
+          "sha256": "9d2051caf0ff1a67d415077ce2275782340f2ef56ea28441ee3bd39a48dbc67c"
+        },
+        "NA_EarlHall_3x5_LOD1_Gls.fbx": {
+          "bytes": 22796,
+          "sha256": "12151e746b7014efa897ff2a5f6c2d75379c1fd652a8e4d9860a6f2661ab936a"
+        },
+        "NA_EarlHall_3x5_LOD1_Win.fbx": {
+          "bytes": 22540,
+          "sha256": "c2a62185440f892b008fe328226c1f30b5b7790044b9a134f505437f96d65552"
+        },
+        "NA_EarlHall_3x5_LOD2.fbx": {
+          "bytes": 55916,
+          "sha256": "0f0472f504565d29acddfaf943076470de1952adbfbdff5298410f4393b908f9"
+        },
+        "NA_EarlHall_3x5_LOD2_BaseColor.png": {
+          "bytes": 1364110,
+          "sha256": "5b98fd6ba6d9323196d91d34fbc97ea5ecfb49b38521fcc73e9d638cad503a28"
+        },
+        "NA_EarlHall_3x5_LOD2_ControlMask.png": {
+          "bytes": 130930,
+          "sha256": "60f45424e57d16f824ce999b5e0b941fc053e48407b72c4284b949ec0a3af165"
+        },
+        "NA_EarlHall_3x5_LOD2_Emissive.png": {
+          "bytes": 28179,
+          "sha256": "649d6f9442df1fe0cd2a14e8702b40301b2310bf37d379533d64debea1d42347"
+        },
+        "NA_EarlHall_3x5_LOD2_MaskMap.png": {
+          "bytes": 133776,
+          "sha256": "a5a2586522df4f36bf9e1ffdeec8ddc0945c3b4a5314eeca40b692d1e5cd121a"
+        },
+        "NA_EarlHall_3x5_LOD2_Normal.png": {
+          "bytes": 862357,
+          "sha256": "10ef2d9e195b049c1b36d7a9afc1116fd1afdaa2ac5490e138c61f14c94f7720"
+        },
+        "NA_EarlHall_3x5_MaskMap.png": {
+          "bytes": 82898,
+          "sha256": "18632ddfc6708e565843892e0b5c7a67d336f9402d63f560ed6dd0cfdcadfb74"
+        },
+        "NA_EarlHall_3x5_Normal.png": {
+          "bytes": 6749709,
+          "sha256": "efd656b0d37de9ad86b3506b900c4cb9bbcc34c7a054101f183d9d147e7c6b18"
+        },
+        "NA_EarlHall_3x5_Win.fbx": {
+          "bytes": 22540,
+          "sha256": "e06ead704f5e2185be42fc1168fd891952f20f80ed86ab76b680515120f71b32"
+        },
+        "settings.json": {
+          "bytes": 393,
+          "sha256": "92aef89a9bc4af40d56f2880cd60abde867236e4b9933f518b9fe64217a80f13"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/EarlHall.zip",
+        "bytes": 20873575,
+        "sha256": "bb6506cd2e50c858fa66b2c086f25f7e7463d883f24e572c7c3441513b5f34cf"
+      },
+      "fbx": {
+        "NA_EarlHall_3x5.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_EarlHall_3x5_BaseColor.png",
+            "NA_EarlHall_3x5_Emissive.png",
+            "NA_EarlHall_3x5_Normal.png"
+          ]
+        },
+        "NA_EarlHall_3x5_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_EarlHall_3x5_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_EarlHall_3x5_BaseColor.png",
+            "NA_EarlHall_3x5_Emissive.png",
+            "NA_EarlHall_3x5_Normal.png"
+          ]
+        },
+        "NA_EarlHall_3x5_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_EarlHall_3x5_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_EarlHall_3x5_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_EarlHall_3x5_LOD2_BaseColor.png",
+            "NA_EarlHall_3x5_LOD2_Emissive.png",
+            "NA_EarlHall_3x5_LOD2_Normal.png"
+          ]
+        },
+        "NA_EarlHall_3x5_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "FayerweatherHall": {
+      "files": {
+        "NA_FayerweatherHall_6x5.fbx": {
+          "bytes": 1135356,
+          "sha256": "2d550a1e66c31acb077bde8ee354a1c80d8d63ca34c398245db912481adc3c31"
+        },
+        "NA_FayerweatherHall_6x5_BaseColor.png": {
+          "bytes": 4194193,
+          "sha256": "b96072f1f923bc0b6b42097e006bcfe362c2934f2ee7844eebfde47255e4df58"
+        },
+        "NA_FayerweatherHall_6x5_ControlMask.png": {
+          "bytes": 78508,
+          "sha256": "5d602516435c653b735a4ad9d005091e52325700b01a5aa5b37b3b8056394f04"
+        },
+        "NA_FayerweatherHall_6x5_Emissive.png": {
+          "bytes": 76055,
+          "sha256": "40c119f431949868fb94ac498b34ec7a4281fb5c4d74350625b3c0701a1d0d31"
+        },
+        "NA_FayerweatherHall_6x5_Gls.fbx": {
+          "bytes": 23260,
+          "sha256": "9eba8ec4eaa9c5810f4e3099129dfcf06aa304b2eca154abc9a9fb33463e8b45"
+        },
+        "NA_FayerweatherHall_6x5_LOD1.fbx": {
+          "bytes": 630348,
+          "sha256": "097524f938cac8d62c062cb1c16f3a3a47e04867d6eaa2e48b23d85e0d8ad987"
+        },
+        "NA_FayerweatherHall_6x5_LOD1_Gls.fbx": {
+          "bytes": 23276,
+          "sha256": "cd81c096dc2ba45f4071ede6c31a7de745c0225346f66ec9d666a2519ecc44ee"
+        },
+        "NA_FayerweatherHall_6x5_LOD1_Win.fbx": {
+          "bytes": 30172,
+          "sha256": "b45dec1eb97a3cb9ce9f53dbf7d28684e8108e2213c8bd9a1051a651944a90ff"
+        },
+        "NA_FayerweatherHall_6x5_LOD2.fbx": {
+          "bytes": 33660,
+          "sha256": "e72ec3fb1b8a1be80fa4289c681f57b21eca4c9eb7d267f1d40a78b296f8e9fe"
+        },
+        "NA_FayerweatherHall_6x5_LOD2_BaseColor.png": {
+          "bytes": 1319188,
+          "sha256": "49dfd6dd6d2ebc114e9018973d34f19fb7c4818fca1accba05c78e3df749575d"
+        },
+        "NA_FayerweatherHall_6x5_LOD2_ControlMask.png": {
+          "bytes": 82837,
+          "sha256": "de68ab3652845dd42d63c56360d97a71715753e742d3932c201d049efed8908b"
+        },
+        "NA_FayerweatherHall_6x5_LOD2_Emissive.png": {
+          "bytes": 29880,
+          "sha256": "379c0c03ecb78dac168b18b87defed54015a86660d4b338f120ee25ad9a2ae67"
+        },
+        "NA_FayerweatherHall_6x5_LOD2_MaskMap.png": {
+          "bytes": 110343,
+          "sha256": "9cce4e41481b4112f115ad021f8c1f37cf606cbde9fe513badca1eebedce3a38"
+        },
+        "NA_FayerweatherHall_6x5_LOD2_Normal.png": {
+          "bytes": 737832,
+          "sha256": "9c2eabe68bc8e0e2bcf046d4643c89db5a384bb426ea84c6c14351fb33b84d8e"
+        },
+        "NA_FayerweatherHall_6x5_MaskMap.png": {
+          "bytes": 112611,
+          "sha256": "fd964aac18e111e377a4c19359e23bf6b78346fccb430df142272e76247fbe03"
+        },
+        "NA_FayerweatherHall_6x5_Normal.png": {
+          "bytes": 1515869,
+          "sha256": "c2534de351b686a61db9add6686092d4ddf9e491c180283b364c479eb3a4749a"
+        },
+        "NA_FayerweatherHall_6x5_Win.fbx": {
+          "bytes": 30156,
+          "sha256": "5e5a141571b96cfcd6a0f4afbd7f1bccd53e61dca387a67323efe8f72b6b872a"
+        },
+        "settings.json": {
+          "bytes": 473,
+          "sha256": "b67b20cd2100ea02b3379088391d14c82f2170c66c67e0d5c7b40669703238d7"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/FayerweatherHall.zip",
+        "bytes": 9819381,
+        "sha256": "4d3ffd96843fceac8755b0142f0e3037d8cd81152ff0fdb80b0ae48965d579e6"
+      },
+      "fbx": {
+        "NA_FayerweatherHall_6x5.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_FayerweatherHall_6x5_BaseColor.png",
+            "NA_FayerweatherHall_6x5_Emissive.png",
+            "NA_FayerweatherHall_6x5_Normal.png"
+          ]
+        },
+        "NA_FayerweatherHall_6x5_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_FayerweatherHall_6x5_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_FayerweatherHall_6x5_BaseColor.png",
+            "NA_FayerweatherHall_6x5_Emissive.png",
+            "NA_FayerweatherHall_6x5_Normal.png"
+          ]
+        },
+        "NA_FayerweatherHall_6x5_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_FayerweatherHall_6x5_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_FayerweatherHall_6x5_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_FayerweatherHall_6x5_LOD2_BaseColor.png",
+            "NA_FayerweatherHall_6x5_LOD2_Emissive.png",
+            "NA_FayerweatherHall_6x5_LOD2_Normal.png"
+          ]
+        },
+        "NA_FayerweatherHall_6x5_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "FurnaldHall": {
+      "files": {
+        "NA_FurnaldHall_8x5.fbx": {
+          "bytes": 1230060,
+          "sha256": "af0c9897836fafdc840c5d97a2c7570ebfc600540efd1557bd65a9ada2011661"
+        },
+        "NA_FurnaldHall_8x5_BaseColor.png": {
+          "bytes": 2825802,
+          "sha256": "d0a2f49fd3d9ae10b13d0b2e0aadfbe287a372ec3a30226999895ce4bd2c3adf"
+        },
+        "NA_FurnaldHall_8x5_ControlMask.png": {
+          "bytes": 77283,
+          "sha256": "e7dcb87c113064abc7298aadf55850a39f35e9f2ee98ffae684528b95daa0f39"
+        },
+        "NA_FurnaldHall_8x5_Emissive.png": {
+          "bytes": 75987,
+          "sha256": "f257a04df5761bb0827fce7b2e01fff9d799fd7ffcd1d622a4c0272fa5011dfc"
+        },
+        "NA_FurnaldHall_8x5_Gls.fbx": {
+          "bytes": 24044,
+          "sha256": "7466031ecaac4ededc0917bfa811a8b635dc335de07c2ebb661e588142e30acc"
+        },
+        "NA_FurnaldHall_8x5_LOD1.fbx": {
+          "bytes": 786908,
+          "sha256": "2d762e6320bef0263505a07a5db5a5dc2b647164855e254d7dc36c598b0ba5d0"
+        },
+        "NA_FurnaldHall_8x5_LOD1_Gls.fbx": {
+          "bytes": 24060,
+          "sha256": "9701debc007da7cb27ae15e6a1481543f5d41c64ac555dac23c386d83c28e3c0"
+        },
+        "NA_FurnaldHall_8x5_LOD1_Win.fbx": {
+          "bytes": 35660,
+          "sha256": "060e1be7f96ba27c2a1c5aa42ea54082e2775f86acd206483d79cde4618561f8"
+        },
+        "NA_FurnaldHall_8x5_LOD2.fbx": {
+          "bytes": 28908,
+          "sha256": "882596ef6fbd46448f5a2b6dee34b8ebf7eb4ca512a13fd6457bee337625cf57"
+        },
+        "NA_FurnaldHall_8x5_LOD2_BaseColor.png": {
+          "bytes": 1304193,
+          "sha256": "ae8b0e723731b9aea643623b4cb89694c4780a53e28597317feeff8fdef8dc61"
+        },
+        "NA_FurnaldHall_8x5_LOD2_ControlMask.png": {
+          "bytes": 72895,
+          "sha256": "a822448c324c4ca707fcaabfd133a297936107f8d2fea401664f3719d6d1f056"
+        },
+        "NA_FurnaldHall_8x5_LOD2_Emissive.png": {
+          "bytes": 29081,
+          "sha256": "ade61b148e6a2a161753a10568f6f66868d88a7377790975b8af90b8f1ae0abe"
+        },
+        "NA_FurnaldHall_8x5_LOD2_MaskMap.png": {
+          "bytes": 133178,
+          "sha256": "b026a2c750fe09f6a6a25240be7ca7736f9d98b19fe748cdb515293911b304e8"
+        },
+        "NA_FurnaldHall_8x5_LOD2_Normal.png": {
+          "bytes": 665268,
+          "sha256": "c5b53baca8a2a0b7e754e31d336e192837547a99395a052f682e5cd9435f47b4"
+        },
+        "NA_FurnaldHall_8x5_MaskMap.png": {
+          "bytes": 97811,
+          "sha256": "89a7fb86bd686fcab370133ad86dfcaa70e6d782b42addfa58ffeae90b432019"
+        },
+        "NA_FurnaldHall_8x5_Normal.png": {
+          "bytes": 982629,
+          "sha256": "e9b6e2f00734ba617dee8d6926a481bf3ad90dfd7a07ac21b0999ae9fce304eb"
+        },
+        "NA_FurnaldHall_8x5_Win.fbx": {
+          "bytes": 35644,
+          "sha256": "1b6dc95651b00d03448aef906a72c1bc616e1b6cd4f8f4d356151c6cff0a04b5"
+        },
+        "settings.json": {
+          "bytes": 423,
+          "sha256": "058cf13f19e09438725389880cfad420328381d47f74ec273d1a0abdbd4084ba"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/FurnaldHall.zip",
+        "bytes": 7966103,
+        "sha256": "d58ca5d4e0b2de20c12efd1d3438a4709ba8f454ab15b5c7f29b6c8b13058ac6"
+      },
+      "fbx": {
+        "NA_FurnaldHall_8x5.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_FurnaldHall_8x5_BaseColor.png",
+            "NA_FurnaldHall_8x5_Emissive.png",
+            "NA_FurnaldHall_8x5_Normal.png"
+          ]
+        },
+        "NA_FurnaldHall_8x5_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_FurnaldHall_8x5_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_FurnaldHall_8x5_BaseColor.png",
+            "NA_FurnaldHall_8x5_Emissive.png",
+            "NA_FurnaldHall_8x5_Normal.png"
+          ]
+        },
+        "NA_FurnaldHall_8x5_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_FurnaldHall_8x5_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_FurnaldHall_8x5_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_FurnaldHall_8x5_LOD2_BaseColor.png",
+            "NA_FurnaldHall_8x5_LOD2_Emissive.png",
+            "NA_FurnaldHall_8x5_LOD2_Normal.png"
+          ]
+        },
+        "NA_FurnaldHall_8x5_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "HamiltonHall": {
+      "files": {
+        "NA_HamiltonHall_8x4.fbx": {
+          "bytes": 1590236,
+          "sha256": "15b7c7165cfa19986b1ce8a1e3125468773a9febcce4519c4a3d5bcb4b8dd6ee"
+        },
+        "NA_HamiltonHall_8x4_BaseColor.png": {
+          "bytes": 2896351,
+          "sha256": "998476cc9ae8d237a9b338fc97d9ee9bcefa38d6f8dd8f6c97eaf5f1de5683d8"
+        },
+        "NA_HamiltonHall_8x4_ControlMask.png": {
+          "bytes": 77827,
+          "sha256": "fcd7a152e56f7864e0db6c06051548402be6168226e0953da37462632ba7941a"
+        },
+        "NA_HamiltonHall_8x4_Emissive.png": {
+          "bytes": 75945,
+          "sha256": "7db0a58351ad791823d5a920cb30ebf3ad64151e7562b1ffbcda40c52d647859"
+        },
+        "NA_HamiltonHall_8x4_Gls.fbx": {
+          "bytes": 22684,
+          "sha256": "3ed7ba805f7539e170142edcf999c1f66b43460deedf6349ce6eefe1e39ee20a"
+        },
+        "NA_HamiltonHall_8x4_LOD1.fbx": {
+          "bytes": 945212,
+          "sha256": "fe8dcd6fa53fdd4ef473e62f455852217289195a927a643ae7af22927d255ab3"
+        },
+        "NA_HamiltonHall_8x4_LOD1_Gls.fbx": {
+          "bytes": 22700,
+          "sha256": "ff174e5b98af096dbf3092cc9b6fe2b77e8e66c724065db13f98c53c2d783211"
+        },
+        "NA_HamiltonHall_8x4_LOD1_Win.fbx": {
+          "bytes": 40380,
+          "sha256": "900bbc44dd0f5d0584f8d17c18225f78930cbfb51d07fdb93746d98fffa6ab3a"
+        },
+        "NA_HamiltonHall_8x4_LOD2.fbx": {
+          "bytes": 30636,
+          "sha256": "b4b96857ac67a47679bc179220e91d63280ab45a3dfaa99b5569ea5814c8ca27"
+        },
+        "NA_HamiltonHall_8x4_LOD2_BaseColor.png": {
+          "bytes": 1351751,
+          "sha256": "92be67b9686eef08fc2c76f33c7e50dbadfab8e72a017b982eef54f3b02a5bdb"
+        },
+        "NA_HamiltonHall_8x4_LOD2_ControlMask.png": {
+          "bytes": 91395,
+          "sha256": "ac6c2ae5926dc05e611b9995a688adc4c3d13620e0c40646b9603b0a6f0b772d"
+        },
+        "NA_HamiltonHall_8x4_LOD2_Emissive.png": {
+          "bytes": 34424,
+          "sha256": "169d88149768cefde2cafbda6438267f2d5c6a7c73af19f9dea7b8fe46948a89"
+        },
+        "NA_HamiltonHall_8x4_LOD2_MaskMap.png": {
+          "bytes": 135163,
+          "sha256": "2f5f4425ba37b96ef08f5d7f6bde74a1078970c56ba855d4f5e859e06f9154ba"
+        },
+        "NA_HamiltonHall_8x4_LOD2_Normal.png": {
+          "bytes": 681959,
+          "sha256": "7547a8944becb39d492d92a702c605e6083a7ab4327017a65c3b582bbaad68a9"
+        },
+        "NA_HamiltonHall_8x4_MaskMap.png": {
+          "bytes": 90653,
+          "sha256": "9ea571a0c4d799fc7d1001e4484532625037e4bfd0b3654f0e4335ce6b1ba079"
+        },
+        "NA_HamiltonHall_8x4_Normal.png": {
+          "bytes": 960076,
+          "sha256": "39771605598791306cb9eb5f0a6256f215dd0462b604017ea17427533ddd6555"
+        },
+        "NA_HamiltonHall_8x4_Win.fbx": {
+          "bytes": 40364,
+          "sha256": "16d60a42304d939bb9365e5c1851c8b6f1ea2078ba2fc35431882ba4b88c49d6"
+        },
+        "settings.json": {
+          "bytes": 433,
+          "sha256": "a9de79dd2aa2d0a95bc3f406ddf4966d2e5744bb437d79867a064c96786245e3"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/HamiltonHall.zip",
+        "bytes": 8487900,
+        "sha256": "71fc16fe852c7c8b142c8626b5f628d0bf6a02bb723864135e4bf3ec649a4755"
+      },
+      "fbx": {
+        "NA_HamiltonHall_8x4.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_HamiltonHall_8x4_BaseColor.png",
+            "NA_HamiltonHall_8x4_Emissive.png",
+            "NA_HamiltonHall_8x4_Normal.png"
+          ]
+        },
+        "NA_HamiltonHall_8x4_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_HamiltonHall_8x4_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_HamiltonHall_8x4_BaseColor.png",
+            "NA_HamiltonHall_8x4_Emissive.png",
+            "NA_HamiltonHall_8x4_Normal.png"
+          ]
+        },
+        "NA_HamiltonHall_8x4_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_HamiltonHall_8x4_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_HamiltonHall_8x4_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_HamiltonHall_8x4_LOD2_BaseColor.png",
+            "NA_HamiltonHall_8x4_LOD2_Emissive.png",
+            "NA_HamiltonHall_8x4_LOD2_Normal.png"
+          ]
+        },
+        "NA_HamiltonHall_8x4_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "HavemeyerHall": {
+      "files": {
+        "NA_HavemeyerHall_8x8.fbx": {
+          "bytes": 2499548,
+          "sha256": "65bca63c98374f48979943a569ee3795fb4a27ec0d1633d813306c32a24862f4"
+        },
+        "NA_HavemeyerHall_8x8_BaseColor.png": {
+          "bytes": 2714524,
+          "sha256": "3066c32144860db773ff4dc9ffcadf4fb912f5c17a23154a19847fd0207ead3a"
+        },
+        "NA_HavemeyerHall_8x8_ControlMask.png": {
+          "bytes": 78311,
+          "sha256": "98ac40fd5dae34500cb686b6b33c1ea9aa8fe1f2bfba2295553b88e8b506a8b1"
+        },
+        "NA_HavemeyerHall_8x8_Emissive.png": {
+          "bytes": 76020,
+          "sha256": "7ecf51c930c4fdd1a5eaf4c348e9638678df7808065ddec9c8f46f4188e6fd85"
+        },
+        "NA_HavemeyerHall_8x8_Gls.fbx": {
+          "bytes": 24668,
+          "sha256": "74bc050d9941ac408545c00fdbb4c2d4ab4a7f1a1e2a38b629ca87126d075f36"
+        },
+        "NA_HavemeyerHall_8x8_LOD1.fbx": {
+          "bytes": 1661388,
+          "sha256": "2b444e01d1db82aab89f861893daa039af2f07f354a0537a121f6b7a77f8f76c"
+        },
+        "NA_HavemeyerHall_8x8_LOD1_Gls.fbx": {
+          "bytes": 24668,
+          "sha256": "9c8608984f41ff5536e19c985a5f1dc37ab5694edc23145925063646bededb75"
+        },
+        "NA_HavemeyerHall_8x8_LOD1_Win.fbx": {
+          "bytes": 50796,
+          "sha256": "89af50fce71252ad19eda82aeeb0d96f5b44d221092f8a061b6ead9a3c8ca445"
+        },
+        "NA_HavemeyerHall_8x8_LOD2.fbx": {
+          "bytes": 38284,
+          "sha256": "2fa253ecf2fc329a3f67610c851274653547c8edd24ed4b7ad674719279bfad4"
+        },
+        "NA_HavemeyerHall_8x8_LOD2_BaseColor.png": {
+          "bytes": 1402946,
+          "sha256": "865baa66456ed39d1050e7bf84092b7d8f504e7bd46bcabdedffcb4699a6c15a"
+        },
+        "NA_HavemeyerHall_8x8_LOD2_ControlMask.png": {
+          "bytes": 87865,
+          "sha256": "d76bc38b720d030ba2a7f3c78c94d167014965818ae7394c12a999fa68a73746"
+        },
+        "NA_HavemeyerHall_8x8_LOD2_Emissive.png": {
+          "bytes": 31318,
+          "sha256": "9d1d643c6de6d5ada07804b9a319ae401ce1e4b69ec6a08d29676678bf2f4804"
+        },
+        "NA_HavemeyerHall_8x8_LOD2_MaskMap.png": {
+          "bytes": 111641,
+          "sha256": "a7f0b75bc14073e22558b9de70196ce3277d574f270a5f2bd05b9109ad2d5c97"
+        },
+        "NA_HavemeyerHall_8x8_LOD2_Normal.png": {
+          "bytes": 595794,
+          "sha256": "1c9f9f03add17100f0161d2dce74a15fc6e302c4a788be7e3dade05c363d2c5a"
+        },
+        "NA_HavemeyerHall_8x8_MaskMap.png": {
+          "bytes": 93364,
+          "sha256": "dbd7d6d831f641f557380f41b85ad8f5a806689dd3caccec4cda7ae1c2b84072"
+        },
+        "NA_HavemeyerHall_8x8_Normal.png": {
+          "bytes": 822274,
+          "sha256": "143967cb215606a66c0992defb6d316a032a51c8caadc4260d7b6697cdf90001"
+        },
+        "NA_HavemeyerHall_8x8_Win.fbx": {
+          "bytes": 50780,
+          "sha256": "9f324248cc79ec1c9bd2de65ea94524683570ae1cc750a7fc786ff6af0c48be8"
+        },
+        "settings.json": {
+          "bytes": 443,
+          "sha256": "3aa78225c3c52c9e6cfd0430a885885d2d100577af148fe79f0c1a95dbd8447d"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/HavemeyerHall.zip",
+        "bytes": 9673309,
+        "sha256": "35a54f151d34ae49715a5afb2e9862f5c553783be9fd119cfc326dd5e57abd89"
+      },
+      "fbx": {
+        "NA_HavemeyerHall_8x8.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_HavemeyerHall_8x8_BaseColor.png",
+            "NA_HavemeyerHall_8x8_Emissive.png",
+            "NA_HavemeyerHall_8x8_Normal.png"
+          ]
+        },
+        "NA_HavemeyerHall_8x8_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_HavemeyerHall_8x8_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_HavemeyerHall_8x8_BaseColor.png",
+            "NA_HavemeyerHall_8x8_Emissive.png",
+            "NA_HavemeyerHall_8x8_Normal.png"
+          ]
+        },
+        "NA_HavemeyerHall_8x8_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_HavemeyerHall_8x8_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_HavemeyerHall_8x8_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_HavemeyerHall_8x8_LOD2_BaseColor.png",
+            "NA_HavemeyerHall_8x8_LOD2_Emissive.png",
+            "NA_HavemeyerHall_8x8_LOD2_Normal.png"
+          ]
+        },
+        "NA_HavemeyerHall_8x8_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "JohnJayHall": {
+      "files": {
+        "NA_JohnJayHall_8x4.fbx": {
+          "bytes": 2398812,
+          "sha256": "48a14b5939ac05fab69e666dbc0b96a30ec82408910714558cee24f9fa82b144"
+        },
+        "NA_JohnJayHall_8x4_BaseColor.png": {
+          "bytes": 2126621,
+          "sha256": "fae41a05de7367b7e7d495287d1dbef36bd73ecc341acec7dda0a5782ecd38f9"
+        },
+        "NA_JohnJayHall_8x4_ControlMask.png": {
+          "bytes": 78458,
+          "sha256": "b7b7955048c4f2d4b2f8b5047c22da73565cbcd456a630c6bb7c95f1796562c7"
+        },
+        "NA_JohnJayHall_8x4_Emissive.png": {
+          "bytes": 76049,
+          "sha256": "703f575d72a17bd0a2f87d765e582b0f3f325ad7fb084a608555afb9aecb7bc6"
+        },
+        "NA_JohnJayHall_8x4_Gls.fbx": {
+          "bytes": 23788,
+          "sha256": "85e7fcb7fff177631562f23324f6d75a9245405e54528f64e4056da584d6e9d3"
+        },
+        "NA_JohnJayHall_8x4_LOD1.fbx": {
+          "bytes": 1830460,
+          "sha256": "9a360d0a9951975c184b3f25783ce2da987371e4c4407336fc2ed9d7fb99fd90"
+        },
+        "NA_JohnJayHall_8x4_LOD1_Gls.fbx": {
+          "bytes": 23804,
+          "sha256": "ddefee7b2ff961df0b555b3ee9170f45f48578ec32d41e4cf5c58801d8ac5349"
+        },
+        "NA_JohnJayHall_8x4_LOD1_Win.fbx": {
+          "bytes": 61612,
+          "sha256": "4bd2c12ca3e4033652106deab5070844de24ae65dcc092c7f5c71a38124b5f97"
+        },
+        "NA_JohnJayHall_8x4_LOD2.fbx": {
+          "bytes": 30188,
+          "sha256": "2f8642502efa8b8b721c1dd6cef7a6f4e0220b86821d01d689309001e5438f31"
+        },
+        "NA_JohnJayHall_8x4_LOD2_BaseColor.png": {
+          "bytes": 1270865,
+          "sha256": "2d0d8f55db2f3c5381ea519c0c7ef6e3d810f13ddeea4f18a9dec072c9603848"
+        },
+        "NA_JohnJayHall_8x4_LOD2_ControlMask.png": {
+          "bytes": 95190,
+          "sha256": "f53c1ea821a8178a0e535339656cbe181d698d0f3470ca014329bd45184e85b6"
+        },
+        "NA_JohnJayHall_8x4_LOD2_Emissive.png": {
+          "bytes": 34147,
+          "sha256": "1fe8e96d13b918dfae377189414ec957d18f44bbaf1abb71c3517497254583e4"
+        },
+        "NA_JohnJayHall_8x4_LOD2_MaskMap.png": {
+          "bytes": 142482,
+          "sha256": "21388e56bba510752826d67f094d3ad38c902dbb157b2277bd7f4a8dbb5feb48"
+        },
+        "NA_JohnJayHall_8x4_LOD2_Normal.png": {
+          "bytes": 542756,
+          "sha256": "17be88d430a4dbca6b2ae9fd3fa24cda2dd01d67d68c74ece3b159c3a3cbbf1a"
+        },
+        "NA_JohnJayHall_8x4_MaskMap.png": {
+          "bytes": 86803,
+          "sha256": "062df3c417353c6cf5f531e5f71e1f46689074ee0807b155cd083d7804a46938"
+        },
+        "NA_JohnJayHall_8x4_Normal.png": {
+          "bytes": 571388,
+          "sha256": "6875880189875cac55c2d9f064bb7bcae74a61ee6a29b4d21ab20afb99d892b3"
+        },
+        "NA_JohnJayHall_8x4_Win.fbx": {
+          "bytes": 61596,
+          "sha256": "760f57732208b13e9dd8ba6abe85f4db944727b34dc938e510b913393fce3669"
+        },
+        "settings.json": {
+          "bytes": 423,
+          "sha256": "9d8c012e31dd32422e41a600888dbdffe0922963b5f3e00f21edfc5348607e28"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/JohnJayHall.zip",
+        "bytes": 8395989,
+        "sha256": "89f0c5203c5ecce6db235508642f39061ee9f952dffdedf82a7bed8e8e7219ad"
+      },
+      "fbx": {
+        "NA_JohnJayHall_8x4.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_JohnJayHall_8x4_BaseColor.png",
+            "NA_JohnJayHall_8x4_Emissive.png",
+            "NA_JohnJayHall_8x4_Normal.png"
+          ]
+        },
+        "NA_JohnJayHall_8x4_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_JohnJayHall_8x4_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_JohnJayHall_8x4_BaseColor.png",
+            "NA_JohnJayHall_8x4_Emissive.png",
+            "NA_JohnJayHall_8x4_Normal.png"
+          ]
+        },
+        "NA_JohnJayHall_8x4_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_JohnJayHall_8x4_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_JohnJayHall_8x4_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_JohnJayHall_8x4_LOD2_BaseColor.png",
+            "NA_JohnJayHall_8x4_LOD2_Emissive.png",
+            "NA_JohnJayHall_8x4_LOD2_Normal.png"
+          ]
+        },
+        "NA_JohnJayHall_8x4_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "KentHall": {
+      "files": {
+        "NA_KentHall_8x4.fbx": {
+          "bytes": 1825228,
+          "sha256": "133f403b747acc2c1e64a23b9b17c95b5bf2842cf35970edfda59320e1dd9c0d"
+        },
+        "NA_KentHall_8x4_BaseColor.png": {
+          "bytes": 3714006,
+          "sha256": "c7fcf2483ce2f717eb9cc9c7e90402d536913b2880801fe4e7e03762aee2d62a"
+        },
+        "NA_KentHall_8x4_ControlMask.png": {
+          "bytes": 78425,
+          "sha256": "c73dd32e173eb86f46ac65a1176a463818aa6c6c75b5a83c482d30c8f968ee10"
+        },
+        "NA_KentHall_8x4_Emissive.png": {
+          "bytes": 75909,
+          "sha256": "956997c7f3147cfdcda64cff77ae70d76052e968126065ea2786e4bb84c44dd0"
+        },
+        "NA_KentHall_8x4_Gls.fbx": {
+          "bytes": 23372,
+          "sha256": "ff4b1f1eb9670e539c9f6aa7f6ede2c04a3bfc523ddb25e4c877b56d91a1bfa9"
+        },
+        "NA_KentHall_8x4_LOD1.fbx": {
+          "bytes": 1219196,
+          "sha256": "30f3bc1cd57b7c86272b63f1b0fd3750a43ac97997383e40a69bc269b550ef68"
+        },
+        "NA_KentHall_8x4_LOD1_Gls.fbx": {
+          "bytes": 23388,
+          "sha256": "390a71a7a8b14eeb44508cea2507a2c1faf91f1b53ea3b7665a94b9f31a6719e"
+        },
+        "NA_KentHall_8x4_LOD1_Win.fbx": {
+          "bytes": 33036,
+          "sha256": "ac03408a5f900e15b75a6ec34dbaa35c0eb1fd47a3ea1e3f3a2ff23b4755b9f9"
+        },
+        "NA_KentHall_8x4_LOD2.fbx": {
+          "bytes": 33884,
+          "sha256": "dd90662c8ad5d6943cd0ee3152b2ab46b57235d81aa41d98948a0f3043561eae"
+        },
+        "NA_KentHall_8x4_LOD2_BaseColor.png": {
+          "bytes": 1304670,
+          "sha256": "a45c23c25b332a6a929b813131bdc1d99966b2c39d1f5b322db6588a0ab6c870"
+        },
+        "NA_KentHall_8x4_LOD2_ControlMask.png": {
+          "bytes": 80809,
+          "sha256": "f967ac7bdaa172886c48bf8a6598d6e172ce8f4bb8a76369bdee4005629d5c5b"
+        },
+        "NA_KentHall_8x4_LOD2_Emissive.png": {
+          "bytes": 31410,
+          "sha256": "9f55ab6e9ed5097caf62791cf3671d708dcfe7c069d44de6b2985fc914bcb9f2"
+        },
+        "NA_KentHall_8x4_LOD2_MaskMap.png": {
+          "bytes": 110349,
+          "sha256": "1a962e451bdf8933a71f02f0f8f8b304621b83ba87cd50fe7e05f5d1ba598c61"
+        },
+        "NA_KentHall_8x4_LOD2_Normal.png": {
+          "bytes": 713326,
+          "sha256": "bffa805b1be927bd493b0605436996ca37ec4696669e7d65c49a51d95aa35999"
+        },
+        "NA_KentHall_8x4_MaskMap.png": {
+          "bytes": 110107,
+          "sha256": "f02daa76673986547eebc3296d73d3333078aeffaa9e8e8116d7be5ce0699a84"
+        },
+        "NA_KentHall_8x4_Normal.png": {
+          "bytes": 1306940,
+          "sha256": "83367b7490b801f6fd416622ba862399948d1bea86e02befcd72f10f89f5a247"
+        },
+        "NA_KentHall_8x4_Win.fbx": {
+          "bytes": 33020,
+          "sha256": "4bbe54106be0fba3d0ff9101488ed57dc300d5f118c9584778ff73c0072ea010"
+        },
+        "settings.json": {
+          "bytes": 393,
+          "sha256": "7c17bed92e95454cfd87061d0c762d97e060f569b43e8a5fb05178554cc4ef43"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/KentHall.zip",
+        "bytes": 10216254,
+        "sha256": "53c384f26a058ccd5de12e558c69ef4993f3d60941ee87311680233c4639f870"
+      },
+      "fbx": {
+        "NA_KentHall_8x4.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_KentHall_8x4_BaseColor.png",
+            "NA_KentHall_8x4_Emissive.png",
+            "NA_KentHall_8x4_Normal.png"
+          ]
+        },
+        "NA_KentHall_8x4_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_KentHall_8x4_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_KentHall_8x4_BaseColor.png",
+            "NA_KentHall_8x4_Emissive.png",
+            "NA_KentHall_8x4_Normal.png"
+          ]
+        },
+        "NA_KentHall_8x4_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_KentHall_8x4_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_KentHall_8x4_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_KentHall_8x4_LOD2_BaseColor.png",
+            "NA_KentHall_8x4_LOD2_Emissive.png",
+            "NA_KentHall_8x4_LOD2_Normal.png"
+          ]
+        },
+        "NA_KentHall_8x4_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "LernerHall": {
+      "files": {
+        "NA_LernerHall_9x9.fbx": {
+          "bytes": 1202988,
+          "sha256": "8338c0d11adc5f54e42e42d60ef901d9096e699d7ace07df0e244b58ad1f96d9"
+        },
+        "NA_LernerHall_9x9_BaseColor.png": {
+          "bytes": 3504882,
+          "sha256": "0ea660edea73b5237a1ce7b8b79098e1ff543882737473cf89dc6390ebd611ee"
+        },
+        "NA_LernerHall_9x9_ControlMask.png": {
+          "bytes": 41036,
+          "sha256": "4e79f3d843b259c239cd8b94efc8601ba3984719aa38e8d8844a6f64732f6b13"
+        },
+        "NA_LernerHall_9x9_Emissive.png": {
+          "bytes": 21233,
+          "sha256": "03937270bf28203b87786e0a667bc030f6af2e5b286e28a89196205232946476"
+        },
+        "NA_LernerHall_9x9_LOD1.fbx": {
+          "bytes": 991996,
+          "sha256": "fd3921eb6fdb63aa76c778efc8c7138b5270c2f19fb896555ecf4f066c7b0d86"
+        },
+        "NA_LernerHall_9x9_LOD1_Win.fbx": {
+          "bytes": 43148,
+          "sha256": "226dd041e0bc308c51446fb143c48395ed0d764a5f4a2dffbd92d767311c8560"
+        },
+        "NA_LernerHall_9x9_LOD2.fbx": {
+          "bytes": 31164,
+          "sha256": "c264f7e54c0dcec8ccb6af688d3f20d2a465703c49384c2eecc99ff00b8bca51"
+        },
+        "NA_LernerHall_9x9_LOD2_BaseColor.png": {
+          "bytes": 1217847,
+          "sha256": "b5aef10365af832febd92e526c30766c3c95515096d629fd2d746b18d44ff574"
+        },
+        "NA_LernerHall_9x9_LOD2_ControlMask.png": {
+          "bytes": 89613,
+          "sha256": "2731a9b5960c9262ce3fbb309ba244c430c80bce280929afa9ff250292baf5dc"
+        },
+        "NA_LernerHall_9x9_LOD2_Emissive.png": {
+          "bytes": 30759,
+          "sha256": "989d5130c076c79a2c64ee954a853b6d90178902cc49edff4fca241f4a56027b"
+        },
+        "NA_LernerHall_9x9_LOD2_MaskMap.png": {
+          "bytes": 81260,
+          "sha256": "6c4f4724366a1427ca7d7c984d0aaff985a71b3573efafc6f740461335dc3752"
+        },
+        "NA_LernerHall_9x9_LOD2_Normal.png": {
+          "bytes": 497537,
+          "sha256": "336a3db316d13cc78522631c17bced958af1be7463b7e6519e69c053fcadf845"
+        },
+        "NA_LernerHall_9x9_MaskMap.png": {
+          "bytes": 42616,
+          "sha256": "adfce40e1a5fd14320c7bf3346ab9cdf035bb3e9df51d6732ea96c7443991359"
+        },
+        "NA_LernerHall_9x9_Normal.png": {
+          "bytes": 2515292,
+          "sha256": "c91ecfed103e00a3c9392187c9fb143b3b9f2efec35d8385129b1f42d5e38f9c"
+        },
+        "NA_LernerHall_9x9_Win.fbx": {
+          "bytes": 43148,
+          "sha256": "2c9705f1d12bde1836b6475aa1c19a27c825bf07a4eafa3439abfa197627ec4d"
+        },
+        "settings.json": {
+          "bytes": 413,
+          "sha256": "01f56c5a21a14270e50587a57284fa3e8acb94df3c18384c1a790750560d2c3e"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/LernerHall.zip",
+        "bytes": 10081903,
+        "sha256": "2dd39089af7d307e2fa89f15a445949ccf81da8b4cda5a0b90c6ed7d4f4a49d3"
+      },
+      "fbx": {
+        "NA_LernerHall_9x9.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_LernerHall_9x9_BaseColor.png",
+            "NA_LernerHall_9x9_Emissive.png",
+            "NA_LernerHall_9x9_Normal.png"
+          ]
+        },
+        "NA_LernerHall_9x9_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_LernerHall_9x9_BaseColor.png",
+            "NA_LernerHall_9x9_Emissive.png",
+            "NA_LernerHall_9x9_Normal.png"
+          ]
+        },
+        "NA_LernerHall_9x9_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_LernerHall_9x9_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_LernerHall_9x9_LOD2_BaseColor.png",
+            "NA_LernerHall_9x9_LOD2_Emissive.png",
+            "NA_LernerHall_9x9_LOD2_Normal.png"
+          ]
+        },
+        "NA_LernerHall_9x9_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "LewisohnHall": {
+      "files": {
+        "NA_LewisohnHall_6x4.fbx": {
+          "bytes": 1108812,
+          "sha256": "a95fa2ed483583a33bb9009928baefaab530777b20e7fd9b1a04a35725721229"
+        },
+        "NA_LewisohnHall_6x4_BaseColor.png": {
+          "bytes": 4571097,
+          "sha256": "d5d349f247f37a8eb0fc9166c8303faeee6918df09c697adccad0823bfd94a78"
+        },
+        "NA_LewisohnHall_6x4_ControlMask.png": {
+          "bytes": 78183,
+          "sha256": "9396db00448d249272b0b9af19bb4a03460988bd7b037bc6b6b08957889d2a85"
+        },
+        "NA_LewisohnHall_6x4_Emissive.png": {
+          "bytes": 75871,
+          "sha256": "3881bc41bcb110c85a4cb2ca8a1afeb5da6ab22c611de4657e9358a15abeb886"
+        },
+        "NA_LewisohnHall_6x4_Gls.fbx": {
+          "bytes": 23308,
+          "sha256": "aa672843bfef7d3b5e3bfd74adc27f5592ccb4ba4e44ea81f25e2561dc1dff39"
+        },
+        "NA_LewisohnHall_6x4_LOD1.fbx": {
+          "bytes": 701308,
+          "sha256": "f73794806282106261d1e39747f7e237488b2a3fb6016f6f168e4f66fccedc88"
+        },
+        "NA_LewisohnHall_6x4_LOD1_Gls.fbx": {
+          "bytes": 23324,
+          "sha256": "eebc256ede14ddad6f159add000eac1926a3fa9fb8f19e4d92a4cd11aab66a57"
+        },
+        "NA_LewisohnHall_6x4_LOD1_Win.fbx": {
+          "bytes": 31388,
+          "sha256": "ed1bf2340028f60ac4646573c886f50effed6bd10909f6d964ca2a1e3b73d7d6"
+        },
+        "NA_LewisohnHall_6x4_LOD2.fbx": {
+          "bytes": 33564,
+          "sha256": "e7a01bb6ea1ed1cdc5813ceed7d68c67bf8d5d5d4e9d83bb4a291b3109800b35"
+        },
+        "NA_LewisohnHall_6x4_LOD2_BaseColor.png": {
+          "bytes": 1335294,
+          "sha256": "59bc8b578a0fd291f296bccab892c37f981222c346e7f66e428507c1a00e5e5f"
+        },
+        "NA_LewisohnHall_6x4_LOD2_ControlMask.png": {
+          "bytes": 92932,
+          "sha256": "3bd5250a866d81a9654a4592148fa95bafcf583a0351161ffd60f3764fb6f695"
+        },
+        "NA_LewisohnHall_6x4_LOD2_Emissive.png": {
+          "bytes": 31581,
+          "sha256": "128a7c135d74e372f6066ec6ff49e43960abcde713c5fb09c3677efedad72ddf"
+        },
+        "NA_LewisohnHall_6x4_LOD2_MaskMap.png": {
+          "bytes": 129208,
+          "sha256": "2cbe89b25469ebbb13bb7fca3615ac8fc8683ade9cf1ff7d852fad95fb37f8bd"
+        },
+        "NA_LewisohnHall_6x4_LOD2_Normal.png": {
+          "bytes": 740189,
+          "sha256": "eb9b60397973a6e4638b88b62f78a1e2186adfd79f169a3031e638e6081388ad"
+        },
+        "NA_LewisohnHall_6x4_MaskMap.png": {
+          "bytes": 117783,
+          "sha256": "8e6670b72b9eac8be1f64966cc5fd540facc48d06c2319b811fdc2cca3ac054a"
+        },
+        "NA_LewisohnHall_6x4_Normal.png": {
+          "bytes": 1595422,
+          "sha256": "1b729fc36ae11382752ae0ddd4174fb604d8159d42eefc464f164860abe8efe7"
+        },
+        "NA_LewisohnHall_6x4_Win.fbx": {
+          "bytes": 31372,
+          "sha256": "3eeabe1f3c812dbd11d7932681385f72bf4023be8bb87432f4f374b581403eee"
+        },
+        "settings.json": {
+          "bytes": 433,
+          "sha256": "98958568ad6fd790d6d7190f6e7eb126b3f9615652665b0e39dc8fce137bcdda"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/LewisohnHall.zip",
+        "bytes": 10345601,
+        "sha256": "60874b5b804e4b737765787a16f721636e94b6b9c65d6f5ae9adfc6ccd9e0636"
+      },
+      "fbx": {
+        "NA_LewisohnHall_6x4.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_LewisohnHall_6x4_BaseColor.png",
+            "NA_LewisohnHall_6x4_Emissive.png",
+            "NA_LewisohnHall_6x4_Normal.png"
+          ]
+        },
+        "NA_LewisohnHall_6x4_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_LewisohnHall_6x4_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_LewisohnHall_6x4_BaseColor.png",
+            "NA_LewisohnHall_6x4_Emissive.png",
+            "NA_LewisohnHall_6x4_Normal.png"
+          ]
+        },
+        "NA_LewisohnHall_6x4_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_LewisohnHall_6x4_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_LewisohnHall_6x4_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_LewisohnHall_6x4_LOD2_BaseColor.png",
+            "NA_LewisohnHall_6x4_LOD2_Emissive.png",
+            "NA_LewisohnHall_6x4_LOD2_Normal.png"
+          ]
+        },
+        "NA_LewisohnHall_6x4_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "LowMemorialLibrary": {
+      "files": {
+        "NA_ColumbiaLowLibrary_13x10.fbx": {
+          "bytes": 7093036,
+          "sha256": "1e838bd9d700834117dac7939e8711b106300244349699e50e6602b3a5e19180"
+        },
+        "NA_ColumbiaLowLibrary_13x10_BaseColor.png": {
+          "bytes": 10152056,
+          "sha256": "0b19cfb7c34c506f3c1848b4a41c6ef76db76fbda7a882ddc95988d76b439c37"
+        },
+        "NA_ColumbiaLowLibrary_13x10_ControlMask.png": {
+          "bytes": 83717,
+          "sha256": "83d57c290e85e64f095d3ab11cea87bd6e633ec55d1bed352777a4676ab16d3c"
+        },
+        "NA_ColumbiaLowLibrary_13x10_Emissive.png": {
+          "bytes": 76265,
+          "sha256": "178670d5dd858a4705c2dd011007ec3d156ee7baf86e147ae4cecee36fd9c2f1"
+        },
+        "NA_ColumbiaLowLibrary_13x10_Gls.fbx": {
+          "bytes": 17116,
+          "sha256": "078483baa66a16b9d26bf197b7e4836f4d2df9414ee523b760644d75222b665c"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD1.fbx": {
+          "bytes": 3483532,
+          "sha256": "dde93b6a655dc3dbbee61551e8902f91a33218a5ade9e8888ed56230f6ca6e08"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD1_Gls.fbx": {
+          "bytes": 17116,
+          "sha256": "f6a668d27590f004638a112870622b09238a4617df51db6683bf4a4ade355240"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD1_Win.fbx": {
+          "bytes": 25852,
+          "sha256": "1a3b8fb11cfb5e04d6e4017150cd2a73da0dfa164b00f60effdeb960a0e40d9a"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2.fbx": {
+          "bytes": 74940,
+          "sha256": "a438216cb8e363ae1a703d8f068bdf48313092aea274fdc856173f3c6ac216f3"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": {
+          "bytes": 1357730,
+          "sha256": "773dcfac32f722665766cdf7703f22c016ea5654d825c6be00e0de193b178cd7"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2_ControlMask.png": {
+          "bytes": 77957,
+          "sha256": "8ded455694f1f0ac4d45975110d8320b036fa8e7365f61607dffcb2d8e3660cd"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png": {
+          "bytes": 24984,
+          "sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2_MaskMap.png": {
+          "bytes": 142917,
+          "sha256": "fa8d5c99a6d2d33ec0a2b376fc868cd08656b98d969ceb7c07ee90ae9d3c835a"
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": {
+          "bytes": 734138,
+          "sha256": "94efcf87900a975f7e8dcf71ec3e3bc294ec598fa347d49d4f79ec92f5c606f8"
+        },
+        "NA_ColumbiaLowLibrary_13x10_MaskMap.png": {
+          "bytes": 228280,
+          "sha256": "40935919d6c120e7b714bd999a93785b6b4f555be542071a28b87cd9936ebd8b"
+        },
+        "NA_ColumbiaLowLibrary_13x10_Normal.png": {
+          "bytes": 3697590,
+          "sha256": "02c5e5869f146ea6fdee1a6e9c18ce7d96743b7c2846dca391f28a37def054c6"
+        },
+        "NA_ColumbiaLowLibrary_13x10_Win.fbx": {
+          "bytes": 25852,
+          "sha256": "17012a5300f180080a18ded84d1a189d6de8e441f29031f33485161801b7d926"
+        },
+        "settings.json": {
+          "bytes": 513,
+          "sha256": "1023c5634dad2d4e5e760b629157e9a28651fde37ee9546abbf0ea50e676feef"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/LowMemorialLibrary.zip",
+        "bytes": 26737126,
+        "sha256": "586c1b3e0c0eb41b296d59fdb7af374ce07ae7df7bfeabb697b164a0fe32cd48"
+      },
+      "fbx": {
+        "NA_ColumbiaLowLibrary_13x10.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_ColumbiaLowLibrary_13x10_BaseColor.png",
+            "NA_ColumbiaLowLibrary_13x10_Emissive.png",
+            "NA_ColumbiaLowLibrary_13x10_Normal.png"
+          ]
+        },
+        "NA_ColumbiaLowLibrary_13x10_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_ColumbiaLowLibrary_13x10_BaseColor.png",
+            "NA_ColumbiaLowLibrary_13x10_Emissive.png",
+            "NA_ColumbiaLowLibrary_13x10_Normal.png"
+          ]
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_ColumbiaLowLibrary_13x10_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png",
+            "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png",
+            "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png"
+          ]
+        },
+        "NA_ColumbiaLowLibrary_13x10_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "MathematicsHall": {
+      "files": {
+        "NA_MathematicsHall_7x5.fbx": {
+          "bytes": 1117228,
+          "sha256": "dff0fc22af37f9b785534d7def2dac4e6b68c6b43b929249484751044bb0f368"
+        },
+        "NA_MathematicsHall_7x5_BaseColor.png": {
+          "bytes": 4280724,
+          "sha256": "92e6129d13fead2f4ea8550ea9437b69f0fdf92dd4aad9a8f3a9d25579edf50e"
+        },
+        "NA_MathematicsHall_7x5_ControlMask.png": {
+          "bytes": 77014,
+          "sha256": "a9ab85ef6d2ef13b7616adb9b55db4c1bc550e66bd344acc52e6b46ddc58b7c3"
+        },
+        "NA_MathematicsHall_7x5_Emissive.png": {
+          "bytes": 75951,
+          "sha256": "9a5c95badea2cc51642c9638a5c1b9114a1508eeeb8761ecdb6c0d808671ea59"
+        },
+        "NA_MathematicsHall_7x5_Gls.fbx": {
+          "bytes": 23052,
+          "sha256": "37967aa4def5bbbf11eae91ff7ad02abf4bbbf7c83b49d8511920c7feacca3b3"
+        },
+        "NA_MathematicsHall_7x5_LOD1.fbx": {
+          "bytes": 741628,
+          "sha256": "1df55eb71fe43e204a09593b7e333ee490e6f30cbcdc1a9cfba111d9d085eefb"
+        },
+        "NA_MathematicsHall_7x5_LOD1_Gls.fbx": {
+          "bytes": 23068,
+          "sha256": "663b5b3f3033680532a9bd197a39132869363039a108f09b53399997efe434a2"
+        },
+        "NA_MathematicsHall_7x5_LOD1_Win.fbx": {
+          "bytes": 28156,
+          "sha256": "e32b46e76c3c51e277061ffdd75940d6fcb2db35f6c313956fa8e4a77d43161b"
+        },
+        "NA_MathematicsHall_7x5_LOD2.fbx": {
+          "bytes": 29164,
+          "sha256": "d7ca6ccab07749a0e1d93b66a9b4bb8a609824622ca2291623ab70bd471adc95"
+        },
+        "NA_MathematicsHall_7x5_LOD2_BaseColor.png": {
+          "bytes": 1158864,
+          "sha256": "824e68aef4bc7f0120c63d0d4819dbf7605feba2a54ca7446dca60193d7022bb"
+        },
+        "NA_MathematicsHall_7x5_LOD2_ControlMask.png": {
+          "bytes": 62715,
+          "sha256": "7eddf210957d569fa0e1b88179ac51b874d02cfc2996523662f1927fc4779463"
+        },
+        "NA_MathematicsHall_7x5_LOD2_Emissive.png": {
+          "bytes": 26528,
+          "sha256": "72043bbd91c3ea0b3cf58135b85789499ffdd0bbc49240072214c7d714d98490"
+        },
+        "NA_MathematicsHall_7x5_LOD2_MaskMap.png": {
+          "bytes": 112891,
+          "sha256": "0967cf53e225cdb7b02b441b6142bd661ad7bfc0d7af6fa782495e9f874b747f"
+        },
+        "NA_MathematicsHall_7x5_LOD2_Normal.png": {
+          "bytes": 615817,
+          "sha256": "c9e9004c66affc8b09972c5acd8e3430fb0648969a6a38c088a8726dd282904c"
+        },
+        "NA_MathematicsHall_7x5_MaskMap.png": {
+          "bytes": 113904,
+          "sha256": "0214b9f48e7a3c50cf6466413cd1e5bef6f1749e1d14b9951a05e6072f07b61d"
+        },
+        "NA_MathematicsHall_7x5_Normal.png": {
+          "bytes": 2045126,
+          "sha256": "5f7b57fd9082698dbeabf173f6e1d3801b94ab89e41e41b85474159fb8fee97c"
+        },
+        "NA_MathematicsHall_7x5_Win.fbx": {
+          "bytes": 28140,
+          "sha256": "734d955c720a8ca692d489422f3edc6f1fcee8d71935217d9481239d431d42c8"
+        },
+        "settings.json": {
+          "bytes": 463,
+          "sha256": "c3ceed3161aceb3aae6897303f46dadaf0899cb1355777a45dd1ada3f3dfcb0b"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/MathematicsHall.zip",
+        "bytes": 10211265,
+        "sha256": "a0f35350e1686a4dfd9b44d051f385bc191082c3a11b8eaba012a497a63e00bd"
+      },
+      "fbx": {
+        "NA_MathematicsHall_7x5.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_MathematicsHall_7x5_BaseColor.png",
+            "NA_MathematicsHall_7x5_Emissive.png",
+            "NA_MathematicsHall_7x5_Normal.png"
+          ]
+        },
+        "NA_MathematicsHall_7x5_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_MathematicsHall_7x5_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_MathematicsHall_7x5_BaseColor.png",
+            "NA_MathematicsHall_7x5_Emissive.png",
+            "NA_MathematicsHall_7x5_Normal.png"
+          ]
+        },
+        "NA_MathematicsHall_7x5_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_MathematicsHall_7x5_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_MathematicsHall_7x5_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_MathematicsHall_7x5_LOD2_BaseColor.png",
+            "NA_MathematicsHall_7x5_LOD2_Emissive.png",
+            "NA_MathematicsHall_7x5_LOD2_Normal.png"
+          ]
+        },
+        "NA_MathematicsHall_7x5_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "PhilosophyHall": {
+      "files": {
+        "NA_PhilosophyHall_6x4.fbx": {
+          "bytes": 1302284,
+          "sha256": "0d71dfb4308ed92faacf7ee43dc5636ffc0e5dbe1e24b8b12e39855e2e5417d7"
+        },
+        "NA_PhilosophyHall_6x4_BaseColor.png": {
+          "bytes": 4081214,
+          "sha256": "22bc2dc2d234102b6bba55711ca9b54c2a67672dab026c8caf6c3565e201421f"
+        },
+        "NA_PhilosophyHall_6x4_ControlMask.png": {
+          "bytes": 78080,
+          "sha256": "2b5d62f96255759952e29bd05fa2164e2028799eda885e29bda3c992e5facb24"
+        },
+        "NA_PhilosophyHall_6x4_Emissive.png": {
+          "bytes": 75921,
+          "sha256": "2c6171534bf8f0a5e27128daec56455566692149026fea9c465a631316348612"
+        },
+        "NA_PhilosophyHall_6x4_Gls.fbx": {
+          "bytes": 23228,
+          "sha256": "526bcc4ec14f4764b972a3640a018881b44f2f9ec4a53e7050e846f3d4337a6d"
+        },
+        "NA_PhilosophyHall_6x4_LOD1.fbx": {
+          "bytes": 844044,
+          "sha256": "36086e95a03a2e06158f85e0e77129aaab0b5f5befb14769bac797ac12c034d3"
+        },
+        "NA_PhilosophyHall_6x4_LOD1_Gls.fbx": {
+          "bytes": 23244,
+          "sha256": "4b68e60c84cc018200a8f878ae747f330df9a753942808368cbc1e6fa21183a0"
+        },
+        "NA_PhilosophyHall_6x4_LOD1_Win.fbx": {
+          "bytes": 35900,
+          "sha256": "59369cb73e10be27334c65591805b5ea0c0a2da5e02fd43e3cc298e22ba7dd29"
+        },
+        "NA_PhilosophyHall_6x4_LOD2.fbx": {
+          "bytes": 33628,
+          "sha256": "db404b5adbfcba8fbb7e8d5a0706ff4508a62c371de7e7ddb850b867e23fc498"
+        },
+        "NA_PhilosophyHall_6x4_LOD2_BaseColor.png": {
+          "bytes": 1272659,
+          "sha256": "cc78e7c65c98365a093bf4e0345a6910e19bf63ef26109e4c335ca4783f16f82"
+        },
+        "NA_PhilosophyHall_6x4_LOD2_ControlMask.png": {
+          "bytes": 93497,
+          "sha256": "2ac9462ddde14f66f52c1beb2a25c45d0ff316c29936ba6060d8640944b70300"
+        },
+        "NA_PhilosophyHall_6x4_LOD2_Emissive.png": {
+          "bytes": 33359,
+          "sha256": "2f9f212e3c87a3918635343c36bebedf55779a3ab611f02bf7af65c9441a90de"
+        },
+        "NA_PhilosophyHall_6x4_LOD2_MaskMap.png": {
+          "bytes": 126099,
+          "sha256": "6d0982032af1ad267d6302a4cfda09355bc6db75628b1f7ebcc7f4095312755e"
+        },
+        "NA_PhilosophyHall_6x4_LOD2_Normal.png": {
+          "bytes": 704179,
+          "sha256": "42eee53e1b0ab74985bbd7b96c3482acbc95b6b3ba6909807f6b3ff6758b8cd3"
+        },
+        "NA_PhilosophyHall_6x4_MaskMap.png": {
+          "bytes": 107908,
+          "sha256": "3d458c63790872ee01a3dc46d93fb2ae8afb710909604d80df83c2cdf4f453d7"
+        },
+        "NA_PhilosophyHall_6x4_Normal.png": {
+          "bytes": 1464619,
+          "sha256": "f8ed62b6bd67480aeea59bda22181b4aa5de3b1fca0b01c0d733eb0a16d788ac"
+        },
+        "NA_PhilosophyHall_6x4_Win.fbx": {
+          "bytes": 35884,
+          "sha256": "1b969871ff0bb273cd999efeac0281bc9b4cfbb0235c8667c9a4075bf1ca212c"
+        },
+        "settings.json": {
+          "bytes": 453,
+          "sha256": "06611b974d6522482a0e876a8bcfef53be806a7dac6e465b9cea51d47062995b"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/PhilosophyHall.zip",
+        "bytes": 9924186,
+        "sha256": "4843d5849b6d55f3959ee361737c450676bb81c1f23cc7bea4c304a0a23bf962"
+      },
+      "fbx": {
+        "NA_PhilosophyHall_6x4.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_PhilosophyHall_6x4_BaseColor.png",
+            "NA_PhilosophyHall_6x4_Emissive.png",
+            "NA_PhilosophyHall_6x4_Normal.png"
+          ]
+        },
+        "NA_PhilosophyHall_6x4_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_PhilosophyHall_6x4_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_PhilosophyHall_6x4_BaseColor.png",
+            "NA_PhilosophyHall_6x4_Emissive.png",
+            "NA_PhilosophyHall_6x4_Normal.png"
+          ]
+        },
+        "NA_PhilosophyHall_6x4_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_PhilosophyHall_6x4_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_PhilosophyHall_6x4_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_PhilosophyHall_6x4_LOD2_BaseColor.png",
+            "NA_PhilosophyHall_6x4_LOD2_Emissive.png",
+            "NA_PhilosophyHall_6x4_LOD2_Normal.png"
+          ]
+        },
+        "NA_PhilosophyHall_6x4_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "PupinHall": {
+      "files": {
+        "NA_PupinHall_8x3.fbx": {
+          "bytes": 2173196,
+          "sha256": "013ad58d9a753fad009a25589a8fc1bd5fa1a3d4a861b42c4a751ebc2bb3ff87"
+        },
+        "NA_PupinHall_8x3_BaseColor.png": {
+          "bytes": 2007362,
+          "sha256": "8b3953500288990f5b595240d4ff40cb9606c2f6f6bd505080a44a650cf223d8"
+        },
+        "NA_PupinHall_8x3_ControlMask.png": {
+          "bytes": 77281,
+          "sha256": "cb5e2156cb7d80475bc6ea6db79317fe5f02891d2b58e5bb618665d08381ce91"
+        },
+        "NA_PupinHall_8x3_Emissive.png": {
+          "bytes": 76085,
+          "sha256": "91e13f93ad6562b11ce6cb1c055570f970ee4a0e9f8d5c1c26256c66953f961f"
+        },
+        "NA_PupinHall_8x3_Gls.fbx": {
+          "bytes": 23772,
+          "sha256": "aa4cc6d590050032bbd94ab2e4d8f8a52736dd4870d81e7ea9c00583d4309a70"
+        },
+        "NA_PupinHall_8x3_LOD1.fbx": {
+          "bytes": 1656188,
+          "sha256": "5b2c25aa316655af989e36e8f14006f4427db979abef7fe0f5310cbe6b062f49"
+        },
+        "NA_PupinHall_8x3_LOD1_Gls.fbx": {
+          "bytes": 23788,
+          "sha256": "e4ad6575c07835b507a803597ff40cbb24269217783753d09a63216aa04709df"
+        },
+        "NA_PupinHall_8x3_LOD1_Win.fbx": {
+          "bytes": 71772,
+          "sha256": "43fdba5d78e3b709f2ac1c72808168ac32f5c3a1993dc8d474aca239e9c8aabb"
+        },
+        "NA_PupinHall_8x3_LOD2.fbx": {
+          "bytes": 31852,
+          "sha256": "b6a97927e4fc7d0dab4162ba7c57c6ff49e6548d5dd537034d090388409d19a0"
+        },
+        "NA_PupinHall_8x3_LOD2_BaseColor.png": {
+          "bytes": 1292531,
+          "sha256": "8713e3f52fb5056ff64f30b6e039f3af4987c96826efe59231a5461d2ddbacfb"
+        },
+        "NA_PupinHall_8x3_LOD2_ControlMask.png": {
+          "bytes": 109339,
+          "sha256": "374235c2a22b3bd122f75c31aa09f86d16c598a76e6ac7739ef80103285e2a2c"
+        },
+        "NA_PupinHall_8x3_LOD2_Emissive.png": {
+          "bytes": 36513,
+          "sha256": "e2ab1193000079c8f0fa102bf6c139a454d0d4ae386d9309d36a0f72f44f3443"
+        },
+        "NA_PupinHall_8x3_LOD2_MaskMap.png": {
+          "bytes": 110695,
+          "sha256": "94e428bc722ffcdb1f768386e79eb4203dc4c5c0f3821a71ccd01918f18df1f1"
+        },
+        "NA_PupinHall_8x3_LOD2_Normal.png": {
+          "bytes": 774917,
+          "sha256": "82417eb2db9df51310fc750e156bcbbbdf967e7ec1cf5067141a48be3afce7cb"
+        },
+        "NA_PupinHall_8x3_MaskMap.png": {
+          "bytes": 84963,
+          "sha256": "8ba4158cb8b72fda81d31d7aeb6a99f4de3a90c0316d30a142c0a52992f88894"
+        },
+        "NA_PupinHall_8x3_Normal.png": {
+          "bytes": 582186,
+          "sha256": "cf67dc519a34699a63f381b5133d9cbd5d5357aec7847c57d3355f37d1851b34"
+        },
+        "NA_PupinHall_8x3_Win.fbx": {
+          "bytes": 71756,
+          "sha256": "9b62db0d4a53c30b391b99609903b033b3830a2554b788f6017cdec2bdeb33bc"
+        },
+        "settings.json": {
+          "bytes": 403,
+          "sha256": "caa4d73b0313c052d364941d62351df0096596e3289b7600cb0db6d5268f0983"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/PupinHall.zip",
+        "bytes": 8349286,
+        "sha256": "0a6f5031244ad7670d437f0b628146ba0fd819f27dcf2b632ab162f0cf65472c"
+      },
+      "fbx": {
+        "NA_PupinHall_8x3.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_PupinHall_8x3_BaseColor.png",
+            "NA_PupinHall_8x3_Emissive.png",
+            "NA_PupinHall_8x3_Normal.png"
+          ]
+        },
+        "NA_PupinHall_8x3_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_PupinHall_8x3_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_PupinHall_8x3_BaseColor.png",
+            "NA_PupinHall_8x3_Emissive.png",
+            "NA_PupinHall_8x3_Normal.png"
+          ]
+        },
+        "NA_PupinHall_8x3_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_PupinHall_8x3_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_PupinHall_8x3_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_PupinHall_8x3_LOD2_BaseColor.png",
+            "NA_PupinHall_8x3_LOD2_Emissive.png",
+            "NA_PupinHall_8x3_LOD2_Normal.png"
+          ]
+        },
+        "NA_PupinHall_8x3_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "SchermerhornHall": {
+      "files": {
+        "NA_SchermerhornHall_8x6.fbx": {
+          "bytes": 1465980,
+          "sha256": "4e30d7805e5b66cd3635d807754bd3305bb680e8f3d13d3b0bf19f0f05e44d16"
+        },
+        "NA_SchermerhornHall_8x6_BaseColor.png": {
+          "bytes": 4000749,
+          "sha256": "ead69007a1e05a0786689f48437850556e0b87ba7de20246b634fdf789a54de9"
+        },
+        "NA_SchermerhornHall_8x6_ControlMask.png": {
+          "bytes": 78503,
+          "sha256": "78f8ce3f38d61f3697e1fc1081417bd415c8b5b369c0c08b2def646efc0a2a8e"
+        },
+        "NA_SchermerhornHall_8x6_Emissive.png": {
+          "bytes": 76030,
+          "sha256": "c5599326738d08d4d426326e2ccc26fb0ad669c2322fa3b00ce5596241140607"
+        },
+        "NA_SchermerhornHall_8x6_Gls.fbx": {
+          "bytes": 22956,
+          "sha256": "ffe14730cf88f23221480f56f25ec4785dfc7b247ed5314a4f6b63c3da19f0e4"
+        },
+        "NA_SchermerhornHall_8x6_LOD1.fbx": {
+          "bytes": 936588,
+          "sha256": "369d7f34c2a6605c1d04248e7225e14f419723253a6af3f139b59c42fd459819"
+        },
+        "NA_SchermerhornHall_8x6_LOD1_Gls.fbx": {
+          "bytes": 22956,
+          "sha256": "e5e9de9fe07c373bf396794e87dba3bc369ca39605f47cd00cccc0174627be5b"
+        },
+        "NA_SchermerhornHall_8x6_LOD1_Win.fbx": {
+          "bytes": 42764,
+          "sha256": "ff4668278f3af27a8c3e60a8a2563a7a57f5ba49f3038c5014ca16670320b4c6"
+        },
+        "NA_SchermerhornHall_8x6_LOD2.fbx": {
+          "bytes": 38524,
+          "sha256": "3e13534326a193418b7c49953f917f56caa04d1f2c46ff5f3e47fbe8ba69a0f3"
+        },
+        "NA_SchermerhornHall_8x6_LOD2_BaseColor.png": {
+          "bytes": 1299606,
+          "sha256": "ec0a8cf6bfc9539978e707f3d78c3c8c791ccfec813da6faf0f552d3bac0cba1"
+        },
+        "NA_SchermerhornHall_8x6_LOD2_ControlMask.png": {
+          "bytes": 91486,
+          "sha256": "84db063503746346cecf301d15434fed8a6d7bde6ba15140b18ea98a7613bfea"
+        },
+        "NA_SchermerhornHall_8x6_LOD2_Emissive.png": {
+          "bytes": 30343,
+          "sha256": "ca9975fdc223cfa331966a159566a1e04cfeadc569eb8f28398bf600357337bb"
+        },
+        "NA_SchermerhornHall_8x6_LOD2_MaskMap.png": {
+          "bytes": 118717,
+          "sha256": "6b83511e4cb89d1b369514952f401fa91df97a55692bb70e9f982c0c83f65514"
+        },
+        "NA_SchermerhornHall_8x6_LOD2_Normal.png": {
+          "bytes": 597209,
+          "sha256": "04e0698e1fa73abebdb3e4a22877c70d9ef2fb56ab5e649fadbe647a2dfd9215"
+        },
+        "NA_SchermerhornHall_8x6_MaskMap.png": {
+          "bytes": 110135,
+          "sha256": "7e3ad3b1afb15139f15df23ab667ca5a2efb37b3608014cd2d19b22f8d3ecfd0"
+        },
+        "NA_SchermerhornHall_8x6_Normal.png": {
+          "bytes": 1331849,
+          "sha256": "e791219d2a358530f4f1370534a96b421cabcf8df2536bc04bf2f2c66564ebdd"
+        },
+        "NA_SchermerhornHall_8x6_Win.fbx": {
+          "bytes": 42748,
+          "sha256": "8c75568d9c00fd477519bc4441ec77485838074688c24bbd4ee111a57ea885c7"
+        },
+        "settings.json": {
+          "bytes": 473,
+          "sha256": "dfadf41b00dc12b5a251cf132ba4a7dc9ebb2225b9772103cd389edcb23fe437"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/SchermerhornHall.zip",
+        "bytes": 9881455,
+        "sha256": "7bf96425c6447d63a38fbddc84b1f55e7df291bca752faf1e411e000d6ac219c"
+      },
+      "fbx": {
+        "NA_SchermerhornHall_8x6.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_SchermerhornHall_8x6_BaseColor.png",
+            "NA_SchermerhornHall_8x6_Emissive.png",
+            "NA_SchermerhornHall_8x6_Normal.png"
+          ]
+        },
+        "NA_SchermerhornHall_8x6_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_SchermerhornHall_8x6_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_SchermerhornHall_8x6_BaseColor.png",
+            "NA_SchermerhornHall_8x6_Emissive.png",
+            "NA_SchermerhornHall_8x6_Normal.png"
+          ]
+        },
+        "NA_SchermerhornHall_8x6_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_SchermerhornHall_8x6_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_SchermerhornHall_8x6_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_SchermerhornHall_8x6_LOD2_BaseColor.png",
+            "NA_SchermerhornHall_8x6_LOD2_Emissive.png",
+            "NA_SchermerhornHall_8x6_LOD2_Normal.png"
+          ]
+        },
+        "NA_SchermerhornHall_8x6_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "StPaulsChapel": {
+      "files": {
+        "NA_StPaulsChapel_4x6.fbx": {
+          "bytes": 1354284,
+          "sha256": "77ae9750829f83572e8d1e6f3b0b4019e3217be275a24f3293eb5f9e8e43a362"
+        },
+        "NA_StPaulsChapel_4x6_BaseColor.png": {
+          "bytes": 10298499,
+          "sha256": "0aa2c35b9bf3a02473867db6c418c0fb9d62b036e4f48c1e7d905de0c72938c3"
+        },
+        "NA_StPaulsChapel_4x6_ControlMask.png": {
+          "bytes": 78765,
+          "sha256": "6ed40f52778179292842e873985d768366508562881b357d937b16346f0dcfd5"
+        },
+        "NA_StPaulsChapel_4x6_Emissive.png": {
+          "bytes": 75917,
+          "sha256": "777648ed06db643244356270cd3efa229eae4c2201cb25ef42173430108d03a7"
+        },
+        "NA_StPaulsChapel_4x6_Gls.fbx": {
+          "bytes": 16540,
+          "sha256": "b44c954516577f1d5c9ee1cb9436fba22bae2f092f4fd76335762171b7144493"
+        },
+        "NA_StPaulsChapel_4x6_LOD1.fbx": {
+          "bytes": 1089404,
+          "sha256": "f1a8c3058c6a3213f2bf418ddecdb5607f4a14193ccd02f8d53f0df7d475c89c"
+        },
+        "NA_StPaulsChapel_4x6_LOD1_Gls.fbx": {
+          "bytes": 16556,
+          "sha256": "7e0889a1ab338719d6007f8c1e99c13b5c0c973ace300d75238aead0e8df15ae"
+        },
+        "NA_StPaulsChapel_4x6_LOD1_Win.fbx": {
+          "bytes": 43036,
+          "sha256": "6f034f30232f91be99c9222944980daffdc528fbfdcc7822b203e6e288f77b0f"
+        },
+        "NA_StPaulsChapel_4x6_LOD2.fbx": {
+          "bytes": 67884,
+          "sha256": "fe9b624919f1dc6e30a7a1df1ff7bae503f59fc71cfb55f69b08890b3e4e3e78"
+        },
+        "NA_StPaulsChapel_4x6_LOD2_BaseColor.png": {
+          "bytes": 1108524,
+          "sha256": "c282a4a711b2f88fe4c92a29b91d47b5fd16850e8833dce2f230eb7fe22e31f5"
+        },
+        "NA_StPaulsChapel_4x6_LOD2_ControlMask.png": {
+          "bytes": 82623,
+          "sha256": "f3d09a9ecbc8d83334a78971465f78c76ce10e0b9107a2d56968df580729a18b"
+        },
+        "NA_StPaulsChapel_4x6_LOD2_Emissive.png": {
+          "bytes": 26141,
+          "sha256": "ce12ef8010c69a852ee7b51b37547afa4eca7369dfb8346639672cf5b9730202"
+        },
+        "NA_StPaulsChapel_4x6_LOD2_MaskMap.png": {
+          "bytes": 135639,
+          "sha256": "0368afb9e1df0b9364d36159920ae60741aa0304c319a76f5e22ab27fb5a30d1"
+        },
+        "NA_StPaulsChapel_4x6_LOD2_Normal.png": {
+          "bytes": 721232,
+          "sha256": "c1c7bcc69c80cc7375dae5c529cb89a96d769fd523acf8b2deaffc955f3ddc18"
+        },
+        "NA_StPaulsChapel_4x6_MaskMap.png": {
+          "bytes": 82714,
+          "sha256": "115c7092655f8f7b39b1f406e616e3c5908533f168aa7f3002e77f942be20891"
+        },
+        "NA_StPaulsChapel_4x6_Normal.png": {
+          "bytes": 6936062,
+          "sha256": "25a6281b5807c8b0bc3aff8d48269eea4079b5b2b05b626119f85c135f721153"
+        },
+        "NA_StPaulsChapel_4x6_Win.fbx": {
+          "bytes": 43036,
+          "sha256": "19a61318a3315a23e197caa6d6e8ec5f5d6ef902f6d05c766d85f104dd282859"
+        },
+        "settings.json": {
+          "bytes": 443,
+          "sha256": "482706583ee89267fa58d9d0842aeb516198a077fc8a658e65a5007f44dd6c5f"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/StPaulsChapel.zip",
+        "bytes": 21963885,
+        "sha256": "77deb37e59be252f06792b212419507bfd73c8f7d1d2fbbd52c367b6505aacbe"
+      },
+      "fbx": {
+        "NA_StPaulsChapel_4x6.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_StPaulsChapel_4x6_BaseColor.png",
+            "NA_StPaulsChapel_4x6_Emissive.png",
+            "NA_StPaulsChapel_4x6_Normal.png"
+          ]
+        },
+        "NA_StPaulsChapel_4x6_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_StPaulsChapel_4x6_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_StPaulsChapel_4x6_BaseColor.png",
+            "NA_StPaulsChapel_4x6_Emissive.png",
+            "NA_StPaulsChapel_4x6_Normal.png"
+          ]
+        },
+        "NA_StPaulsChapel_4x6_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_StPaulsChapel_4x6_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_StPaulsChapel_4x6_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_StPaulsChapel_4x6_LOD2_BaseColor.png",
+            "NA_StPaulsChapel_4x6_LOD2_Emissive.png",
+            "NA_StPaulsChapel_4x6_LOD2_Normal.png"
+          ]
+        },
+        "NA_StPaulsChapel_4x6_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    },
+    "UrisHall": {
+      "files": {
+        "NA_UrisHall_6x9.fbx": {
+          "bytes": 247292,
+          "sha256": "334663d4e8c464edd0ad35a3e91d6b2166f2e6210327492e9407895a77b2c921"
+        },
+        "NA_UrisHall_6x9_BaseColor.png": {
+          "bytes": 14518834,
+          "sha256": "1318f23f71c978865f214251e0254626f92a4d1d4df88cbcb87e9f31a425bb8d"
+        },
+        "NA_UrisHall_6x9_ControlMask.png": {
+          "bytes": 78856,
+          "sha256": "0a837d3699920d9932da165122275c3a391a83054883a4cc535a0fa95f2129a0"
+        },
+        "NA_UrisHall_6x9_Emissive.png": {
+          "bytes": 75911,
+          "sha256": "7b5adf17e9b1639618017ef9c2e0505beaf9b8d3f180b979b6e43ef8fdfff2e8"
+        },
+        "NA_UrisHall_6x9_Gls.fbx": {
+          "bytes": 18812,
+          "sha256": "7e9beba1858dab084b12b440aecd050500e4e1d0f1c3e4efe93a28f42535a8b7"
+        },
+        "NA_UrisHall_6x9_LOD1.fbx": {
+          "bytes": 183692,
+          "sha256": "be84dc0753201a15e04dc020f4c7142c564ab4f62404777b38d4e675526b9d8f"
+        },
+        "NA_UrisHall_6x9_LOD1_Gls.fbx": {
+          "bytes": 18828,
+          "sha256": "42683e7493353ad9565c6ea0a58006b3e97a833ec1dea507e5646c135900748c"
+        },
+        "NA_UrisHall_6x9_LOD1_Win.fbx": {
+          "bytes": 18764,
+          "sha256": "14ea7cfd32ffd6fba6dcf8359a998f0348b1e88d7ad647bcbf38a3a65bbe2672"
+        },
+        "NA_UrisHall_6x9_LOD2.fbx": {
+          "bytes": 31068,
+          "sha256": "a65fcbc8404016164db13a485c5482d8f329cfb008f739d2a92ab145e2afef1b"
+        },
+        "NA_UrisHall_6x9_LOD2_BaseColor.png": {
+          "bytes": 1145372,
+          "sha256": "2867d75508af7f3a3f7f651521c89a5fb6734da09b5bab87be22b4e5ca3c2bce"
+        },
+        "NA_UrisHall_6x9_LOD2_ControlMask.png": {
+          "bytes": 54079,
+          "sha256": "b2ac5efa78e7eb86571502c6bdbed28a4efab5354fd55f57340f024cfd07476e"
+        },
+        "NA_UrisHall_6x9_LOD2_Emissive.png": {
+          "bytes": 28870,
+          "sha256": "f820a5330c556efcb3d0782e7c3822d1cafb0b2a805fbe14473d45b3ac2808b5"
+        },
+        "NA_UrisHall_6x9_LOD2_MaskMap.png": {
+          "bytes": 56926,
+          "sha256": "c5da97a8cafa63314ffd3426589ebc63c0f8afaf777e6d3d5a83e0d52333ff49"
+        },
+        "NA_UrisHall_6x9_LOD2_Normal.png": {
+          "bytes": 363076,
+          "sha256": "710bc43f717cc15aa94c3d67021cf2831f79fc38cb1fd6e32b0c75e3483aa80f"
+        },
+        "NA_UrisHall_6x9_MaskMap.png": {
+          "bytes": 81106,
+          "sha256": "77bc5d7495d2d8d84bd95880e88c304f2cb19d6b1e0242831486015f251838b7"
+        },
+        "NA_UrisHall_6x9_Normal.png": {
+          "bytes": 9998813,
+          "sha256": "8308fad811e5d8c454c4e55cbf2c292f1b239d1433cacfb1617ac270bc21c01b"
+        },
+        "NA_UrisHall_6x9_Win.fbx": {
+          "bytes": 18748,
+          "sha256": "10ec2bfd4635763acb1b3cf66bec3ff9c7281da0797cb48f08318164d4904168"
+        },
+        "settings.json": {
+          "bytes": 393,
+          "sha256": "0ddd96d77fc27cb2e7076b9ec99bea398d5bb71c5eadd5ba50142e0a3c25ab1c"
+        }
+      },
+      "zip": {
+        "relative": "per-asset-zip/Columbia/UrisHall.zip",
+        "bytes": 26797066,
+        "sha256": "edcddf0288ffc6e706832846260facf9673f06b160ad38b7a9802ca2733c73fa"
+      },
+      "fbx": {
+        "NA_UrisHall_6x9.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_UrisHall_6x9_BaseColor.png",
+            "NA_UrisHall_6x9_Emissive.png",
+            "NA_UrisHall_6x9_Normal.png"
+          ]
+        },
+        "NA_UrisHall_6x9_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_UrisHall_6x9_LOD1.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_UrisHall_6x9_BaseColor.png",
+            "NA_UrisHall_6x9_Emissive.png",
+            "NA_UrisHall_6x9_Normal.png"
+          ]
+        },
+        "NA_UrisHall_6x9_LOD1_Gls.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_UrisHall_6x9_LOD1_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        },
+        "NA_UrisHall_6x9_LOD2.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": [
+            "NA_UrisHall_6x9_LOD2_BaseColor.png",
+            "NA_UrisHall_6x9_LOD2_Emissive.png",
+            "NA_UrisHall_6x9_LOD2_Normal.png"
+          ]
+        },
+        "NA_UrisHall_6x9_Win.fbx": {
+          "axis_and_unit": {
+            "UpAxis": 1,
+            "UpAxisSign": 1,
+            "FrontAxis": 2,
+            "FrontAxisSign": 1,
+            "CoordAxis": 0,
+            "CoordAxisSign": 1,
+            "UnitScaleFactor": 100.0,
+            "OriginalUnitScaleFactor": 100.0
+          },
+          "references": []
+        }
+      }
+    }
+  }
+}

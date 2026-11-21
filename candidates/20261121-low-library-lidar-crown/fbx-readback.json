@@ -1,0 +1,77 @@
+{
+  "blender_incoming_fbx_texture_slots_match_and_decode": {
+    "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": true,
+    "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png": true,
+    "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": true
+  },
+  "all_maps_dimensions_sha256_equal": {
+    "BaseColor": {
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "aaf2755a071c1984c08ce4caad3fd1d05ec6e3f429a9e224bfc21074e7a10bf9"
+    },
+    "Normal": {
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "e34570e4ff63fdfdfbb2ec0d9ba3eeca8dc83a345123ecec89783631a4deda37"
+    },
+    "MaskMap": {
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "142a9d51e1b366e72a83d66ad9e75ba6649f8b4f80df6a92bd1d2a5421f84c0b"
+    },
+    "Emissive": {
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460"
+    },
+    "ControlMask": {
+      "size": [
+        1024,
+        1024
+      ],
+      "sha256": "373986a97300e83571eaf23b5d7b2a1ae398ede36fabeb5d0e9f6cb099deb24a"
+    }
+  },
+  "bounds_unchanged": [
+    [
+      -52.0,
+      -40.0,
+      -3.019915993718314e-06
+    ],
+    [
+      52.0,
+      40.0,
+      43.0
+    ]
+  ],
+  "vertices": 428,
+  "triangles": 736,
+  "oriented_paired_edges": 1104,
+  "all_uv_corners_equal": 2208,
+  "moved_vertices": 48,
+  "affected_triangles": 144,
+  "old_scene_crossing_pairs_raw_bvh": 307,
+  "new_scene_crossing_pairs_raw_bvh": 307,
+  "new_crossing_pairs": 0,
+  "affected_crown_crossing_pairs": 0,
+  "n_hold": 3929,
+  "old_apex_aligned_hold_p50_p90_p95": [
+    0.7706736755371093,
+    0.9518706970214843,
+    1.002456878662109
+  ],
+  "patched_apex_aligned_hold_p50_p90_p95": [
+    0.15298965454101543,
+    0.6581494445800782,
+    0.763262451171875
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "city_reference": {
+    "verts": 60,
+    "tris": 116,
+    "oriented_two_face_edges": 174,
+    "open_cut_edges": 0,
+    "disjoint_triangle_intersections": 0,
+    "min_face_area_m2": 3.833432197570801,
+    "signed_volume_m3": 70976.68462028146,
+    "extent": [
+      [
+        -31.29612922668457,
+        -23.685169219970703,
+        37.0430908203125
+      ],
+      [
+        32.39918899536133,
+        22.19548988342285,
+        72.18898010253906
+      ]
+    ]
+  },
+  "calibrated_candidate": {
+    "verts": 60,
+    "tris": 116,
+    "oriented_two_face_edges": 174,
+    "open_cut_edges": 0,
+    "disjoint_triangle_intersections": 0,
+    "min_face_area_m2": 3.833432197570801,
+    "signed_volume_m3": 71224.45459029145,
+    "extent": [
+      [
+        -31.29612922668457,
+        -23.685169219970703,
+        -0.5669100284576416
+      ],
+      [
+        32.39918899536133,
+        22.19548988342285,
+        34.5789794921875
+      ]
+    ]
+  },
+  "old_game_lod2": {
+    "name": "NA_LernerHall_9x9_LOD2_Base",
+    "triangle_count": 72,
+    "original_world_extent": [
+      [
+        -36.0,
+        -36.0,
+        -0.05000272020697594
+      ],
+      [
+        36.0,
+        36.0,
+        34.599998474121094
+      ]
+    ]
+  }
+}

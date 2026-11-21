@@ -1,0 +1,60 @@
+{
+  "NA_UrisHall_6x9.fbx": {
+    "sha256": "3a42b31830eddc816b1c9bdefb7145f22dfef5b7292248fc499964e8493d9780",
+    "classes": {
+      "hotspots": {
+        "faces": 2672,
+        "loops": 8016,
+        "zero_t_or_b": 2312,
+        "not_unit": 268,
+        "nonorthogonal": 268,
+        "no_handedness": 268,
+        "left_handed": 5436
+      },
+      "residual": {
+        "faces": 772,
+        "loops": 2316,
+        "left_handed": 2148,
+        "zero_t_or_b": 158,
+        "not_unit": 502,
+        "nonorthogonal": 502,
+        "no_handedness": 10
+      },
+      "nonpoint": {
+        "faces": 3766,
+        "loops": 11298,
+        "right_handed": 11202,
+        "left_handed": 96
+      }
+    }
+  },
+  "NA_UrisHall_6x9_LOD1.fbx": {
+    "sha256": "86dd8d09614ff7bdeb8b1acb788a9cbf64a77e985f53aa0dd74555bc8296078e",
+    "classes": {
+      "hotspots": {
+        "faces": 1832,
+        "loops": 5496,
+        "zero_t_or_b": 1574,
+        "not_unit": 262,
+        "nonorthogonal": 262,
+        "no_handedness": 262,
+        "left_handed": 3660
+      },
+      "residual": {
+        "faces": 336,
+        "loops": 1008,
+        "left_handed": 900,
+        "zero_t_or_b": 98,
+        "not_unit": 502,
+        "nonorthogonal": 502,
+        "no_handedness": 10
+      },
+      "nonpoint": {
+        "faces": 2594,
+        "loops": 7782,
+        "right_handed": 7686,
+        "left_handed": 96
+      }
+    }
+  }
+}

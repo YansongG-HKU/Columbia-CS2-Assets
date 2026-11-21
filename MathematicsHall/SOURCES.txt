@@ -1,4 +1,7 @@
-NA_MathematicsHall_7x5 - Mathematics Hall, Columbia University (McKim, Mead & White, 1925).
+NA_MathematicsHall_7x5 - Mathematics Hall, Columbia University (McKim, Mead & White; built 1897).
+Construction date and architect: Columbia Facilities https://operations.cufo.columbia.edu/content/mathematics
+Independent timeline: Columbia Engineering https://seas150.columbia.edu/multimedia/time-capsule/the-fourth-decade-1895-1904
+1897 is the original construction date, not a claim that the candidate represents an 1897 as-built model.
 Fully procedural model (no third-party meshes/textures).
 Dimensions (1 unit = 1 m, pivot bottom centre of lot):
 - Footprint 45.4 x 17.1 m, height 26.2 m: OpenStreetMap way 274995760 (c) OSM contributors, ODbL.

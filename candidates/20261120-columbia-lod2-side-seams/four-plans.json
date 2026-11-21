@@ -1,0 +1,166 @@
+{
+  "NA_AveryHall_6x4_LOD2.fbx": {
+    "sha256": "4cb0d1172e16096be62ba7a5cc148e8d4dab30587e2a960fc944a4d1eec57001",
+    "axis": 0,
+    "plane_m": 1.5,
+    "caps": [
+      [
+        69,
+        153
+      ],
+      [
+        156,
+        72
+      ]
+    ],
+    "exact_weld": {
+      "88": 97,
+      "89": 98,
+      "91": 99,
+      "86": 96
+    },
+    "attachments": [
+      {
+        "65": 9.239999771118164,
+        "152": 9.239999771118164,
+        "66": 9.239999771118164,
+        "67": 9.239999771118164
+      },
+      {
+        "75": -3.0,
+        "73": -3.0,
+        "158": -3.0,
+        "155": -3.0
+      }
+    ],
+    "third_party_intersections": [],
+    "old_triangles": 172,
+    "new_triangles": 168,
+    "old_vertices": 116,
+    "new_vertices": 112,
+    "closed_oriented_edges": 252
+  },
+  "NA_KentHall_8x4_LOD2.fbx": {
+    "sha256": "6c4e1c9a712ca129ef7d20408124de18dc9b0595a9a327735952dc65c6853126",
+    "axis": 0,
+    "plane_m": 1.5,
+    "caps": [
+      [
+        38,
+        89
+      ],
+      [
+        92,
+        41
+      ]
+    ],
+    "exact_weld": {
+      "49": 57,
+      "44": 54,
+      "46": 55,
+      "47": 56
+    },
+    "attachments": [
+      {
+        "34": 7.279999732971191,
+        "88": 7.279999732971191,
+        "35": 7.279999732971191,
+        "36": 7.279999732971191
+      },
+      {
+        "44": -3.0,
+        "42": -3.0,
+        "94": -3.0,
+        "91": -3.0
+      }
+    ],
+    "third_party_intersections": [],
+    "old_triangles": 108,
+    "new_triangles": 104,
+    "old_vertices": 74,
+    "new_vertices": 70,
+    "closed_oriented_edges": 156
+  },
+  "NA_LewisohnHall_6x4_LOD2.fbx": {
+    "sha256": "261c38823407bddf97ccc1384985d08488b6d5ffd18db64a55f82db9ce455fe6",
+    "axis": 0,
+    "plane_m": 1.5,
+    "caps": [
+      [
+        38,
+        83
+      ],
+      [
+        86,
+        41
+      ]
+    ],
+    "exact_weld": {
+      "49": 57,
+      "44": 54,
+      "46": 55,
+      "47": 56
+    },
+    "attachments": [
+      {
+        "34": 10.640000343322754,
+        "82": 10.640000343322754,
+        "35": 10.640000343322754,
+        "36": 10.640000343322754
+      },
+      {
+        "44": -3.0,
+        "42": -3.0,
+        "88": -3.0,
+        "85": -3.0
+      }
+    ],
+    "third_party_intersections": [],
+    "old_triangles": 96,
+    "new_triangles": 92,
+    "old_vertices": 66,
+    "new_vertices": 62,
+    "closed_oriented_edges": 138
+  },
+  "NA_PhilosophyHall_6x4_LOD2.fbx": {
+    "sha256": "a5056d08fa4d505473049d379fa679f90460b7f43e3c31bbd59bdfc5da3fb6b9",
+    "axis": 0,
+    "plane_m": 1.5,
+    "caps": [
+      [
+        38,
+        83
+      ],
+      [
+        86,
+        41
+      ]
+    ],
+    "exact_weld": {
+      "49": 57,
+      "44": 54,
+      "46": 55,
+      "47": 56
+    },
+    "attachments": [
+      {
+        "34": 10.640000343322754,
+        "82": 10.640000343322754,
+        "35": 10.640000343322754,
+        "36": 10.640000343322754
+      },
+      {
+        "44": -3.0,
+        "42": -3.0,
+        "88": -3.0,
+        "85": -3.0
+      }
+    ],
+    "third_party_intersections": [],
+    "old_triangles": 96,
+    "new_triangles": 92,
+    "old_vertices": 66,
+    "new_vertices": 62,
+    "closed_oriented_edges": 138
+  }
+}

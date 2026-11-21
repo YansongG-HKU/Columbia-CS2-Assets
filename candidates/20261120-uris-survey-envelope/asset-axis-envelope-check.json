@@ -1,0 +1,30 @@
+{
+  "width_depth_m": [
+    68.61447529864617,
+    80.9921077286683
+  ],
+  "local_east_north_rotation": [
+    [
+      0.8790707809481951,
+      0.47669126495367026
+    ],
+    [
+      -0.47669126495367026,
+      0.8790707809481951
+    ]
+  ],
+  "asset_axis_central_offset_m": [
+    0.9434635522222905,
+    -14.373964244291606
+  ],
+  "current_6x9_dimensions_m": [
+    48,
+    72
+  ],
+  "min_integer_8m_cells_math_only": [
+    9,
+    11
+  ],
+  "no_scaling_or_reflection": true,
+  "placement_note": "Mathematical bbox only. No existing plop settings, building origin, lot meaning, roads or usable frontage were changed; reserve margins and verify in CS2."
+}

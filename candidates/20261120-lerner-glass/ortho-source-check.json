@@ -1,0 +1,79 @@
+{
+  "vintage": "2024-03-14..2024-03-24 NYC acquisition window (individual capture date unverified)",
+  "source_resolution_m_nominal": 0.1524,
+  "service": "https://tiles.arcgis.com/tiles/yG5s3afENB5iO9fj/arcgis/rest/services/NYC_Orthos_2024/MapServer",
+  "crs": "EPSG:3857",
+  "tile_level": 19,
+  "bbox": [
+    -8233720.24985,
+    4983770.68122,
+    -8233490.93877,
+    4983999.99231
+  ],
+  "tiles": {
+    "tile-196940-154425.jpg": {
+      "sha256": "947b10717a6a89b4d2abae44c262182920e92bad7730fadd88ac32e53ea52aae",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196940-154426.jpg": {
+      "sha256": "2c0f3ff7fef1bb9a1fb0b9e43372bbdae14c4e13a509f8d34bccc1bd5d893f93",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196940-154427.jpg": {
+      "sha256": "416650d248efcc69b5c5ff72449bd2ca15302bde73f6568d841f4e1a9c35879c",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196941-154425.jpg": {
+      "sha256": "ac1b8a1dbc92c235cf4b587e1df3c878b4bf3d8821707d786292634ef2acb8c1",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196941-154426.jpg": {
+      "sha256": "77906fd74d54e95377dfe28373c6b4d045947ab5bf0351bda2fb7c9d88996cc6",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196941-154427.jpg": {
+      "sha256": "ad4b902adec2c972fc9b81f5c8ac903ec2663f093394975f023c838119dae4fd",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196942-154425.jpg": {
+      "sha256": "92a49db37432d1fd969b13161567bfdd9a18e364020985cd038acf6df58a9336",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196942-154426.jpg": {
+      "sha256": "f6b56584b23a35bf1ba00e32916990d0a846865c1cc005ac178a17a137f97b2d",
+      "pixels": [
+        256,
+        256
+      ]
+    },
+    "tile-196942-154427.jpg": {
+      "sha256": "6830f098b4fa08825cc905a295fd5b8cda53e61d3a2ac5663f86be40565a8b80",
+      "pixels": [
+        256,
+        256
+      ]
+    }
+  },
+  "status": "Imagery visibly confirmed and stitched; not registered to authoritative geometry"
+}

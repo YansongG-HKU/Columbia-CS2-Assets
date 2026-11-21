@@ -1,0 +1,41 @@
+{
+  "sha256_import_files": {
+    "NA_PupinHall_8x3.fbx": "4369d9ec45f1ef7cd2884dec0faf442bd9c5fb2957950bd834ec7678ad8e04ed",
+    "NA_PupinHall_8x3_BaseColor.png": "8b3953500288990f5b595240d4ff40cb9606c2f6f6bd505080a44a650cf223d8",
+    "NA_PupinHall_8x3_ControlMask.png": "91c571587e018d9056d9baca0d490f9b671ed16b0ff167f59aaeb9d135717487",
+    "NA_PupinHall_8x3_Emissive.png": "4db7a42fcbd7b1a666a67dafa0ae70d6792d4e994722eef9154c5df5ac018ff1",
+    "NA_PupinHall_8x3_Gls.fbx": "f264dd1f8c26a4d88a46779b5bd7a863dac14f847f30f60f35fd030ea594d04b",
+    "NA_PupinHall_8x3_LOD1.fbx": "1917fb8bf3cfa92ff2576d11b6694221fca93d8432928a1259f004b5d8531958",
+    "NA_PupinHall_8x3_LOD1_Gls.fbx": "088385df9d1fa723ff19ca7c561b65c6afb762ef4f3fb56a64376132dd8c55b9",
+    "NA_PupinHall_8x3_LOD1_Win.fbx": "ea6a72fe4fe70539a7be9c92d293f9de2da6e7088be1fa10b269d981c3df05c3",
+    "NA_PupinHall_8x3_LOD2.fbx": "594eaf80a959f275f493c8f8fe7df160973432e4ab17580a0abe10b7c3273d25",
+    "NA_PupinHall_8x3_LOD2_BaseColor.png": "09336dee647786ca2e7b78992000a3c8e7bb8cd964c258c6bdda09378017adab",
+    "NA_PupinHall_8x3_LOD2_ControlMask.png": "374235c2a22b3bd122f75c31aa09f86d16c598a76e6ac7739ef80103285e2a2c",
+    "NA_PupinHall_8x3_LOD2_Emissive.png": "e2ab1193000079c8f0fa102bf6c139a454d0d4ae386d9309d36a0f72f44f3443",
+    "NA_PupinHall_8x3_LOD2_MaskMap.png": "551d95efeee9547dc2789293701179349499699df3b8ba44943f1d58c5d46368",
+    "NA_PupinHall_8x3_LOD2_Normal.png": "82417eb2db9df51310fc750e156bcbbbdf967e7ec1cf5067141a48be3afce7cb",
+    "NA_PupinHall_8x3_MaskMap.png": "3282cb40ac88cd2c1e59999276806e820622cd7dabf0ae5fb08fda0886e1d769",
+    "NA_PupinHall_8x3_Normal.png": "cf67dc519a34699a63f381b5133d9cbd5d5357aec7847c57d3355f37d1851b34",
+    "NA_PupinHall_8x3_Win.fbx": "2a82e0d46b39071c22df220d5be0a1df1f139471dc111545474a1da2d7fed510",
+    "settings.json": "caa4d73b0313c052d364941d62351df0096596e3289b7600cb0db6d5268f0983"
+  },
+  "unchanged_17_files": [
+    "NA_PupinHall_8x3.fbx",
+    "NA_PupinHall_8x3_BaseColor.png",
+    "NA_PupinHall_8x3_ControlMask.png",
+    "NA_PupinHall_8x3_Emissive.png",
+    "NA_PupinHall_8x3_Gls.fbx",
+    "NA_PupinHall_8x3_LOD1_Gls.fbx",
+    "NA_PupinHall_8x3_LOD1_Win.fbx",
+    "NA_PupinHall_8x3_LOD2.fbx",
+    "NA_PupinHall_8x3_LOD2_BaseColor.png",
+    "NA_PupinHall_8x3_LOD2_ControlMask.png",
+    "NA_PupinHall_8x3_LOD2_Emissive.png",
+    "NA_PupinHall_8x3_LOD2_MaskMap.png",
+    "NA_PupinHall_8x3_LOD2_Normal.png",
+    "NA_PupinHall_8x3_MaskMap.png",
+    "NA_PupinHall_8x3_Normal.png",
+    "NA_PupinHall_8x3_Win.fbx",
+    "settings.json"
+  ]
+}
