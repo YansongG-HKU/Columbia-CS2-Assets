@@ -1,0 +1,166 @@
+{
+  "separate_FBX": {
+    "NA_LernerHall_9x9.fbx": {
+      "triangles": 30084,
+      "bounds_m": [
+        [
+          -36.0,
+          -36.0,
+          -0.05000586435198784
+        ],
+        [
+          36.0,
+          36.0,
+          37.400001525878906
+        ]
+      ],
+      "images": {
+        "NA_LernerHall_9x9_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "NA_LernerHall_9x9_Emissive.png": [
+          2048,
+          2048
+        ],
+        "NA_LernerHall_9x9_Normal.png": [
+          2048,
+          2048
+        ]
+      }
+    },
+    "NA_LernerHall_9x9_LOD1.fbx": {
+      "triangles": 15304,
+      "bounds_m": [
+        [
+          -36.0,
+          -36.0,
+          -0.05000586435198784
+        ],
+        [
+          36.0,
+          36.0,
+          37.400001525878906
+        ]
+      ],
+      "images": {
+        "NA_LernerHall_9x9_BaseColor.png": [
+          2048,
+          2048
+        ],
+        "NA_LernerHall_9x9_Emissive.png": [
+          2048,
+          2048
+        ],
+        "NA_LernerHall_9x9_Normal.png": [
+          2048,
+          2048
+        ]
+      }
+    },
+    "NA_LernerHall_9x9_LOD2.fbx": {
+      "triangles": 84,
+      "bounds_m": [
+        [
+          -36.0,
+          -36.0,
+          -0.05000586435198784
+        ],
+        [
+          36.0,
+          36.0,
+          37.400001525878906
+        ]
+      ],
+      "images": {
+        "NA_LernerHall_9x9_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_LernerHall_9x9_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_LernerHall_9x9_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_LernerHall_9x9_Win.fbx": {
+      "triangles": 958,
+      "bounds_m": [
+        [
+          -31.860000610351562,
+          -32.560001373291016,
+          0.3000018894672394
+        ],
+        [
+          31.860000610351562,
+          32.56000518798828,
+          31.700002670288086
+        ]
+      ],
+      "images": {}
+    },
+    "NA_LernerHall_9x9_LOD1_Win.fbx": {
+      "triangles": 958,
+      "bounds_m": [
+        [
+          -31.860000610351562,
+          -32.560001373291016,
+          0.3000018894672394
+        ],
+        [
+          31.860000610351562,
+          32.56000518798828,
+          31.700002670288086
+        ]
+      ],
+      "images": {}
+    }
+  },
+  "all_PNGs_decoded": {
+    "NA_LernerHall_9x9_BaseColor.png": [
+      2048,
+      2048
+    ],
+    "NA_LernerHall_9x9_ControlMask.png": [
+      2048,
+      2048
+    ],
+    "NA_LernerHall_9x9_Emissive.png": [
+      2048,
+      2048
+    ],
+    "NA_LernerHall_9x9_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_LernerHall_9x9_LOD2_ControlMask.png": [
+      1024,
+      1024
+    ],
+    "NA_LernerHall_9x9_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_LernerHall_9x9_LOD2_MaskMap.png": [
+      1024,
+      1024
+    ],
+    "NA_LernerHall_9x9_LOD2_Normal.png": [
+      1024,
+      1024
+    ],
+    "NA_LernerHall_9x9_MaskMap.png": [
+      2048,
+      2048
+    ],
+    "NA_LernerHall_9x9_Normal.png": [
+      2048,
+      2048
+    ]
+  },
+  "scope": "Offline package, independent mesh and texture checks, not combined shader or Editor test"
+}
