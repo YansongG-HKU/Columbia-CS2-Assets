@@ -1,0 +1,9 @@
+# Chapel LOD2 +13.0 m interior cap: verified cumulative variant
+
+Continuing from the verified +26.4 m roof candidate `3d021a103da753fb791c70dada1c9456201b3ef00326f99045b220d7ef45e1bb`. New candidate `2282be6cb0202dc6112982063b36caa7780a04cf8e998bd79f277fbabf0b7a12`, not canonical; no changes to other tiers, textures, LFS or Editor status.
+
+- Exact polygon contact, 114.100 m² in model coordinates. The two closed convex solids' native signed volumes agree with their convex hulls. They are contained in opposite halfspaces and share the same complete opposite-facing contact face. Its relative interior is inside the union. The 16 retained unrelated intersecting triangles are not edited; no claim of full watertight union with those third-party shells.
+- 4 duplicate inward contact triangles removed without any position change; 4 vertex pairs welded, 564→560 triangles, 312→308 vertices, 15→14 shells, 840 paired oriented indexed edges. Raw UV and corner frames preserved. Whole-file 10 μm near-coplanar comparison: opposed 372→370, same 21 unchanged; position-based four-use edges 25→20.
+- 81,225 exterior rays / 30,716 identical first hits. At model Z=13.0: 577 cap hits removed, one previously nearer third-body hit unchanged and five close third-body hits preserved. Additional original-map offline check: 37,303 rays, 6,412 matched hits, mapped normal angle max 0.00322°, no tangent-sign flip. Fresh package extraction and native rebuild FBX are byte identical; Blender results match.
+- **Held** the +13.7 m geometry-only trial: exterior matched but normal-map direction max 4.087° and recomputed corner tangent max 7.255°. Do not use this trial; its binary is not in the package. Unedited +15 m not certified.
+- ZIP 1,122,501 B, SHA-256 `8020c593c68acf43763d61eb3e71081d97abbc7751527820e2de0d530d6465ff`. No game test or publishing.
