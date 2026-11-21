@@ -1,0 +1,198 @@
+{
+  "separate_FBX": {
+    "NA_PhilosophyHall_6x4.fbx": {
+      "triangles": 43254,
+      "bounds_m": [
+        [
+          -24.0,
+          -16.0,
+          -0.05000260844826698
+        ],
+        [
+          24.0,
+          16.0,
+          29.0
+        ]
+      ],
+      "images": {
+        "NA_PhilosophyHall_6x4_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_PhilosophyHall_6x4_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_PhilosophyHall_6x4_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_PhilosophyHall_6x4_LOD1.fbx": {
+      "triangles": 19416,
+      "bounds_m": [
+        [
+          -24.0,
+          -16.0,
+          -0.05000260844826698
+        ],
+        [
+          24.0,
+          16.0,
+          29.0
+        ]
+      ],
+      "images": {
+        "NA_PhilosophyHall_6x4_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_PhilosophyHall_6x4_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_PhilosophyHall_6x4_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_PhilosophyHall_6x4_LOD2.fbx": {
+      "triangles": 96,
+      "bounds_m": [
+        [
+          -24.0,
+          -16.0,
+          -0.05000260844826698
+        ],
+        [
+          24.0,
+          16.0,
+          29.0
+        ]
+      ],
+      "images": {
+        "NA_PhilosophyHall_6x4_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_PhilosophyHall_6x4_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_PhilosophyHall_6x4_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_PhilosophyHall_6x4_Gls.fbx": {
+      "triangles": 112,
+      "bounds_m": [
+        [
+          -4.28000020980835,
+          -5.766294479370117,
+          9.700000762939453
+        ],
+        [
+          4.28000020980835,
+          -5.233702659606934,
+          10.30000114440918
+        ]
+      ],
+      "images": {}
+    },
+    "NA_PhilosophyHall_6x4_LOD1_Gls.fbx": {
+      "triangles": 112,
+      "bounds_m": [
+        [
+          -4.28000020980835,
+          -5.766294479370117,
+          9.700000762939453
+        ],
+        [
+          4.28000020980835,
+          -5.233702659606934,
+          10.30000114440918
+        ]
+      ],
+      "images": {}
+    },
+    "NA_PhilosophyHall_6x4_Win.fbx": {
+      "triangles": 527,
+      "bounds_m": [
+        [
+          -22.690000534057617,
+          -3.96000075340271,
+          1.499997615814209
+        ],
+        [
+          22.690000534057617,
+          14.840001106262207,
+          24.75
+        ]
+      ],
+      "images": {}
+    },
+    "NA_PhilosophyHall_6x4_LOD1_Win.fbx": {
+      "triangles": 527,
+      "bounds_m": [
+        [
+          -22.690000534057617,
+          -3.96000075340271,
+          1.499997615814209
+        ],
+        [
+          22.690000534057617,
+          14.840001106262207,
+          24.75
+        ]
+      ],
+      "images": {}
+    }
+  },
+  "all_PNGs_decoded": {
+    "NA_PhilosophyHall_6x4_BaseColor.png": [
+      4096,
+      4096
+    ],
+    "NA_PhilosophyHall_6x4_ControlMask.png": [
+      4096,
+      4096
+    ],
+    "NA_PhilosophyHall_6x4_Emissive.png": [
+      4096,
+      4096
+    ],
+    "NA_PhilosophyHall_6x4_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_PhilosophyHall_6x4_LOD2_ControlMask.png": [
+      1024,
+      1024
+    ],
+    "NA_PhilosophyHall_6x4_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_PhilosophyHall_6x4_LOD2_MaskMap.png": [
+      1024,
+      1024
+    ],
+    "NA_PhilosophyHall_6x4_LOD2_Normal.png": [
+      1024,
+      1024
+    ],
+    "NA_PhilosophyHall_6x4_MaskMap.png": [
+      4096,
+      4096
+    ],
+    "NA_PhilosophyHall_6x4_Normal.png": [
+      4096,
+      4096
+    ]
+  },
+  "scope": "Offline package, independent mesh and texture checks, not combined shader or Editor test"
+}
