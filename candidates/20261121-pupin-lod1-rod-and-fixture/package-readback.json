@@ -1,0 +1,198 @@
+{
+  "separate_FBX": {
+    "NA_PupinHall_8x3.fbx": {
+      "triangles": 82336,
+      "bounds_m": [
+        [
+          -32.0,
+          -12.0,
+          -0.05000195652246475
+        ],
+        [
+          32.0,
+          12.0,
+          56.650001525878906
+        ]
+      ],
+      "images": {
+        "NA_PupinHall_8x3_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_PupinHall_8x3_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_PupinHall_8x3_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_PupinHall_8x3_LOD1.fbx": {
+      "triangles": 37286,
+      "bounds_m": [
+        [
+          -32.0,
+          -12.0,
+          -0.05000195652246475
+        ],
+        [
+          32.0,
+          12.0,
+          56.650001525878906
+        ]
+      ],
+      "images": {
+        "NA_PupinHall_8x3_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_PupinHall_8x3_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_PupinHall_8x3_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_PupinHall_8x3_LOD2.fbx": {
+      "triangles": 84,
+      "bounds_m": [
+        [
+          -32.0,
+          -12.0,
+          -0.05000195652246475
+        ],
+        [
+          32.0,
+          12.0,
+          55.70000076293945
+        ]
+      ],
+      "images": {
+        "NA_PupinHall_8x3_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_PupinHall_8x3_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_PupinHall_8x3_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_PupinHall_8x3_Gls.fbx": {
+      "triangles": 112,
+      "bounds_m": [
+        [
+          -4.840000152587891,
+          -11.428252220153809,
+          3.000001907348633
+        ],
+        [
+          4.840000152587891,
+          -10.971745491027832,
+          3.500001907348633
+        ]
+      ],
+      "images": {}
+    },
+    "NA_PupinHall_8x3_LOD1_Gls.fbx": {
+      "triangles": 112,
+      "bounds_m": [
+        [
+          -4.840000152587891,
+          -11.428252220153809,
+          3.000001907348633
+        ],
+        [
+          4.840000152587891,
+          -10.971745491027832,
+          3.500001907348633
+        ]
+      ],
+      "images": {}
+    },
+    "NA_PupinHall_8x3_Win.fbx": {
+      "triangles": 1458,
+      "bounds_m": [
+        [
+          -27.910001754760742,
+          -9.810002326965332,
+          1.3999983072280884
+        ],
+        [
+          27.910001754760742,
+          10.010001182556152,
+          47.70000076293945
+        ]
+      ],
+      "images": {}
+    },
+    "NA_PupinHall_8x3_LOD1_Win.fbx": {
+      "triangles": 1458,
+      "bounds_m": [
+        [
+          -27.910001754760742,
+          -9.810002326965332,
+          1.3999983072280884
+        ],
+        [
+          27.910001754760742,
+          10.010001182556152,
+          47.70000076293945
+        ]
+      ],
+      "images": {}
+    }
+  },
+  "all_PNGs_decoded": {
+    "NA_PupinHall_8x3_BaseColor.png": [
+      4096,
+      4096
+    ],
+    "NA_PupinHall_8x3_ControlMask.png": [
+      4096,
+      4096
+    ],
+    "NA_PupinHall_8x3_Emissive.png": [
+      4096,
+      4096
+    ],
+    "NA_PupinHall_8x3_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_PupinHall_8x3_LOD2_ControlMask.png": [
+      1024,
+      1024
+    ],
+    "NA_PupinHall_8x3_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_PupinHall_8x3_LOD2_MaskMap.png": [
+      1024,
+      1024
+    ],
+    "NA_PupinHall_8x3_LOD2_Normal.png": [
+      1024,
+      1024
+    ],
+    "NA_PupinHall_8x3_MaskMap.png": [
+      4096,
+      4096
+    ],
+    "NA_PupinHall_8x3_Normal.png": [
+      4096,
+      4096
+    ]
+  },
+  "scope": "Offline package, independent mesh and texture checks, not combined shader or Editor test"
+}
