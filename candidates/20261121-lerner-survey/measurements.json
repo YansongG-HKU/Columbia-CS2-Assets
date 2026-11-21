@@ -1,0 +1,478 @@
+{
+  "notice": "Offline 2014/2017 measuring shell; no CS2 Editor, no facade, ramps, windows, LOD, or publish acceptance. Historic tiers remain placeholders.",
+  "source": {
+    "nyc_2014_archive": "https://maps.nyc.gov/download/3dmodel/DA_WISE_GML.zip",
+    "footprint": "https://data.cityofnewyork.us/resource/5zhs-2jue.geojson?bin=1082166",
+    "lidar_catalog": "https://www.fisheries.noaa.gov/inport/item/64728/full-list",
+    "lidar_ept": "https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/entwine/geoid18/9306",
+    "bin": "1082166",
+    "doitt_id": "397140",
+    "historic_building": "Bldg_13210022416",
+    "gml_sha256": "7dbe8450e8cac24245aafc4f79f32a3fe92b481932c619efa7655446d7ad6fb7",
+    "footprint_sha256": "1275a0f4750fd4def735796877d30213c1d8b2fffab3f8abb7da7cfab2ae951e",
+    "cropped_points_csv_gz_sha256": "de29bc45a54769fe52680493e6cfc50441f819af67c11d490946f009cd3f607a"
+  },
+  "metre_frame": {
+    "horizontal_epsg": 6347,
+    "vertical_for_lidar": "EPSG 5703 NAVD88 GEOID18",
+    "origin_xy": [
+      587385.0191418445,
+      4517835.808171349
+    ],
+    "axes_NE_rows": [
+      [
+        0.8804237867944558,
+        -0.4741876797709012
+      ],
+      [
+        0.4741876797709012,
+        0.8804237867944558
+      ]
+    ],
+    "z_zero_from_broadway_m": 37.61,
+    "citygml_historic_bottom_not_ground_navd88_control": 37.04309,
+    "plan_span_oriented_m": [
+      63.69533004213129,
+      45.880666766013086
+    ],
+    "historic_minus_footprint_centroid_m": [
+      0.5515310167152473,
+      -0.7448416145603486
+    ],
+    "raw_footprint_symmetric_difference_m2": 144.67312868117145,
+    "after_translation_plan_shape_symmetric_difference_m2": 0.0016730355869185587
+  },
+  "point_split": {
+    "distinct_records": 236999,
+    "hold_source_ids": [
+      1135,
+      1136
+    ],
+    "crop_query": {
+      "index_file": "ept.json",
+      "query_maxerror_m": 0.22,
+      "vertical_range_m": [
+        -10,
+        120
+      ],
+      "compound_srs": "EPSG 6347 horizontal / EPSG 5703 NAVD88 GEOID18 vertical (source SRS; QGIS WKT not assigned a simple code)",
+      "queries": [
+        {
+          "bbox": [
+            587339.0,
+            4517794.0,
+            587362.25,
+            4517815.25
+          ],
+          "points_returned": 17135,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15163,
+            "2": 1946,
+            "7": 26
+          }
+        },
+        {
+          "bbox": [
+            587339.0,
+            4517815.25,
+            587362.25,
+            4517836.5
+          ],
+          "points_returned": 16643,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15903,
+            "2": 737,
+            "7": 3
+          }
+        },
+        {
+          "bbox": [
+            587339.0,
+            4517836.5,
+            587362.25,
+            4517857.75
+          ],
+          "points_returned": 16085,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 13776,
+            "2": 2307,
+            "7": 2
+          }
+        },
+        {
+          "bbox": [
+            587339.0,
+            4517857.75,
+            587362.25,
+            4517879.0
+          ],
+          "points_returned": 11858,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 8189,
+            "2": 3669
+          }
+        },
+        {
+          "bbox": [
+            587362.25,
+            4517794.0,
+            587385.5,
+            4517815.25
+          ],
+          "points_returned": 15635,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15423,
+            "7": 90,
+            "2": 122
+          }
+        },
+        {
+          "bbox": [
+            587362.25,
+            4517815.25,
+            587385.5,
+            4517836.5
+          ],
+          "points_returned": 10785,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 10784,
+            "7": 1
+          }
+        },
+        {
+          "bbox": [
+            587362.25,
+            4517836.5,
+            587385.5,
+            4517857.75
+          ],
+          "points_returned": 14921,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14907,
+            "7": 14
+          }
+        },
+        {
+          "bbox": [
+            587362.25,
+            4517857.75,
+            587385.5,
+            4517879.0
+          ],
+          "points_returned": 16797,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 15069,
+            "7": 4,
+            "2": 1724
+          }
+        },
+        {
+          "bbox": [
+            587385.5,
+            4517794.0,
+            587408.75,
+            4517815.25
+          ],
+          "points_returned": 12482,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 11942,
+            "2": 473,
+            "7": 67
+          }
+        },
+        {
+          "bbox": [
+            587385.5,
+            4517815.25,
+            587408.75,
+            4517836.5
+          ],
+          "points_returned": 10984,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 10984
+          }
+        },
+        {
+          "bbox": [
+            587385.5,
+            4517836.5,
+            587408.75,
+            4517857.75
+          ],
+          "points_returned": 14230,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 13476,
+            "7": 51,
+            "2": 703
+          }
+        },
+        {
+          "bbox": [
+            587385.5,
+            4517857.75,
+            587408.75,
+            4517879.0
+          ],
+          "points_returned": 15007,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 12713,
+            "2": 2248,
+            "7": 46
+          }
+        },
+        {
+          "bbox": [
+            587408.75,
+            4517794.0,
+            587432.0,
+            4517815.25
+          ],
+          "points_returned": 16286,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 14873,
+            "2": 1294,
+            "7": 119
+          }
+        },
+        {
+          "bbox": [
+            587408.75,
+            4517815.25,
+            587432.0,
+            4517836.5
+          ],
+          "points_returned": 23276,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 21237,
+            "2": 1806,
+            "7": 233
+          }
+        },
+        {
+          "bbox": [
+            587408.75,
+            4517836.5,
+            587432.0,
+            4517857.75
+          ],
+          "points_returned": 13066,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 10698,
+            "2": 2352,
+            "7": 16
+          }
+        },
+        {
+          "bbox": [
+            587408.75,
+            4517857.75,
+            587432.0,
+            4517879.0
+          ],
+          "points_returned": 11872,
+          "maximum_requested": 40000,
+          "classes": {
+            "1": 9235,
+            "2": 2628,
+            "7": 9
+          }
+        }
+      ]
+    },
+    "ground_class_2_quadrants": {
+      "west_broadway": {
+        "bbox_local_m": [
+          -39,
+          -33,
+          -17,
+          18
+        ],
+        "n": 1374,
+        "z_p10_50_90": [
+          37.53999999999999,
+          37.609999999999985,
+          37.66
+        ]
+      },
+      "east_campus": {
+        "bbox_local_m": [
+          33,
+          38,
+          -19,
+          18
+        ],
+        "n": 1060,
+        "z_p10_50_90": [
+          40.03999999999999,
+          40.079999999999984,
+          40.109999999999985
+        ]
+      },
+      "north": {
+        "bbox_local_m": [
+          -28,
+          29,
+          23,
+          28
+        ],
+        "n": 2153,
+        "z_p10_50_90": [
+          37.872,
+          38.870000000000005,
+          40.09
+        ]
+      }
+    },
+    "broadway_to_campus_box_median_delta_m": 2.47
+  },
+  "central_east_roof": {
+    "candidate_height_NAVD88_m": 60.42,
+    "point_filter": [
+      "classification=1",
+      "return=1"
+    ],
+    "height_screen_m": [
+      60.23,
+      60.57
+    ],
+    "train_in_band": 9860,
+    "hold_in_band": 5707,
+    "hold_total": 5887,
+    "train_in_band_fraction": 0.9793404847040127,
+    "hold_in_band_fraction": 0.9694241549176151,
+    "held_error_p50_p90_p95_m": [
+      0.030000000000015348,
+      0.07000000000000739,
+      0.09000000000001762
+    ],
+    "historic_height_m": 60.13451,
+    "historic_held_error_p50_p90_p95_m": [
+      0.25548999999998756,
+      0.295490000000008,
+      0.30548999999999893
+    ]
+  },
+  "unadjusted_historic_roofs": {
+    "55.79409": {
+      "action": "historical placeholder, not laser-calibrated as whole tier",
+      "all_first_return_n": 20999,
+      "dominant_mode_band_m": [
+        55.06,
+        55.36
+      ],
+      "fraction_dominant_mode": 0.2695842659174246
+    },
+    "72.18898": {
+      "action": "historical placeholder, not laser-calibrated as whole tier",
+      "all_first_return_n": 18059,
+      "dominant_mode_band_m": [
+        72.06,
+        72.36
+      ],
+      "fraction_dominant_mode": 0.5288221939199291
+    }
+  },
+  "shell": {
+    "vertices": 60,
+    "triangles": 116,
+    "manifold_oriented_edges": 174,
+    "signed_volume_m3": 71224.4572351637,
+    "xyz_bounds_m": [
+      [
+        -31.29613,
+        -23.68517,
+        -0.56691
+      ],
+      [
+        32.39919,
+        22.19549,
+        34.57898
+      ]
+    ],
+    "z_zero_provisional_m": 37.61,
+    "sha256": "5bef6996fbdfaa6da26e86fb95702f1aca9c59879991313d0da704946d400ef3"
+  },
+  "diagnostic_windows": {
+    "Broadway flat inner deck": {
+      "local_xy_window_m": [
+        -25.8,
+        -17.8,
+        -12.0,
+        13.0
+      ],
+      "searched_height_band_m": [
+        72.05,
+        72.37
+      ],
+      "z_train_NAVD88_m": 72.22,
+      "n_train_in_band": 3535,
+      "n_hold_in_band": 1567,
+      "n_hold_all_heights": 1605,
+      "hold_in_band_abs_error_p50_p90_p95_m": [
+        0.030000000000001137,
+        0.0800000000000125,
+        0.09000000000000341
+      ],
+      "action": "diagnostic only; not used to change the shell"
+    },
+    "east perimeter low deck": {
+      "local_xy_window_m": [
+        29.0,
+        30.8,
+        1.0,
+        16.5
+      ],
+      "searched_height_band_m": [
+        55.08,
+        55.34
+      ],
+      "z_train_NAVD88_m": 55.22,
+      "n_train_in_band": 450,
+      "n_hold_in_band": 256,
+      "n_hold_all_heights": 256,
+      "hold_in_band_abs_error_p50_p90_p95_m": [
+        0.020000000000010232,
+        0.05000000000001137,
+        0.060000000000002274
+      ],
+      "action": "diagnostic only; not used to change the shell"
+    },
+    "south adjacent lower return band, identity unresolved": {
+      "local_xy_window_m": [
+        -9.2,
+        14.3,
+        -21.9,
+        -19.7
+      ],
+      "searched_height_band_m": [
+        48.53,
+        48.86
+      ],
+      "z_train_NAVD88_m": 48.68,
+      "n_train_in_band": 433,
+      "n_hold_in_band": 179,
+      "n_hold_all_heights": 253,
+      "hold_in_band_abs_error_p50_p90_p95_m": [
+        0.02999999999999403,
+        0.0700000000000145,
+        0.0800000000000054
+      ],
+      "action": "diagnostic only; not used to change the shell"
+    }
+  }
+}
