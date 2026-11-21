@@ -1,0 +1,76 @@
+{
+  "_LOD1_Gls": {
+    "matching_near_submesh_max_vertex_delta_m": 0.0,
+    "donors": [
+      {
+        "donor": 0,
+        "pairs": 10
+      },
+      {
+        "donor": 1,
+        "pairs": 14
+      },
+      {
+        "donor": 2,
+        "pairs": 16
+      },
+      {
+        "donor": 3,
+        "pairs": 16
+      },
+      {
+        "donor": 4,
+        "pairs": 16
+      },
+      {
+        "donor": 5,
+        "pairs": 15
+      },
+      {
+        "donor": 6,
+        "pairs": 12
+      },
+      {
+        "donor": 7,
+        "pairs": 10
+      }
+    ]
+  },
+  "_LOD1_Win": {
+    "matching_near_submesh_max_vertex_delta_m": 0.0,
+    "donors": [
+      {
+        "donor": 0,
+        "pairs": 0
+      },
+      {
+        "donor": 1,
+        "pairs": 0
+      },
+      {
+        "donor": 2,
+        "pairs": 0
+      },
+      {
+        "donor": 3,
+        "pairs": 0
+      },
+      {
+        "donor": 4,
+        "pairs": 0
+      },
+      {
+        "donor": 5,
+        "pairs": 0
+      },
+      {
+        "donor": 6,
+        "pairs": 0
+      },
+      {
+        "donor": 7,
+        "pairs": 0
+      }
+    ]
+  }
+}
