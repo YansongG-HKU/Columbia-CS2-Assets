@@ -1,0 +1,53 @@
+{
+  "NA_ColumbiaLowLibrary_13x10.fbx": {
+    "fbx_sha256": "ebe2ec33b78de975b630e4f81c67d318fc4aa16024492f8c3ad31deba9702962",
+    "image_slots": {
+      "NA_ColumbiaLowLibrary_13x10_BaseColor.png": {
+        "sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+        "found_in_extracted_folder": true
+      },
+      "NA_ColumbiaLowLibrary_13x10_Emissive.png": {
+        "sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+        "found_in_extracted_folder": true
+      },
+      "NA_ColumbiaLowLibrary_13x10_Normal.png": {
+        "sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+        "found_in_extracted_folder": true
+      }
+    }
+  },
+  "NA_ColumbiaLowLibrary_13x10_LOD1.fbx": {
+    "fbx_sha256": "20da51b64d4153b40182f0eaf002b25d79d63c41159299e80ab7ba3bd47562a8",
+    "image_slots": {
+      "NA_ColumbiaLowLibrary_13x10_BaseColor.png": {
+        "sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+        "found_in_extracted_folder": true
+      },
+      "NA_ColumbiaLowLibrary_13x10_Emissive.png": {
+        "sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+        "found_in_extracted_folder": true
+      },
+      "NA_ColumbiaLowLibrary_13x10_Normal.png": {
+        "sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+        "found_in_extracted_folder": true
+      }
+    }
+  },
+  "NA_ColumbiaLowLibrary_13x10_LOD2.fbx": {
+    "fbx_sha256": "cb2dbd7b8af99a45b24c81ea232d221ddc3af06f95ad0893981b813cf7ac7e7a",
+    "image_slots": {
+      "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": {
+        "sha256": "aaf2755a071c1984c08ce4caad3fd1d05ec6e3f429a9e224bfc21074e7a10bf9",
+        "found_in_extracted_folder": true
+      },
+      "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png": {
+        "sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460",
+        "found_in_extracted_folder": true
+      },
+      "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": {
+        "sha256": "e34570e4ff63fdfdfbb2ec0d9ba3eeca8dc83a345123ecec89783631a4deda37",
+        "found_in_extracted_folder": true
+      }
+    }
+  }
+}
