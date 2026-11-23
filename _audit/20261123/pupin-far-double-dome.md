@@ -1,0 +1,5 @@
+# Pupin Hall far LOD double domes
+
+Replaced two disconnected 12-triangle cuboids with two low-poly domes based on the existing middle tier’s centers, drum height, radius, and top elevation. Did not directly overlay external-coordinate reconstruction samples. Far body 84 → 252 triangles; retained all 60 non-box triangles and their original attributes. 378 paired edges, zero degenerate faces, smooth dome normals with derived tangent frames, same texture assets and scene/material nodes. Blender 4.3.2 reread confirms max height 56.65 m (formerly 55.70 m), matching near and mid; unchanged remaining bounds and byte-identical six other FBXs, all ten maps and settings. Original atlas swatches repurposed; not a new photo bake. Editor, runtime appearance, visual LOD switch and performance remain unverified.
+
+Whole ZIP `哥大-Pupin-Hall-整栋及远景双穹顶-未游戏验收.zip`, SHA-256 `2ceb45549c4d66e5b814e24210017f2511a7fc67c0cd4bf2b3988601e08ea995`, 8,125,084 bytes. CRC and contents verified. Import source `PupinHallTrial/`. No binary push, merge or publication.
