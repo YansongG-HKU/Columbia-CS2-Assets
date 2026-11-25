@@ -1,0 +1,7 @@
+# Alfred Lerner Hall | isolate LOD2 flat-surface lighting
+
+Use `LernerHallTrial/` alone, 9×9. New full ZIP SHA-256 `a73081407f4b663385893273f1519ab228365505e0b0ae1cab06ec3bffcd5fe5` (10,427,201 B), superseding `30d1d3386c2bef1131d045b67d8662966afe19faf84b5cc5d1c08f9ac89e7780` only.
+
+All 76 far-tier faces are planar and axis-aligned. Old `ByVertice` normals on all 228 corners are ~54.17–54.74° away from geometric face normals; old Studio highlights falsely round the wing roofs and façades across hard edges. Replaced this shading layer with `ByPolygonVertex` face normals, recomputed tangents and bitangents from the original nondegenerate UVs, and marked faces hard. New FBX SHA `981a7c1f3dd23b3e2082aaa7b683ea64bb1054a5425ad0c0f82b19a00e5a89a0`. Reversing just the five shading-array changes and normal mapping tag recreates the original parsed FBX. No model vertex, index, edge/overlap/seam, UV, atlas, ramp proxy, separate near/mid glass or lighting texture was changed; 17 other import payloads are byte-identical.
+
+Blender 4.3.2 isolated readback: >5° out-of-plane corners 228→0, measured float error under 0.02°, identical imported geometry and UV hashes. Matched roof/front/rear Studio images show removal of false blobs; three unlit textured and three Emissive-channel matches are RGB pixel-identical. These are not in-engine light or reflection results. Keep the two real approaches (Campus and Broadway at 115th) separate; test ramp proxy, day/night, collision and save/reopen only on actual Editor. No pmod or publication.
