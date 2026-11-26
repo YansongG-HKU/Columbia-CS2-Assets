@@ -1,0 +1,7 @@
+# Butler Library: LOD2 roof-edge parapet, offline
+
+11×7, same `ButlerLibraryTrial/`, only LOD2 FBX changes: `cf2c0a778ca0a907c1fe35ca380833eed5c9b3fcc0193d8177a3e5bac629bbe6`. Source ZIP `a85ca193200844e996094f3546a03147e9cfb6fba8315cc679e75a4a97defe09`; current ZIP SHA `c99bd4729dc383aeab63a759777246a7bee1019eeed6a2330972e2268ef357f5`, 12,649,186 bytes. All 15 other runtime payloads including texture maps, close/mid and settings are byte-identical.
+
+The exact previous release lacked the mid-tier roof edge on the back/sides and above the campus portico at far distance. Add a three-sided U and one separate front strip, closed and embedded 0.075 model metres into the applicable roof surface, keeping original geometry, all 966 triangles/UVs, local roof openings and plant volume, 31.4 model-metre peak, front inscription/14 columns, centre doors and side ramps. 40 new tris, total 1006. The added surfaces borrow nonemissive stone in existing atlas. Approximation of mid model, not measured. The [university access note](https://library.columbia.edu/libraries/butler/directions.html) grounds the campus-only public entrance, not these dimensions.
+
+1,110 local top probes agree with the mid model's parapet elevation (within 1 mm); 12,706 off-rim top hits and selected indices unchanged. Matched four-view offline comparison shows returned roof border. All archive members match checksums. Real Editor, performance, collision, pedestrian paths, material and night, and save/reopen remain unchecked. No pmod or release.
