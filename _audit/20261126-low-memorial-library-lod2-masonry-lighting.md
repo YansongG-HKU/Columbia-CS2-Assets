@@ -1,0 +1,7 @@
+# Low Memorial Library: far-LOD masonry lighting (offline only)
+
+Use new part A SHA-256 `a91307621c548c862757231ef1fa86e2e206d3754e2744a63e05fc0fe314e100` (13,178,176 bytes) plus exact unchanged part B `5762a4435309c9f4d30afa90f5d51ff2391d53ad0ea6458511f3a258401bf45a` (17,424,640 bytes). Part A replaces `258912445455c7dbff265f3004aa21950b5ad9bbd200b4854baeacf5b469e2af`. Extract both into one isolated test root and import `LowMemorialLibraryTrial/` (13×10). Archive CRC, both checksums manifests, 7 FBX, 10 physical maps and 5 LOD1 texture-sharing references verified. No model or texture binaries in this PR.
+
+Only LOD2 split normals/tangents/binormals and local smoothing flags changed, on 334 rectilinear planar triangles below 24 model m, maximum Blender target deviation 80.837° → 0.020°. On the remaining 412 faces raw corner attributes not touched; importer corner-normal adjustment ≤0.000072 vector units. Exact Blender geometry, ordering, UV, dome/drum, main steps, and prior four low-roof overlaps removal preserved; remaining geometry and other 17 runtime files unchanged. Four visible textured lighting A/B views, with four base-color and four emission pairs pixel-identical. No change to curved surface shading is claimed.
+
+In CS2 Editor verify circumferential dome shading, masonry and portico in grazing light, material/night, low-roof seams, true LOD switching, placement and reopening. No Editor run, actual game pass, or pmod.
