@@ -1,0 +1,8 @@
+# Uris Hall: LOD2 glazing tone trial (offline)
+
+- Parent integration: 97fd99892b612dcaa9ae57851d696583d4b474f4, whole package SHA-256 d5e3ab3560d7d182c64544561e57a969b0980a3ebcd72437130669fb01877a7e; prior Blender readback retained byte-for-byte for all seven FBXs. All 18 asset files and the 4096² shared-map settings retained.
+- Only `NA_UrisHall_6x9_LOD2_BaseColor.png` changed (SHA-256 `04af8fe91d4567765fd3e81c35aab0739fb354a07ebdf50083045003241ab4f6`). 85,840 UV-masked dark glazing texels changed: tower 45,402 and lower volumes 40,438. Dark median RGB 10/13/16 now 53/57/61 for tower and 47/53/59 for lower volumes. Excludes entrance and overlapping/other atlas regions; 962,736 texels and the other nine maps unchanged. Tone is a practical visual approximation, not a real material measurement.
+- Whole package `哥大-Uris-Hall-整栋及远景窗色-未游戏验收.zip` SHA-256 `80cdeb35d4253cc85d70f52d56c067138c14e5d3e76c9e121bd47893a5f13fd1`; optional one-file overlay `哥大-Uris-Hall-远景窗色补丁-未游戏验收.zip` SHA-256 `a3ebe2276cb5609816f91f47d88f4567884083bb8e4b924c53ed55fa1b68d333`. CRC and members checked. Side-by-side UV-driven BaseColor output checked at the same camera; not an Editor screenshot or actual runtime shader, mip or LOD transition test.
+- Keep scale and massing open: the old 48 × 72 m lot envelope and the municipal reference roughly 69 × 81 m are different. Keep the 1964 tower, limestone campus entrance and curved library separately legible. Do not uniformly stretch. The existing north annex is rectangular. Editor placement, pivot, paths/ramp, shader and transitions are still open. Near/mid topology at the remaining four-incidence edges was not changed.
+
+Draft receipt only. No binary checked into Git, no merge, and no release.

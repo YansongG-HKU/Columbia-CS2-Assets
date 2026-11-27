@@ -1,0 +1,22 @@
+{
+  "band_returns": {
+    "window_n": 68,
+    "triangle_hit_n": 64,
+    "fraction_hit": 0.9411764705882353,
+    "abs_height_p50_p90_p95_m": [
+      0.04,
+      0.09,
+      0.12
+    ]
+  },
+  "lower_returns": {
+    "window_n": 1158,
+    "triangle_hit_n": 1057,
+    "fraction_hit": 0.9127806563039723,
+    "abs_height_p50_p90_p95_m": [
+      0.03,
+      0.06,
+      0.062
+    ]
+  }
+}

@@ -1,0 +1,509 @@
+[
+  {
+    "tier": 0,
+    "before": {
+      "sha256": "2851492061a31f1e9bfcbde89e0d49ea1ce0fbd48f409cefb7ee5e3fff8b1f4c",
+      "faces": 108415,
+      "vertices": 57901,
+      "bounds_by_axis": [
+        [
+          -52.0,
+          52.0
+        ],
+        [
+          -40.0,
+          40.0
+        ],
+        [
+          -3.019915993718314e-06,
+          43.56999969482422
+        ]
+      ],
+      "topology_sha256": "62b43fce3024db87f733ec4cee9e0a25c5c08432cd196c9bcf163bd485bbf3f3",
+      "material_index_sha256": "f51c730deb785e8453de3c1da42e7111107dabbf3b2b711e3925c1b2c6fcc9bf",
+      "uv_sha256": "2bcdbacc49a8c7509cbb5f1fef56ce9812cff55757e70b73019499c12987fb2b",
+      "corners": 325245,
+      "all_5_maps": {
+        "BaseColor": {
+          "sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Normal": {
+          "sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "MaskMap": {
+          "sha256": "3f62224943fe2a7e20b6d386ae46ea0a8ae44a89bad5216814e19d0eae827eeb",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Emissive": {
+          "sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "ControlMask": {
+          "sha256": "aad6ade0155a5547e7c1d0220dec1dcf886c82028cb3f36604e5a43471db78b1",
+          "shape": [
+            4096,
+            4096
+          ]
+        }
+      },
+      "native_FBX_slots_decode": {
+        "NA_ColumbiaLowLibrary_13x10_BaseColor.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Emissive.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Normal.png": true
+      },
+      "crown_local_triangles": 4558,
+      "local_edge_incidence_counts": {
+        "2": 6823,
+        "1": 28
+      },
+      "old_or_new_local_bvh_pairs": 964,
+      "held_xyz_common_apex_datum_abs_p50_p90_p95_m": [
+        0.6482489013671877,
+        0.7911202087402343,
+        0.8358363037109378
+      ],
+      "additional_held_shoulder_navd88_abs_p50_p90_p95_m": [
+        0.6165360260009766,
+        0.8655081939697266,
+        0.9144812088012696
+      ]
+    },
+    "after": {
+      "sha256": "ebe2ec33b78de975b630e4f81c67d318fc4aa16024492f8c3ad31deba9702962",
+      "faces": 108415,
+      "vertices": 57901,
+      "bounds_by_axis": [
+        [
+          -52.0,
+          52.0
+        ],
+        [
+          -40.0,
+          40.0
+        ],
+        [
+          -3.019915993718314e-06,
+          43.56999969482422
+        ]
+      ],
+      "topology_sha256": "62b43fce3024db87f733ec4cee9e0a25c5c08432cd196c9bcf163bd485bbf3f3",
+      "material_index_sha256": "f51c730deb785e8453de3c1da42e7111107dabbf3b2b711e3925c1b2c6fcc9bf",
+      "uv_sha256": "2bcdbacc49a8c7509cbb5f1fef56ce9812cff55757e70b73019499c12987fb2b",
+      "corners": 325245,
+      "all_5_maps": {
+        "BaseColor": {
+          "sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Normal": {
+          "sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "MaskMap": {
+          "sha256": "3f62224943fe2a7e20b6d386ae46ea0a8ae44a89bad5216814e19d0eae827eeb",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Emissive": {
+          "sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "ControlMask": {
+          "sha256": "aad6ade0155a5547e7c1d0220dec1dcf886c82028cb3f36604e5a43471db78b1",
+          "shape": [
+            4096,
+            4096
+          ]
+        }
+      },
+      "native_FBX_slots_decode": {
+        "NA_ColumbiaLowLibrary_13x10_BaseColor.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Emissive.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Normal.png": true
+      },
+      "crown_local_triangles": 4558,
+      "local_edge_incidence_counts": {
+        "2": 6823,
+        "1": 28
+      },
+      "old_or_new_local_bvh_pairs": 964,
+      "held_xyz_common_apex_datum_abs_p50_p90_p95_m": [
+        0.11714721679687479,
+        0.4750213928222655,
+        0.6385909729003906
+      ],
+      "moved_vertices": 768,
+      "affected_tris": 1728,
+      "new_local_pairs": 0,
+      "pairs_touching_affected_triangles_in_result": 0,
+      "additional_held_shoulder_navd88_abs_p50_p90_p95_m": [
+        0.1419513702392578,
+        0.27300238037109376,
+        0.29839128875732424
+      ]
+    }
+  },
+  {
+    "tier": 1,
+    "before": {
+      "sha256": "6652da3ce5725f773d16eeb6d6ef8bd9267733eb458252cf22b16164a845ae23",
+      "faces": 50407,
+      "vertices": 27512,
+      "bounds_by_axis": [
+        [
+          -52.0,
+          52.0
+        ],
+        [
+          -40.0,
+          40.0
+        ],
+        [
+          -3.019915993718314e-06,
+          43.56999969482422
+        ]
+      ],
+      "topology_sha256": "8769ad689661e11a45690e7c39270ef947948832ce8ade505f714d59c46c0042",
+      "material_index_sha256": "647043d607fcd7ba62e3afcba856e62fbd5d5df4bb6a8fe21e9b17f6d76cc86f",
+      "uv_sha256": "8cc0b8eb428178423706de2f06b562843c03f51ce0d03aa054f2e9cfa2dbeb97",
+      "corners": 151221,
+      "all_5_maps": {
+        "BaseColor": {
+          "sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Normal": {
+          "sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "MaskMap": {
+          "sha256": "3f62224943fe2a7e20b6d386ae46ea0a8ae44a89bad5216814e19d0eae827eeb",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Emissive": {
+          "sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "ControlMask": {
+          "sha256": "aad6ade0155a5547e7c1d0220dec1dcf886c82028cb3f36604e5a43471db78b1",
+          "shape": [
+            4096,
+            4096
+          ]
+        }
+      },
+      "native_FBX_slots_decode": {
+        "NA_ColumbiaLowLibrary_13x10_BaseColor.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Emissive.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Normal.png": true
+      },
+      "crown_local_triangles": 4558,
+      "local_edge_incidence_counts": {
+        "2": 6823,
+        "1": 28
+      },
+      "old_or_new_local_bvh_pairs": 964,
+      "held_xyz_common_apex_datum_abs_p50_p90_p95_m": [
+        0.6482489013671877,
+        0.7911202087402343,
+        0.8358363037109378
+      ],
+      "additional_held_shoulder_navd88_abs_p50_p90_p95_m": [
+        0.6165360260009766,
+        0.8655081939697266,
+        0.9144812088012696
+      ]
+    },
+    "after": {
+      "sha256": "20da51b64d4153b40182f0eaf002b25d79d63c41159299e80ab7ba3bd47562a8",
+      "faces": 50407,
+      "vertices": 27512,
+      "bounds_by_axis": [
+        [
+          -52.0,
+          52.0
+        ],
+        [
+          -40.0,
+          40.0
+        ],
+        [
+          -3.019915993718314e-06,
+          43.56999969482422
+        ]
+      ],
+      "topology_sha256": "8769ad689661e11a45690e7c39270ef947948832ce8ade505f714d59c46c0042",
+      "material_index_sha256": "647043d607fcd7ba62e3afcba856e62fbd5d5df4bb6a8fe21e9b17f6d76cc86f",
+      "uv_sha256": "8cc0b8eb428178423706de2f06b562843c03f51ce0d03aa054f2e9cfa2dbeb97",
+      "corners": 151221,
+      "all_5_maps": {
+        "BaseColor": {
+          "sha256": "9d878614d244a19eff44c544cc34c2e7fc7d5e2495ecfc0aaa6e47f39590e04b",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Normal": {
+          "sha256": "dd9a0c94ac5c9ad37bf48db3481866231556521486787c1f565ea726363c3169",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "MaskMap": {
+          "sha256": "3f62224943fe2a7e20b6d386ae46ea0a8ae44a89bad5216814e19d0eae827eeb",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "Emissive": {
+          "sha256": "fe1ec8294de06ba43e0185e8b4bb20ee53b0b02682279e44c69b6ee0cf48fd73",
+          "shape": [
+            4096,
+            4096
+          ]
+        },
+        "ControlMask": {
+          "sha256": "aad6ade0155a5547e7c1d0220dec1dcf886c82028cb3f36604e5a43471db78b1",
+          "shape": [
+            4096,
+            4096
+          ]
+        }
+      },
+      "native_FBX_slots_decode": {
+        "NA_ColumbiaLowLibrary_13x10_BaseColor.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Emissive.png": true,
+        "NA_ColumbiaLowLibrary_13x10_Normal.png": true
+      },
+      "crown_local_triangles": 4558,
+      "local_edge_incidence_counts": {
+        "2": 6823,
+        "1": 28
+      },
+      "old_or_new_local_bvh_pairs": 964,
+      "held_xyz_common_apex_datum_abs_p50_p90_p95_m": [
+        0.11714721679687479,
+        0.4750213928222655,
+        0.6385909729003906
+      ],
+      "moved_vertices": 768,
+      "affected_tris": 1728,
+      "new_local_pairs": 0,
+      "pairs_touching_affected_triangles_in_result": 0,
+      "additional_held_shoulder_navd88_abs_p50_p90_p95_m": [
+        0.1419513702392578,
+        0.27300238037109376,
+        0.29839128875732424
+      ]
+    }
+  },
+  {
+    "tier": 2,
+    "before": {
+      "sha256": "46671cf6a59478e72f79c2e24002231c8a232a0795b203589b018eecc631ca8b",
+      "faces": 736,
+      "vertices": 428,
+      "bounds_by_axis": [
+        [
+          -52.0,
+          52.0
+        ],
+        [
+          -40.0,
+          40.0
+        ],
+        [
+          -3.019915993718314e-06,
+          43.0
+        ]
+      ],
+      "topology_sha256": "7dd6de807df78f229eac36e40b9c757a8395270dfed08e38f92fe756669e89ff",
+      "material_index_sha256": "85e59f7e1bb5b3c5e95cccaa8b311f46d61a630145f38ada2c1c6f8ee0ece90c",
+      "uv_sha256": "beed7e5008a9310472a1e78c2633996eff012a9c47b42a32ebe77e0db31bce0d",
+      "corners": 2208,
+      "all_5_maps": {
+        "BaseColor": {
+          "sha256": "aaf2755a071c1984c08ce4caad3fd1d05ec6e3f429a9e224bfc21074e7a10bf9",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "Normal": {
+          "sha256": "e34570e4ff63fdfdfbb2ec0d9ba3eeca8dc83a345123ecec89783631a4deda37",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "MaskMap": {
+          "sha256": "142a9d51e1b366e72a83d66ad9e75ba6649f8b4f80df6a92bd1d2a5421f84c0b",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "Emissive": {
+          "sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "ControlMask": {
+          "sha256": "373986a97300e83571eaf23b5d7b2a1ae398ede36fabeb5d0e9f6cb099deb24a",
+          "shape": [
+            1024,
+            1024
+          ]
+        }
+      },
+      "native_FBX_slots_decode": {
+        "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": true,
+        "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png": true,
+        "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": true
+      },
+      "crown_local_triangles": 294,
+      "local_edge_incidence_counts": {
+        "2": 437,
+        "1": 8
+      },
+      "old_or_new_local_bvh_pairs": 0,
+      "held_xyz_common_apex_datum_abs_p50_p90_p95_m": [
+        0.7708166503906249,
+        0.9525126037597655,
+        1.002900421142578
+      ],
+      "additional_held_shoulder_navd88_abs_p50_p90_p95_m": [
+        0.7423961639404297,
+        0.9940101928710939,
+        1.0299540100097655
+      ]
+    },
+    "after": {
+      "sha256": "cb2dbd7b8af99a45b24c81ea232d221ddc3af06f95ad0893981b813cf7ac7e7a",
+      "faces": 736,
+      "vertices": 428,
+      "bounds_by_axis": [
+        [
+          -52.0,
+          52.0
+        ],
+        [
+          -40.0,
+          40.0
+        ],
+        [
+          -3.019915993718314e-06,
+          43.0
+        ]
+      ],
+      "topology_sha256": "7dd6de807df78f229eac36e40b9c757a8395270dfed08e38f92fe756669e89ff",
+      "material_index_sha256": "85e59f7e1bb5b3c5e95cccaa8b311f46d61a630145f38ada2c1c6f8ee0ece90c",
+      "uv_sha256": "beed7e5008a9310472a1e78c2633996eff012a9c47b42a32ebe77e0db31bce0d",
+      "corners": 2208,
+      "all_5_maps": {
+        "BaseColor": {
+          "sha256": "aaf2755a071c1984c08ce4caad3fd1d05ec6e3f429a9e224bfc21074e7a10bf9",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "Normal": {
+          "sha256": "e34570e4ff63fdfdfbb2ec0d9ba3eeca8dc83a345123ecec89783631a4deda37",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "MaskMap": {
+          "sha256": "142a9d51e1b366e72a83d66ad9e75ba6649f8b4f80df6a92bd1d2a5421f84c0b",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "Emissive": {
+          "sha256": "e9bc0a51967ab1db196fe860e25263572f8b7f91a0234fb6743c90e00b64c460",
+          "shape": [
+            1024,
+            1024
+          ]
+        },
+        "ControlMask": {
+          "sha256": "373986a97300e83571eaf23b5d7b2a1ae398ede36fabeb5d0e9f6cb099deb24a",
+          "shape": [
+            1024,
+            1024
+          ]
+        }
+      },
+      "native_FBX_slots_decode": {
+        "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": true,
+        "NA_ColumbiaLowLibrary_13x10_LOD2_Emissive.png": true,
+        "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": true
+      },
+      "crown_local_triangles": 294,
+      "local_edge_incidence_counts": {
+        "2": 437,
+        "1": 8
+      },
+      "old_or_new_local_bvh_pairs": 0,
+      "held_xyz_common_apex_datum_abs_p50_p90_p95_m": [
+        0.10153381347656243,
+        0.2675943908691407,
+        0.31892068481445324
+      ],
+      "moved_vertices": 72,
+      "affected_tris": 192,
+      "new_local_pairs": 0,
+      "pairs_touching_affected_triangles_in_result": 0,
+      "additional_held_shoulder_navd88_abs_p50_p90_p95_m": [
+        0.13057907104492186,
+        0.3227088928222656,
+        0.37234770965576175
+      ]
+    }
+  }
+]

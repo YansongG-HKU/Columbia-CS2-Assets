@@ -1,0 +1,12 @@
+{
+  "source_fbx_7500_sha256": "b3cb257cbb899ec1179105cba8ecc56adfeff945a299c7ec363106df2c893458",
+  "candidate_fbx_7500_sha256": "b47744ecbfc8dae064cd62fd117edcaad1560a339c587986dbdec76e456f2040",
+  "old_raw_triangles": 19272,
+  "removed_reversed_pairs": 8,
+  "removed_old_triangles": 16,
+  "copied_donor_triangles": 160,
+  "candidate_triangles": 19416,
+  "outer_geometric_unchanged_faces": 19256,
+  "external_texture_and_unchanged_arrays": true,
+  "restored_donor_vertices": 96
+}

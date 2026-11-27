@@ -1,0 +1,142 @@
+{
+  "NA_AveryHall_6x4_LOD2.fbx": {
+    "input_sha256": "4cb0d1172e16096be62ba7a5cc148e8d4dab30587e2a960fc944a4d1eec57001",
+    "output_sha256": "ce381c98aa845259b8b5b88a68fef0d9927d4c04621afb464c308d8926ff9b86",
+    "removed_opposite_cap_faces": [
+      69,
+      72,
+      153,
+      156
+    ],
+    "old_triangles": 172,
+    "new_triangles": 168,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 252
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 116,
+    "after_vertices": 112,
+    "after_edges": 252,
+    "bounds_m": [
+      [
+        -24.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        24.0,
+        16.0,
+        26.5
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.337688253196649e-05
+  },
+  "NA_KentHall_8x4_LOD2.fbx": {
+    "input_sha256": "6c4e1c9a712ca129ef7d20408124de18dc9b0595a9a327735952dc65c6853126",
+    "output_sha256": "528002dee2ab84d1e54900a5ee0eee75248d92be06cb8f547afd0d0e01e8fa81",
+    "removed_opposite_cap_faces": [
+      38,
+      41,
+      89,
+      92
+    ],
+    "old_triangles": 108,
+    "new_triangles": 104,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 156
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 74,
+    "after_vertices": 70,
+    "after_edges": 156,
+    "bounds_m": [
+      [
+        -32.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        32.0,
+        16.0,
+        25.600000381469727
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 7.36724500819542e-05
+  },
+  "NA_LewisohnHall_6x4_LOD2.fbx": {
+    "input_sha256": "261c38823407bddf97ccc1384985d08488b6d5ffd18db64a55f82db9ce455fe6",
+    "output_sha256": "c52abcb6d350bac072ed5b28232b4aea0d6172df6fe355419d8fef523b1b38eb",
+    "removed_opposite_cap_faces": [
+      38,
+      41,
+      83,
+      86
+    ],
+    "old_triangles": 96,
+    "new_triangles": 92,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 138
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 66,
+    "after_vertices": 62,
+    "after_edges": 138,
+    "bounds_m": [
+      [
+        -24.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        24.0,
+        16.0,
+        25.799999237060547
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.382339027487198e-05
+  },
+  "NA_PhilosophyHall_6x4_LOD2.fbx": {
+    "input_sha256": "a5056d08fa4d505473049d379fa679f90460b7f43e3c31bbd59bdfc5da3fb6b9",
+    "output_sha256": "ea1d7184ecaf609d15e507e35b3ec17c5d1e7a8f499ab889e53ea7c6e5f8fa04",
+    "removed_opposite_cap_faces": [
+      38,
+      41,
+      83,
+      86
+    ],
+    "old_triangles": 96,
+    "new_triangles": 92,
+    "welded_vertex_count": 4,
+    "max_vertical_snap_m": 0.0,
+    "new_indexed_edge_incidence": {
+      "2": 138
+    },
+    "same_corner_normals_tangents_binormals_and_uv_by_construction": true,
+    "before_vertices": 66,
+    "after_vertices": 62,
+    "after_edges": 138,
+    "bounds_m": [
+      [
+        -24.0,
+        -16.0,
+        -0.05000120773911476
+      ],
+      [
+        24.0,
+        16.0,
+        29.0
+      ]
+    ],
+    "reimport_retained_corner_position_uv_material_equal_at_6_digits": true,
+    "reimport_max_normal_chord": 5.382339027487198e-05
+  }
+}

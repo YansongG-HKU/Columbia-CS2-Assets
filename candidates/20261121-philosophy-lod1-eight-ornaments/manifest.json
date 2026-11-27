@@ -1,0 +1,41 @@
+{
+  "sha256_import_files": {
+    "NA_PhilosophyHall_6x4.fbx": "aae8b51d0054d801e62ca2ef017c3f6cd6d071e3d1981772f134deded2f11c7b",
+    "NA_PhilosophyHall_6x4_BaseColor.png": "22bc2dc2d234102b6bba55711ca9b54c2a67672dab026c8caf6c3565e201421f",
+    "NA_PhilosophyHall_6x4_ControlMask.png": "802d12ca6b4f18213841c072f79e7e0b1aa50aaf2543b1287e5a7b3bb8d6e21e",
+    "NA_PhilosophyHall_6x4_Emissive.png": "eced134564f786018534d0ee3a866ed9a1a525f0e833d4f474da41fc0a50b186",
+    "NA_PhilosophyHall_6x4_Gls.fbx": "44b67d3ccbfc2374f09b60f382554b73eb6db0ebfe3dcdf866618c0fa9b4cc99",
+    "NA_PhilosophyHall_6x4_LOD1.fbx": "b47744ecbfc8dae064cd62fd117edcaad1560a339c587986dbdec76e456f2040",
+    "NA_PhilosophyHall_6x4_LOD1_Gls.fbx": "6674290c9d0bd9c461c5cc52ff934282bb526b59ca6d8cd03786994668edf4ad",
+    "NA_PhilosophyHall_6x4_LOD1_Win.fbx": "a9bdd39be350c22a000582934b195e5e492c5fb5b8e4fb0cc7c9d6cf89aa77e0",
+    "NA_PhilosophyHall_6x4_LOD2.fbx": "6445910b23a9dc6ceb37535d6916dce12c6240022ef071fffbf5cf6b14b9020e",
+    "NA_PhilosophyHall_6x4_LOD2_BaseColor.png": "cd9db18a6755b17a227a7befd41a9c9ca58583b214dbda75e7fc61be594da799",
+    "NA_PhilosophyHall_6x4_LOD2_ControlMask.png": "2ac9462ddde14f66f52c1beb2a25c45d0ff316c29936ba6060d8640944b70300",
+    "NA_PhilosophyHall_6x4_LOD2_Emissive.png": "2f9f212e3c87a3918635343c36bebedf55779a3ab611f02bf7af65c9441a90de",
+    "NA_PhilosophyHall_6x4_LOD2_MaskMap.png": "3aadfbe5bb7fe354949fb84243fdf2d609b2be434e089fa81439eec307dee53e",
+    "NA_PhilosophyHall_6x4_LOD2_Normal.png": "42eee53e1b0ab74985bbd7b96c3482acbc95b6b3ba6909807f6b3ff6758b8cd3",
+    "NA_PhilosophyHall_6x4_MaskMap.png": "b99adaeb0e741f73c578af532993896865df56c873da57edf603cabc374642a9",
+    "NA_PhilosophyHall_6x4_Normal.png": "f8ed62b6bd67480aeea59bda22181b4aa5de3b1fca0b01c0d733eb0a16d788ac",
+    "NA_PhilosophyHall_6x4_Win.fbx": "a512dc493d551b62f57cacb99c5521dc2476b56d20742bc1e0784d346ce2b68c",
+    "settings.json": "06611b974d6522482a0e876a8bcfef53be806a7dac6e465b9cea51d47062995b"
+  },
+  "unchanged_17_fields": [
+    "NA_PhilosophyHall_6x4.fbx",
+    "NA_PhilosophyHall_6x4_BaseColor.png",
+    "NA_PhilosophyHall_6x4_ControlMask.png",
+    "NA_PhilosophyHall_6x4_Emissive.png",
+    "NA_PhilosophyHall_6x4_Gls.fbx",
+    "NA_PhilosophyHall_6x4_LOD1_Gls.fbx",
+    "NA_PhilosophyHall_6x4_LOD1_Win.fbx",
+    "NA_PhilosophyHall_6x4_LOD2.fbx",
+    "NA_PhilosophyHall_6x4_LOD2_BaseColor.png",
+    "NA_PhilosophyHall_6x4_LOD2_ControlMask.png",
+    "NA_PhilosophyHall_6x4_LOD2_Emissive.png",
+    "NA_PhilosophyHall_6x4_LOD2_MaskMap.png",
+    "NA_PhilosophyHall_6x4_LOD2_Normal.png",
+    "NA_PhilosophyHall_6x4_MaskMap.png",
+    "NA_PhilosophyHall_6x4_Normal.png",
+    "NA_PhilosophyHall_6x4_Win.fbx",
+    "settings.json"
+  ]
+}

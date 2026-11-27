@@ -1,0 +1,80 @@
+{
+  "ButlerLibrary": [
+    {
+      "fbx": "NA_ButlerLibrary_11x7.fbx",
+      "version": 7400,
+      "old_sha256": "00994f0f0f0d5cff8f794d9088edcc4842548a61325b00b4efd2af8c8a6c70db",
+      "new_sha256": "cea9d4c18d3ebfcab90ef1ea207e6c0d810825f737f7cf6b069b8c76a91af1cc",
+      "old_bytes": 4029596,
+      "new_bytes": 4029324,
+      "old_triangles": 107847,
+      "new_triangles": 107837,
+      "removed_zero_area_triangles": 10,
+      "five_same_camera_view_different_pixels": 0,
+      "max_corner_normal_component_delta": 5.960464477539063e-08,
+      "nondegenerate_topology_uv_bounds_materials_and_images_equal": true
+    }
+  ],
+  "LowMemorialLibrary": [
+    {
+      "fbx": "NA_ColumbiaLowLibrary_13x10.fbx",
+      "version": 7400,
+      "old_sha256": "2851492061a31f1e9bfcbde89e0d49ea1ce0fbd48f409cefb7ee5e3fff8b1f4c",
+      "new_sha256": "dc64467c7a5cf185d50c122acf4e9ae4d3b95a53c6df8644b3e95015cd205168",
+      "old_bytes": 7088268,
+      "new_bytes": 7088012,
+      "old_triangles": 108415,
+      "new_triangles": 108407,
+      "removed_zero_area_triangles": 8,
+      "five_same_camera_view_different_pixels": 0,
+      "max_corner_normal_component_delta": 5.960464477539063e-08,
+      "nondegenerate_topology_uv_bounds_materials_and_images_equal": true
+    }
+  ],
+  "MathematicsHall": [
+    {
+      "fbx": "NA_MathematicsHall_7x5.fbx",
+      "version": 7400,
+      "old_sha256": "e3137844563dfa31525a999bc318487b537165364b66eabe00abdb169ae1880d",
+      "new_sha256": "c833f2eed28754ff659c7e0ef63246cd1328287c8b1031dcc2add4251fe637e9",
+      "old_bytes": 1112332,
+      "new_bytes": 1112252,
+      "old_triangles": 33680,
+      "new_triangles": 33676,
+      "removed_zero_area_triangles": 4,
+      "five_same_camera_view_different_pixels": 0,
+      "max_corner_normal_component_delta": 0.0,
+      "nondegenerate_topology_uv_bounds_materials_and_images_equal": true
+    }
+  ],
+  "StPaulsChapel": [
+    {
+      "fbx": "NA_StPaulsChapel_4x6.fbx",
+      "version": 7400,
+      "old_sha256": "16ca608a33e4ec594f21c75d6d39d85dcbbbb5c488bfc4ded30566ae17e3cd3e",
+      "new_sha256": "1206ed6ceae50ac2326c9d46962e5a909e5fd866bb7ac5be272c05a15b6e4d18",
+      "old_bytes": 1349372,
+      "new_bytes": 1349292,
+      "old_triangles": 22655,
+      "new_triangles": 22653,
+      "removed_zero_area_triangles": 2,
+      "five_same_camera_view_different_pixels": 0,
+      "max_corner_normal_component_delta": 0.0,
+      "nondegenerate_topology_uv_bounds_materials_and_images_equal": true
+    },
+    {
+      "fbx": "NA_StPaulsChapel_4x6_LOD1.fbx",
+      "version": 7400,
+      "old_sha256": "4edc7a25b47e95b5b3ddeb0554277cb8e6c9cc87a9a20062e507c7be06c3d51b",
+      "new_sha256": "d2262ccabd6976509165024bdcbcc3e161647cb2526f777a0c0a887cd772b246",
+      "old_bytes": 1084524,
+      "new_bytes": 1084412,
+      "old_triangles": 15571,
+      "new_triangles": 15569,
+      "removed_zero_area_triangles": 2,
+      "five_same_camera_view_different_pixels": 0,
+      "max_corner_normal_component_delta": 0.0,
+      "nondegenerate_topology_uv_bounds_materials_and_images_equal": true
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "AveryHall/NA_AveryHall_6x4_Gls.fbx": {
+    "previous_sha256": "a6de1b60a6d70ab30f10b8211a61ebcc414d2e40335d521c6b5119f75bd23f4b",
+    "final_sha256": "f51589ba2302437b54c0b1284b756d3b9c89005c832a814251e99f9ae9c3a8ef",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "AveryHall/NA_AveryHall_6x4_LOD1_Gls.fbx": {
+    "previous_sha256": "3be8e0b9a14749230937add04ea9a94ed7b26d9bb8a986263f40757dbf4c15e0",
+    "final_sha256": "dea5d970b1348fcbcc6e1398bc0229bcd1781b8d09a76d42bfb490e0146e2d5e",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "ButlerLibrary/NA_ButlerLibrary_11x7_Gls.fbx": {
+    "previous_sha256": "8fabaa8e08036bbd2d7f5879ed58e4329325d9543fc302f6968a9e5fef7e9c41",
+    "final_sha256": "d40d3435c7c64a039028eff545b80f58a4bdebb5f145a89f71bf67332d070db3",
+    "isolated_charts": 12,
+    "corner_uv_triangles_repaired": 12,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 56,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "ButlerLibrary/NA_ButlerLibrary_11x7_LOD1_Gls.fbx": {
+    "previous_sha256": "c514d40f37a86bc98e383736b1408efee98cc29a3856a2d3a7bb783e65e494e7",
+    "final_sha256": "a5f66408aa4482351b4e87f687abc2a09d3e554949428cdcafb8bde96e1c501e",
+    "isolated_charts": 12,
+    "corner_uv_triangles_repaired": 12,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 56,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "DodgeHall/NA_DodgeHall_9x5_Gls.fbx": {
+    "previous_sha256": "1aaf93982934dba0d06b1245eee00cab1ae3f263178341964940774bffc1da3d",
+    "final_sha256": "5d74efdfe27c512fb807a63b367a019d09476a6e4772ee09a36b1f5c0270b8a1",
+    "isolated_charts": 14,
+    "corner_uv_triangles_repaired": 28,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 276,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "DodgeHall/NA_DodgeHall_9x5_LOD1_Gls.fbx": {
+    "previous_sha256": "ac3b4a8580c7b2e4b2b03f5b8f2b05b942e223293e0971f8eea78ced9c82bc80",
+    "final_sha256": "dd6362856d8c3bdeab172dffc44b66ff03b4b7a43e536fa8ada4341a3a1c3226",
+    "isolated_charts": 14,
+    "corner_uv_triangles_repaired": 28,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 276,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "HavemeyerHall/NA_HavemeyerHall_8x8_Gls.fbx": {
+    "previous_sha256": "1994047c84c4ace0bda65c7b3ac9fe0fc23d9d98f53a0b49fd15e3b9a0a36a34",
+    "final_sha256": "74bc050d9941ac408545c00fdbb4c2d4ab4a7f1a1e2a38b629ca87126d075f36",
+    "isolated_charts": 16,
+    "corner_uv_triangles_repaired": 16,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "HavemeyerHall/NA_HavemeyerHall_8x8_LOD1_Gls.fbx": {
+    "previous_sha256": "89c70f3ee309bb84d0b20cf145cac1edb9419635a355066ac1021e71ccff25c5",
+    "final_sha256": "9c8608984f41ff5536e19c985a5f1dc37ab5694edc23145925063646bededb75",
+    "isolated_charts": 16,
+    "corner_uv_triangles_repaired": 16,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "JohnJayHall/NA_JohnJayHall_8x4_Gls.fbx": {
+    "previous_sha256": "ce6514d79a4b29e9c26d1d509e5fb92131d05a65219ec27e0c3067113e848214",
+    "final_sha256": "85e7fcb7fff177631562f23324f6d75a9245405e54528f64e4056da584d6e9d3",
+    "isolated_charts": 17,
+    "corner_uv_triangles_repaired": 17,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "JohnJayHall/NA_JohnJayHall_8x4_LOD1_Gls.fbx": {
+    "previous_sha256": "2d7d18e86551fa1b106222a2de595841fcf56fc7b2168d77a28a5ff6c6d98669",
+    "final_sha256": "ddefee7b2ff961df0b555b3ee9170f45f48578ec32d41e4cf5c58801d8ac5349",
+    "isolated_charts": 17,
+    "corner_uv_triangles_repaired": 17,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "KentHall/NA_KentHall_8x4_Gls.fbx": {
+    "previous_sha256": "e77cb71108c76a77c1983743eb804dc4711871022082028fa4bb9a84dd8b9307",
+    "final_sha256": "ff4b1f1eb9670e539c9f6aa7f6ede2c04a3bfc523ddb25e4c877b56d91a1bfa9",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "KentHall/NA_KentHall_8x4_LOD1_Gls.fbx": {
+    "previous_sha256": "05de374d5e58b49e52a2c475fbb4d28b5992e77dd09d0b550c506c0fe1f3babe",
+    "final_sha256": "390a71a7a8b14eeb44508cea2507a2c1faf91f1b53ea3b7665a94b9f31a6719e",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "LewisohnHall/NA_LewisohnHall_6x4_Gls.fbx": {
+    "previous_sha256": "53d7e2a1f61dd41cce969c823fcb62c3f1127dd3177588549fb447480f294551",
+    "final_sha256": "aa672843bfef7d3b5e3bfd74adc27f5592ccb4ba4e44ea81f25e2561dc1dff39",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "LewisohnHall/NA_LewisohnHall_6x4_LOD1_Gls.fbx": {
+    "previous_sha256": "50fdecd797b6833c0e52713d0d19617a6a4b38b158ec0a3e2b50da830f9316f4",
+    "final_sha256": "eebc256ede14ddad6f159add000eac1926a3fa9fb8f19e4d92a4cd11aab66a57",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_Gls.fbx": {
+    "previous_sha256": "d3289d995ae5d5b9d061420058aaf8b310d93c01db94943d3bb117895c469ad3",
+    "final_sha256": "078483baa66a16b9d26bf197b7e4836f4d2df9414ee523b760644d75222b665c",
+    "isolated_charts": 3,
+    "corner_uv_triangles_repaired": 10,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 16,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "LowMemorialLibrary/NA_ColumbiaLowLibrary_13x10_LOD1_Gls.fbx": {
+    "previous_sha256": "bf14187dba0fd61618e58a1f6318d9906d3c6c47078aeb2d73ee1018a6361fc8",
+    "final_sha256": "f6a668d27590f004638a112870622b09238a4617df51db6683bf4a4ade355240",
+    "isolated_charts": 3,
+    "corner_uv_triangles_repaired": 10,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 16,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "MathematicsHall/NA_MathematicsHall_7x5_Gls.fbx": {
+    "previous_sha256": "e0d1293e316e061a91299d602ea6e0edd0da94880eb3c69f13c9f73beb8d8504",
+    "final_sha256": "37967aa4def5bbbf11eae91ff7ad02abf4bbbf7c83b49d8511920c7feacca3b3",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "MathematicsHall/NA_MathematicsHall_7x5_LOD1_Gls.fbx": {
+    "previous_sha256": "70dc25d59cb4a237d9133a3b8a4e5b2d0bf61253474fb5c3af624bfc28980683",
+    "final_sha256": "663b5b3f3033680532a9bd197a39132869363039a108f09b53399997efe434a2",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "PhilosophyHall/NA_PhilosophyHall_6x4_Gls.fbx": {
+    "previous_sha256": "66de41918dafae9790098f48f1755dd014d12428f24a80df3b7db8e8d8c5ef70",
+    "final_sha256": "526bcc4ec14f4764b972a3640a018881b44f2f9ec4a53e7050e846f3d4337a6d",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "PhilosophyHall/NA_PhilosophyHall_6x4_LOD1_Gls.fbx": {
+    "previous_sha256": "16213882e13a6b01ffb5e7facf65b580c125f8787ece4f5de170c90c25b2b96a",
+    "final_sha256": "4b68e60c84cc018200a8f878ae747f330df9a753942808368cbc1e6fa21183a0",
+    "isolated_charts": 40,
+    "corner_uv_triangles_repaired": 80,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "PupinHall/NA_PupinHall_8x3_Gls.fbx": {
+    "previous_sha256": "58c14a04398849e463146120e516e370588320c6fbd6b8266cb4b3e7747e9d2a",
+    "final_sha256": "aa4cc6d590050032bbd94ab2e4d8f8a52736dd4870d81e7ea9c00583d4309a70",
+    "isolated_charts": 17,
+    "corner_uv_triangles_repaired": 17,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  },
+  "PupinHall/NA_PupinHall_8x3_LOD1_Gls.fbx": {
+    "previous_sha256": "01b4eb7fc0c14d4db4c07541a78167c5eda3ebd887124515b74af1a198eb81b3",
+    "final_sha256": "e4ad6575c07835b507a803597ff40cbb24269217783753d09a63216aa04709df",
+    "isolated_charts": 17,
+    "corner_uv_triangles_repaired": 17,
+    "original_nondegenerate_uv_exact": true,
+    "reimported_uv_quality": [
+      {
+        "name": "UVMap",
+        "triangles": 112,
+        "zero_area_uv_count": 0,
+        "overlapping_pairs": 0,
+        "example_pairs": []
+      }
+    ]
+  }
+}

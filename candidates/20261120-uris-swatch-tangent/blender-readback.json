@@ -1,0 +1,44 @@
+{
+  "NA_UrisHall_6x9.fbx": {
+    "mesh_corner_state_sha256": "882b6ca233f6a2d56a5f1fa409b7220185d453446c9c6906acba3bd6f19c18c8",
+    "triangles": 7210,
+    "images": {
+      "NA_UrisHall_6x9_BaseColor.png": [
+        4096,
+        4096
+      ],
+      "NA_UrisHall_6x9_Emissive.png": [
+        4096,
+        4096
+      ],
+      "NA_UrisHall_6x9_Normal.png": [
+        4096,
+        4096
+      ]
+    },
+    "materials": [
+      "NA_UrisHall_6x9_Base"
+    ]
+  },
+  "NA_UrisHall_6x9_LOD1.fbx": {
+    "mesh_corner_state_sha256": "ef19bcc6f336a89342cf47290186e836c0bc8e685c6ab6f4cd73a859b14066ac",
+    "triangles": 4762,
+    "images": {
+      "NA_UrisHall_6x9_BaseColor.png": [
+        4096,
+        4096
+      ],
+      "NA_UrisHall_6x9_Emissive.png": [
+        4096,
+        4096
+      ],
+      "NA_UrisHall_6x9_Normal.png": [
+        4096,
+        4096
+      ]
+    },
+    "materials": [
+      "NA_UrisHall_6x9_Base"
+    ]
+  }
+}

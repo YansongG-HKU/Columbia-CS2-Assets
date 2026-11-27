@@ -1,0 +1,123 @@
+{
+  "before": {
+    "triangles": 726,
+    "vertices": 428,
+    "decoded_textures": {
+      "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      16,
+      144
+    ],
+    "bounds": [
+      [
+        -52.0,
+        -40.0,
+        -3.019915993718314e-06
+      ],
+      [
+        52.0,
+        40.0,
+        43.0
+      ]
+    ],
+    "indexed_edge_count": 1093,
+    "open_indexed_edges": 8
+  },
+  "after": {
+    "triangles": 736,
+    "vertices": 428,
+    "decoded_textures": {
+      "NA_ColumbiaLowLibrary_13x10_LOD2_BaseColor.png": [
+        1024,
+        1024
+      ],
+      "NA_ColumbiaLowLibrary_13x10_LOD2_Normal.png": [
+        1024,
+        1024
+      ]
+    },
+    "components": [
+      6,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      12,
+      160
+    ],
+    "bounds": [
+      [
+        -52.0,
+        -40.0,
+        -3.019915993718314e-06
+      ],
+      [
+        52.0,
+        40.0,
+        43.0
+      ]
+    ],
+    "indexed_edge_count": 1104,
+    "open_indexed_edges": 0
+  }
+}

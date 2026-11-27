@@ -1,0 +1,46 @@
+{
+  "original_fbx_files": 133,
+  "original_reason": "Same indexed vertex set; does not measure geometric overlap among separately indexed faces.",
+  "candidate_replacements": {
+    "NA_LewisohnHall_6x4_LOD1.fbx": {
+      "old_excess": 8,
+      "repaired_counts": {
+        "triangles": 16932,
+        "polygons": 16932
+      },
+      "local_sha256": "b9635c70bffa8530c5ad3f74490f73fe465cc9039ae12341075918b0121deb3d"
+    },
+    "NA_PhilosophyHall_6x4_LOD1.fbx": {
+      "old_excess": 8,
+      "repaired_counts": {
+        "triangles": 19416,
+        "polygons": 19416
+      },
+      "local_sha256": "b47744ecbfc8dae064cd62fd117edcaad1560a339c587986dbdec76e456f2040"
+    },
+    "NA_JohnJayHall_8x4_LOD1.fbx": {
+      "old_excess": 8,
+      "repaired_counts": {
+        "triangles": 43934,
+        "polygons": 43934
+      },
+      "local_sha256": "c5721f9a3eee81f3a1e90bc4db3559825c493be479d6ed52871192a71f67d313"
+    },
+    "NA_LernerHall_9x9_LOD1.fbx": {
+      "old_excess": 3,
+      "repaired_counts": {
+        "triangles": 15304,
+        "polygons": 15304
+      },
+      "local_sha256": "36273a3c04f76dd8eb5dd80d8630d48bb6c02fe1c84edac1d704f96f6134c4a5"
+    },
+    "NA_PupinHall_8x3_LOD1.fbx": {
+      "old_excess": 50,
+      "repaired_counts": {
+        "triangles": 37286,
+        "polygons": 37286
+      },
+      "local_sha256": "1917fb8bf3cfa92ff2576d11b6694221fca93d8432928a1259f004b5d8531958"
+    }
+  }
+}

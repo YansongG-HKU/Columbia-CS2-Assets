@@ -1,0 +1,240 @@
+{
+  "NA_AveryHall_6x4_LOD2.fbx": {
+    "sha256": "4cb0d1172e16096be62ba7a5cc148e8d4dab30587e2a960fc944a4d1eec57001",
+    "faces": 172,
+    "verts": 116,
+    "pairs": []
+  },
+  "NA_ButlerLibrary_11x7_LOD2.fbx": {
+    "sha256": "627885e459caa89b366f211222b7c57312938695ccb916fb1823e4a97a91c3b1",
+    "faces": 376,
+    "verts": 232,
+    "pairs": []
+  },
+  "NA_ColumbiaLowLibrary_13x10_LOD2.fbx": {
+    "sha256": "c0fa5c09cf99c442b0737f3ca00595fdc865f743672cda82bfcd875c9ab2df61",
+    "faces": 726,
+    "verts": 428,
+    "pairs": []
+  },
+  "NA_DodgeHall_9x5_LOD2.fbx": {
+    "sha256": "01e070d01ee9142ea777bbaf7f499ba79b4753015d4690b5e0e6818fee5883da",
+    "faces": 56,
+    "verts": 38,
+    "pairs": []
+  },
+  "NA_EarlHall_3x5_LOD2.fbx": {
+    "sha256": "4f439195fe2939f43f187c5e3c3a5269027e17196dccb51b2e53233a537ff4a0",
+    "faces": 436,
+    "verts": 244,
+    "pairs": []
+  },
+  "NA_FayerweatherHall_6x5_LOD2.fbx": {
+    "sha256": "a628e1ea6615794695eafe4e63201aa8b51f78af6407e55ea9895679e22557ae",
+    "faces": 96,
+    "verts": 66,
+    "pairs": []
+  },
+  "NA_FurnaldHall_8x5_LOD2.fbx": {
+    "sha256": "f09c770c05923ad710e68ad363ef19313e45a895bb227732c72e19056f9dd642",
+    "faces": 32,
+    "verts": 22,
+    "pairs": []
+  },
+  "NA_HamiltonHall_8x4_LOD2.fbx": {
+    "sha256": "7fce505e50fce828e05489eca5eefc8cb9d18e7514308e7ea6607ec1759e0ab8",
+    "faces": 60,
+    "verts": 40,
+    "pairs": []
+  },
+  "NA_HavemeyerHall_8x8_LOD2.fbx": {
+    "sha256": "e1f7d54e94004529a7cd9096a69466527f8c9990383992c9d292321b0bb56083",
+    "faces": 160,
+    "verts": 102,
+    "pairs": []
+  },
+  "NA_JohnJayHall_8x4_LOD2.fbx": {
+    "sha256": "08293e5b75e80278bf06659888876a818ee5eaf108047f9c9feeed3a2c8df07a",
+    "faces": 48,
+    "verts": 32,
+    "pairs": []
+  },
+  "NA_KentHall_8x4_LOD2.fbx": {
+    "sha256": "6c4e1c9a712ca129ef7d20408124de18dc9b0595a9a327735952dc65c6853126",
+    "faces": 108,
+    "verts": 74,
+    "pairs": []
+  },
+  "NA_LernerHall_9x9_LOD2.fbx": {
+    "sha256": "447ef5acffafe29467729bd73b1e6120145f8eba3d6623e2a54338ea6da8055f",
+    "faces": 72,
+    "verts": 48,
+    "pairs": []
+  },
+  "NA_LewisohnHall_6x4_LOD2.fbx": {
+    "sha256": "261c38823407bddf97ccc1384985d08488b6d5ffd18db64a55f82db9ce455fe6",
+    "faces": 96,
+    "verts": 66,
+    "pairs": []
+  },
+  "NA_MathematicsHall_7x5_LOD2.fbx": {
+    "sha256": "35b3df07fcdeaa52539f3da1bd24059140e201e170122bbb22abab6db8abc257",
+    "faces": 32,
+    "verts": 22,
+    "pairs": []
+  },
+  "NA_PhilosophyHall_6x4_LOD2.fbx": {
+    "sha256": "a5056d08fa4d505473049d379fa679f90460b7f43e3c31bbd59bdfc5da3fb6b9",
+    "faces": 96,
+    "verts": 66,
+    "pairs": []
+  },
+  "NA_PupinHall_8x3_LOD2.fbx": {
+    "sha256": "84da2f79e59c4e3d92c0159c819fee766277d3f29749e8c0dcda031ec370981e",
+    "faces": 84,
+    "verts": 56,
+    "pairs": []
+  },
+  "NA_SchermerhornHall_8x6_LOD2.fbx": {
+    "sha256": "6b30f8e42a6ccf29783af67f33a97e8fc8f3659d66f2446c6eff97e461d74dd0",
+    "faces": 160,
+    "verts": 102,
+    "pairs": []
+  },
+  "NA_StPaulsChapel_4x6_LOD2.fbx": {
+    "sha256": "8a3558d202680eb96b71b6c8b5efef0a9de584c0f9844f32aac7b20403c1d75a",
+    "faces": 616,
+    "verts": 344,
+    "pairs": [
+      {
+        "source_heights": [
+          15.0,
+          15.0
+        ],
+        "height_delta_m": 0.0,
+        "caps": [
+          [
+            11,
+            219
+          ],
+          [
+            14,
+            220
+          ]
+        ],
+        "weld": {
+          "11": 19,
+          "9": 16,
+          "15": 20,
+          "13": 17
+        },
+        "XZ": [
+          [
+            -7.949999809265137,
+            10.25
+          ],
+          [
+            -7.949999809265137,
+            16.25
+          ],
+          [
+            7.949999809265137,
+            10.25
+          ],
+          [
+            7.949999809265137,
+            16.25
+          ]
+        ]
+      },
+      {
+        "source_heights": [
+          13.0,
+          13.0
+        ],
+        "height_delta_m": 0.0,
+        "caps": [
+          [
+            33,
+            237
+          ],
+          [
+            36,
+            238
+          ]
+        ],
+        "weld": {
+          "39": 47,
+          "37": 44,
+          "43": 48,
+          "41": 45
+        },
+        "XZ": [
+          [
+            -8.149999618530273,
+            -15.350000381469727
+          ],
+          [
+            -8.149999618530273,
+            -8.350000381469727
+          ],
+          [
+            8.149999618530273,
+            -15.350000381469727
+          ],
+          [
+            8.149999618530273,
+            -8.350000381469727
+          ]
+        ]
+      },
+      {
+        "source_heights": [
+          10.199999809265137,
+          10.199999809265137
+        ],
+        "height_delta_m": 0.0,
+        "caps": [
+          [
+            50,
+            252
+          ],
+          [
+            53,
+            253
+          ]
+        ],
+        "weld": {
+          "61": 69,
+          "59": 66,
+          "65": 70,
+          "63": 67
+        },
+        "XZ": [
+          [
+            -9.399999618530273,
+            16.25
+          ],
+          [
+            -9.399999618530273,
+            21.950000762939453
+          ],
+          [
+            9.399999618530273,
+            16.25
+          ],
+          [
+            9.399999618530273,
+            21.950000762939453
+          ]
+        ]
+      }
+    ]
+  },
+  "NA_UrisHall_6x9_LOD2.fbx": {
+    "sha256": "88201d18179231b86247107f8db91fa4b8a3442bf101e0f4e912226525452b02",
+    "faces": 72,
+    "verts": 48,
+    "pairs": []
+  }
+}

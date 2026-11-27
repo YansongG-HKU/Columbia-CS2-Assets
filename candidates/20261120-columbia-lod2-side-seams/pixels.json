@@ -1,0 +1,90 @@
+{
+  "NA_AveryHall_6x4_LOD2": {
+    "base-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 59860,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 55341,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 54079,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "lit-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 59782,
+      "q99": 0.0,
+      "max": 1,
+      "over12": 0
+    },
+    "lit-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 55289,
+      "q99": 0.0,
+      "max": 1,
+      "over12": 0
+    },
+    "lit-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 53976,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    }
+  },
+  "NA_KentHall_8x4_LOD2": {
+    "base-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 42507,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 35565,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "base-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 34194,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    },
+    "lit-aerial": {
+      "silhouette_different_px": 0,
+      "foreground_px": 42463,
+      "q99": 0.0,
+      "max": 1,
+      "over12": 0
+    },
+    "lit-front": {
+      "silhouette_different_px": 0,
+      "foreground_px": 35522,
+      "q99": 0.0,
+      "max": 1,
+      "over12": 0
+    },
+    "lit-rear": {
+      "silhouette_different_px": 0,
+      "foreground_px": 34148,
+      "q99": 0.0,
+      "max": 0,
+      "over12": 0
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "new_vertices": 4514,
+  "new_triangles": 9024,
+  "oriented_paired_edges": 13536,
+  "open_edges": 0,
+  "non_adjacent_intersections": 0,
+  "volume_m3_synthetic_closed_region_not_building_volume": 1433.2060644799785,
+  "old_fbx_triangles": 736,
+  "n_hold_rays": 3929,
+  "mesh_vs_hold_abs_p50_p90_p95": [
+    0.07310821533203127,
+    0.18835070800781253,
+    0.22563555908203126
+  ],
+  "old_apex_aligned_vs_hold_abs_p50_p90_p95": [
+    0.7706736755371093,
+    0.9518706970214843,
+    1.002456878662109
+  ],
+  "new_minus_old_apex_aligned_max_m": 0.978424072265625,
+  "new_minus_old_apex_aligned_min_m": -0.08998870849609375
+}

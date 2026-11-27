@@ -1,0 +1,652 @@
+{
+  "method": "Only face pairs incident to edges with more than 2 faces. World-space coplanarity tolerance 1e-5 m, positive overlap >1e-6 square metres; near/mid canonical Base split FBX only. Opposed skin is an observation, not sufficient proof of intentional joining. No CS2 Editor test, no geometry change.",
+  "next": "Uris near/mid each have 72 edges with same-facing overlap and 133 unique same-facing face pairs. No exact whole triangle duplicates (coordinates rounded to 1 micrometre; also checked same winding/material/UV); local clipping and UV verification required. Begin with the recorded low-elevation corner example and identify the owning surface against source geometry before modifying.",
+  "files": {
+    "NA_UrisHall_6x9.fbx": {
+      "source_sha256": "64277811ac5bd5a4af42925b8e26d272e4301385073067841af1738fb569e817",
+      "edge_counts": {
+        "no_positive_coplanar_overlap_at_edge": 23,
+        "same_direction_overlap": 72,
+        "opposed_skin_overlap": 96
+      },
+      "affected_edges": 191,
+      "unique_same_direction_face_pairs": 133,
+      "examples_same_direction": [
+        {
+          "edge": [
+            761,
+            1593
+          ],
+          "endpoints": [
+            [
+              23.600002,
+              24.525,
+              0.599998
+            ],
+            [
+              23.76,
+              24.525,
+              0.599998
+            ]
+          ],
+          "faces": [
+            582,
+            586,
+            1222
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              582,
+              1222,
+              0.5279869,
+              0.999988,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            766,
+            1593
+          ],
+          "endpoints": [
+            [
+              23.760002,
+              24.275,
+              0.599998
+            ],
+            [
+              23.76,
+              24.525,
+              0.599998
+            ]
+          ],
+          "faces": [
+            583,
+            1223,
+            4151
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              583,
+              1223,
+              0.5008928,
+              0.607143,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            764,
+            766
+          ],
+          "endpoints": [
+            [
+              23.600002,
+              24.275,
+              0.599998
+            ],
+            [
+              23.760002,
+              24.275,
+              0.599998
+            ]
+          ],
+          "faces": [
+            584,
+            1224,
+            4151
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              584,
+              1224,
+              0.5279995,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            761,
+            764
+          ],
+          "endpoints": [
+            [
+              23.600002,
+              24.525,
+              0.599998
+            ],
+            [
+              23.600002,
+              24.275,
+              0.599998
+            ]
+          ],
+          "faces": [
+            585,
+            586,
+            1225
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              585,
+              1225,
+              0.825,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            1743,
+            1745
+          ],
+          "endpoints": [
+            [
+              -12.4,
+              -34.309998,
+              5.600002
+            ],
+            [
+              -12.4,
+              -34.409996,
+              5.600002
+            ]
+          ],
+          "faces": [
+            1335,
+            1339,
+            1347,
+            1351
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              1335,
+              1347,
+              0.0038596,
+              0.964912,
+              0,
+              0,
+              "same"
+            ],
+            [
+              1339,
+              1351,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            1747,
+            1749
+          ],
+          "endpoints": [
+            [
+              -14.6,
+              -34.309998,
+              5.600002
+            ],
+            [
+              -14.6,
+              -34.409996,
+              5.600002
+            ]
+          ],
+          "faces": [
+            1343,
+            1349,
+            4910,
+            4916
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              1343,
+              1349,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ],
+            [
+              4910,
+              4916,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            1742,
+            1755
+          ],
+          "endpoints": [
+            [
+              -14.6,
+              -34.409996,
+              7.800002
+            ],
+            [
+              -14.6,
+              -34.309998,
+              7.800003
+            ]
+          ],
+          "faces": [
+            1346,
+            1358,
+            4908,
+            4920
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              1346,
+              1358,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ],
+            [
+              4908,
+              4920,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            1809,
+            1811
+          ],
+          "endpoints": [
+            [
+              -12.4,
+              -34.309998,
+              9.800003
+            ],
+            [
+              -12.4,
+              -34.409996,
+              9.800003
+            ]
+          ],
+          "faces": [
+            1395,
+            1399,
+            1407,
+            1411
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              1395,
+              1407,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        }
+      ]
+    },
+    "NA_UrisHall_6x9_LOD1.fbx": {
+      "source_sha256": "7e793663c01b6ff65eaec8db82a5f82f1fb5d78a4c426a4bc7eff09dd2ce9b36",
+      "edge_counts": {
+        "no_positive_coplanar_overlap_at_edge": 23,
+        "same_direction_overlap": 72,
+        "opposed_skin_overlap": 96
+      },
+      "affected_edges": 191,
+      "unique_same_direction_face_pairs": 133,
+      "examples_same_direction": [
+        {
+          "edge": [
+            369,
+            617
+          ],
+          "endpoints": [
+            [
+              23.600002,
+              24.525,
+              0.599998
+            ],
+            [
+              23.76,
+              24.525,
+              0.599998
+            ]
+          ],
+          "faces": [
+            288,
+            292,
+            490
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              288,
+              490,
+              0.5279869,
+              0.999988,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            374,
+            617
+          ],
+          "endpoints": [
+            [
+              23.760002,
+              24.275,
+              0.599998
+            ],
+            [
+              23.76,
+              24.525,
+              0.599998
+            ]
+          ],
+          "faces": [
+            289,
+            491,
+            2633
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              289,
+              491,
+              0.5008928,
+              0.607143,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            372,
+            374
+          ],
+          "endpoints": [
+            [
+              23.600002,
+              24.275,
+              0.599998
+            ],
+            [
+              23.760002,
+              24.275,
+              0.599998
+            ]
+          ],
+          "faces": [
+            290,
+            492,
+            2633
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              290,
+              492,
+              0.5279995,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            369,
+            372
+          ],
+          "endpoints": [
+            [
+              23.600002,
+              24.525,
+              0.599998
+            ],
+            [
+              23.600002,
+              24.275,
+              0.599998
+            ]
+          ],
+          "faces": [
+            291,
+            292,
+            493
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              291,
+              493,
+              0.825,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            727,
+            729
+          ],
+          "endpoints": [
+            [
+              -12.4,
+              -34.309998,
+              5.600002
+            ],
+            [
+              -12.4,
+              -34.409996,
+              5.600002
+            ]
+          ],
+          "faces": [
+            573,
+            577,
+            585,
+            589
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              573,
+              585,
+              0.0038596,
+              0.964912,
+              0,
+              0,
+              "same"
+            ],
+            [
+              577,
+              589,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            731,
+            733
+          ],
+          "endpoints": [
+            [
+              -14.6,
+              -34.309998,
+              5.600002
+            ],
+            [
+              -14.6,
+              -34.409996,
+              5.600002
+            ]
+          ],
+          "faces": [
+            581,
+            587,
+            2924,
+            2930
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              581,
+              587,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ],
+            [
+              2924,
+              2930,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            726,
+            739
+          ],
+          "endpoints": [
+            [
+              -14.6,
+              -34.409996,
+              7.800002
+            ],
+            [
+              -14.6,
+              -34.309998,
+              7.800003
+            ]
+          ],
+          "faces": [
+            584,
+            596,
+            2922,
+            2934
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              584,
+              596,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ],
+            [
+              2922,
+              2934,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        },
+        {
+          "edge": [
+            793,
+            795
+          ],
+          "endpoints": [
+            [
+              -12.4,
+              -34.309998,
+              9.800003
+            ],
+            [
+              -12.4,
+              -34.409996,
+              9.800003
+            ]
+          ],
+          "faces": [
+            633,
+            637,
+            645,
+            649
+          ],
+          "classification": "same_direction_overlap",
+          "face_pairs": [
+            [
+              633,
+              645,
+              0.0039999,
+              1,
+              0,
+              0,
+              "same"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

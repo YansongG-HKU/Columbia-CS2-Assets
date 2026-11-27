@@ -1,0 +1,41 @@
+{
+  "sha256_import_files": {
+    "NA_LernerHall_9x9.fbx": "331745fc1e9079031a588f1fb655a95224217d15b41ed66981056f309315a454",
+    "NA_LernerHall_9x9_BaseColor.png": "0ea660edea73b5237a1ce7b8b79098e1ff543882737473cf89dc6390ebd611ee",
+    "NA_LernerHall_9x9_ControlMask.png": "4e79f3d843b259c239cd8b94efc8601ba3984719aa38e8d8844a6f64732f6b13",
+    "NA_LernerHall_9x9_Emissive.png": "03937270bf28203b87786e0a667bc030f6af2e5b286e28a89196205232946476",
+    "NA_LernerHall_9x9_LOD1.fbx": "36273a3c04f76dd8eb5dd80d8630d48bb6c02fe1c84edac1d704f96f6134c4a5",
+    "NA_LernerHall_9x9_LOD1_Win.fbx": "4fe2a35d7d42569a2079e05d8c66a8a671596e20b69123c69f8db1a6791ec389",
+    "NA_LernerHall_9x9_LOD2.fbx": "4f22534429e5957bf4c722054bcf8bdb4a9c56f6afb21ab25fa0ee3937e37c33",
+    "NA_LernerHall_9x9_LOD2_BaseColor.png": "64fc42ee34ce4d51b490abf64089f781fd82ddf000fed955d797e0313b1da555",
+    "NA_LernerHall_9x9_LOD2_ControlMask.png": "2731a9b5960c9262ce3fbb309ba244c430c80bce280929afa9ff250292baf5dc",
+    "NA_LernerHall_9x9_LOD2_Emissive.png": "8e19e4216b6ce17a22d70996288b3fc586550c757690ec33d384d1d927b21edd",
+    "NA_LernerHall_9x9_LOD2_MaskMap.png": "5a8d90e4a7e842b85f21216919fbcce50cc8d3ea3f0d1a00770700b69eaaa737",
+    "NA_LernerHall_9x9_LOD2_Normal.png": "d44d4fc84249b62babbb09e02340a1bf11bf38452116a51a6b38fa37b5674bad",
+    "NA_LernerHall_9x9_MaskMap.png": "adfce40e1a5fd14320c7bf3346ab9cdf035bb3e9df51d6732ea96c7443991359",
+    "NA_LernerHall_9x9_Normal.png": "c91ecfed103e00a3c9392187c9fb143b3b9f2efec35d8385129b1f42d5e38f9c",
+    "NA_LernerHall_9x9_Win.fbx": "608e25df8141434b0d99fcd82e91acad8b9fbc64a7f044a1013239ad604183b5",
+    "settings.json": "01f56c5a21a14270e50587a57284fa3e8acb94df3c18384c1a790750560d2c3e"
+  },
+  "unchanged_15_files": [
+    "NA_LernerHall_9x9.fbx",
+    "NA_LernerHall_9x9_BaseColor.png",
+    "NA_LernerHall_9x9_ControlMask.png",
+    "NA_LernerHall_9x9_Emissive.png",
+    "NA_LernerHall_9x9_LOD1_Win.fbx",
+    "NA_LernerHall_9x9_LOD2.fbx",
+    "NA_LernerHall_9x9_LOD2_BaseColor.png",
+    "NA_LernerHall_9x9_LOD2_ControlMask.png",
+    "NA_LernerHall_9x9_LOD2_Emissive.png",
+    "NA_LernerHall_9x9_LOD2_MaskMap.png",
+    "NA_LernerHall_9x9_LOD2_Normal.png",
+    "NA_LernerHall_9x9_MaskMap.png",
+    "NA_LernerHall_9x9_Normal.png",
+    "NA_LernerHall_9x9_Win.fbx",
+    "settings.json"
+  ],
+  "omitted_only_from_trial_due_to_empty_geometry": {
+    "NA_LernerHall_9x9_LOD1_Gls.fbx": "b67ba845202f06e5de5472acae02db65270503f9385ddd7ed3121933684b17ef",
+    "NA_LernerHall_9x9_Gls.fbx": "64d7c4776ad66fa2ac888ec2fd908e1efc75619f7340cd0a1cf79e746b933013"
+  }
+}

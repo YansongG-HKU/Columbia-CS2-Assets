@@ -1,0 +1,22 @@
+{
+  "front": {
+    "LOD0-LOD1": {
+      "different_silhouette_pixels": 0,
+      "baseline_shape_pixels": 96926
+    },
+    "LOD1-LOD2": {
+      "different_silhouette_pixels": 132,
+      "baseline_shape_pixels": 96926
+    }
+  },
+  "aerial": {
+    "LOD0-LOD1": {
+      "different_silhouette_pixels": 0,
+      "baseline_shape_pixels": 52431
+    },
+    "LOD1-LOD2": {
+      "different_silhouette_pixels": 100,
+      "baseline_shape_pixels": 52431
+    }
+  }
+}

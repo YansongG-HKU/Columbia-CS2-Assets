@@ -1,0 +1,198 @@
+{
+  "separate_FBX": {
+    "NA_UrisHall_6x9.fbx": {
+      "triangles": 7210,
+      "bounds_m": [
+        [
+          -24.0,
+          -36.0,
+          -0.05000272020697594
+        ],
+        [
+          24.0,
+          36.0,
+          47.20000076293945
+        ]
+      ],
+      "images": {
+        "NA_UrisHall_6x9_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_UrisHall_6x9_LOD1.fbx": {
+      "triangles": 4762,
+      "bounds_m": [
+        [
+          -24.0,
+          -36.0,
+          -0.05000272020697594
+        ],
+        [
+          24.0,
+          36.0,
+          47.20000076293945
+        ]
+      ],
+      "images": {
+        "NA_UrisHall_6x9_BaseColor.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Emissive.png": [
+          4096,
+          4096
+        ],
+        "NA_UrisHall_6x9_Normal.png": [
+          4096,
+          4096
+        ]
+      }
+    },
+    "NA_UrisHall_6x9_LOD2.fbx": {
+      "triangles": 72,
+      "bounds_m": [
+        [
+          -24.0,
+          -36.0,
+          -0.05000272020697594
+        ],
+        [
+          24.0,
+          36.0,
+          47.20000076293945
+        ]
+      ],
+      "images": {
+        "NA_UrisHall_6x9_LOD2_BaseColor.png": [
+          1024,
+          1024
+        ],
+        "NA_UrisHall_6x9_LOD2_Emissive.png": [
+          1024,
+          1024
+        ],
+        "NA_UrisHall_6x9_LOD2_Normal.png": [
+          1024,
+          1024
+        ]
+      }
+    },
+    "NA_UrisHall_6x9_Gls.fbx": {
+      "triangles": 72,
+      "bounds_m": [
+        [
+          -2.549999952316284,
+          -35.93776321411133,
+          3.3000025749206543
+        ],
+        [
+          9.149999618530273,
+          -35.46223449707031,
+          3.8000025749206543
+        ]
+      ],
+      "images": {}
+    },
+    "NA_UrisHall_6x9_LOD1_Gls.fbx": {
+      "triangles": 72,
+      "bounds_m": [
+        [
+          -2.549999952316284,
+          -35.93776321411133,
+          3.3000025749206543
+        ],
+        [
+          9.149999618530273,
+          -35.46223449707031,
+          3.8000025749206543
+        ]
+      ],
+      "images": {}
+    },
+    "NA_UrisHall_6x9_Win.fbx": {
+      "triangles": 80,
+      "bounds_m": [
+        [
+          -23.62000274658203,
+          -34.47999954223633,
+          0.5999974608421326
+        ],
+        [
+          23.6200008392334,
+          34.31999969482422,
+          42.900001525878906
+        ]
+      ],
+      "images": {}
+    },
+    "NA_UrisHall_6x9_LOD1_Win.fbx": {
+      "triangles": 80,
+      "bounds_m": [
+        [
+          -23.62000274658203,
+          -34.47999954223633,
+          0.5999974608421326
+        ],
+        [
+          23.6200008392334,
+          34.31999969482422,
+          42.900001525878906
+        ]
+      ],
+      "images": {}
+    }
+  },
+  "all_PNGs_decoded": {
+    "NA_UrisHall_6x9_BaseColor.png": [
+      4096,
+      4096
+    ],
+    "NA_UrisHall_6x9_ControlMask.png": [
+      4096,
+      4096
+    ],
+    "NA_UrisHall_6x9_Emissive.png": [
+      4096,
+      4096
+    ],
+    "NA_UrisHall_6x9_LOD2_BaseColor.png": [
+      1024,
+      1024
+    ],
+    "NA_UrisHall_6x9_LOD2_ControlMask.png": [
+      1024,
+      1024
+    ],
+    "NA_UrisHall_6x9_LOD2_Emissive.png": [
+      1024,
+      1024
+    ],
+    "NA_UrisHall_6x9_LOD2_MaskMap.png": [
+      1024,
+      1024
+    ],
+    "NA_UrisHall_6x9_LOD2_Normal.png": [
+      1024,
+      1024
+    ],
+    "NA_UrisHall_6x9_MaskMap.png": [
+      4096,
+      4096
+    ],
+    "NA_UrisHall_6x9_Normal.png": [
+      4096,
+      4096
+    ]
+  },
+  "scope": "Offline package, base-color-only body renders, independent glass/window import not combined shader or Editor test"
+}

@@ -1,0 +1,8 @@
+# St. Paul's Chapel LOD2 roof contact at model Z = +26.4 m
+
+Only an incremental legacy LOD2 candidate, not change to canonical FBX/LFS, other LODs, packaging or Editor approval. Input SHA `54c2626ce7f656781952dbe8ef43a693bc20a938d685dd661edefdc3a36107a7` (previous cumulative patch), output `3d021a103da753fb791c70dada1c9456201b3ef00326f99045b220d7ef45e1bb`.
+
+- Two opposite triangular partitions with an identical, convex 24-vertex horizontal border. The gap is 1.907349 µm vertical only. Adjacent shell faces are entirely on opposite sides at their boundary. No unrelated triangles traversing the assessed cap interior in its original two-plane slab. Remove both caps, close to lower level; no horizontal snap. The 119.388 m² is a model cross-section, not a survey.
+- 608→564 triangles, 336→312 vertices, 16→15 shells, 846 paired oriented indexed edges, no zero-area triangle. Raw retained corner UVs, normals, tangents, binormals, smooth tags and non-geometry nodes preserved. Close-plane overlap pairs: opposed 423→372, same 21 unchanged; positional four-face edges 62→25. Other interfaces intentionally unchanged, notably +13.0 and +13.7 have third-party penetration.
+- 81,225 external rays, 30,716 common hits, no changed hit surface, maximum difference 0.031 mm. 578 internal section rays verified removal. Existing normal map sampled offline in another 37,303 external trials, 6,412 common hits; world mapped direction max 0.005165°, P95 0.000106°, no tangent flips. Not an Editor shading result.
+- Fresh unpack + independent rebuild matched FBX byte-for-byte, Blender results matched. ZIP SHA-256 `4f2c4bc330895ac087884ffd2fb3f6d485a6d14b83089a864d6bf127d86ea4c1` (1,129,397 B).

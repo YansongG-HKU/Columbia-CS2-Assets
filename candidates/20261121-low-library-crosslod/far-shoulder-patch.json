@@ -1,0 +1,15 @@
+{
+  "before": "2225dddde31fbf4f42cbc2fae2486d7860c489b4703bda8999e8511a0697a117",
+  "after": "cb2dbd7b8af99a45b24c81ea232d221ddc3af06f95ad0893981b813cf7ac7e7a",
+  "triangles": 736,
+  "moved_crown_vertices": 24,
+  "affected_dome_faces": 96,
+  "corrected_corners": 288,
+  "height_movement_by_radius_m": {
+    "11.72": 0.69
+  },
+  "max_corner_normal_rotation_deg": 8.607701505278964,
+  "old_affected_nonunit_frames": 0,
+  "old_affected_nonorthogonal_frames": 0,
+  "uv_topology_resource_nodes_exactly_unchanged": true
+}

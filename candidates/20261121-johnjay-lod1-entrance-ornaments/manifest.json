@@ -1,0 +1,41 @@
+{
+  "sha256_import_files": {
+    "NA_JohnJayHall_8x4.fbx": "57e5bdb95a21772a22ec20581a34a174e7d581138132ef3e7c198e3d969aa843",
+    "NA_JohnJayHall_8x4_BaseColor.png": "fae41a05de7367b7e7d495287d1dbef36bd73ecc341acec7dda0a5782ecd38f9",
+    "NA_JohnJayHall_8x4_ControlMask.png": "1bc6369c0b0a779a9b21cf1c419bb22ef80c2478c80a542df5333b2c99e30a93",
+    "NA_JohnJayHall_8x4_Emissive.png": "54a76083e317b6fe76c86a738892b5e2ae65a0c23bf27d483f2d74744b899581",
+    "NA_JohnJayHall_8x4_Gls.fbx": "21ee33e9ece9d87830de409e364e6f2114ee68daea3fb876f47f4c13ff986129",
+    "NA_JohnJayHall_8x4_LOD1.fbx": "c5721f9a3eee81f3a1e90bc4db3559825c493be479d6ed52871192a71f67d313",
+    "NA_JohnJayHall_8x4_LOD1_Gls.fbx": "0f65bfb033c70a44a726994ba103cc77868cfcb09c71315255292c88c751a2f9",
+    "NA_JohnJayHall_8x4_LOD1_Win.fbx": "aa3546c8f5205629e277f5ed2dff4fa88827e47f5b4df9a1c7f54aa7915c0a0c",
+    "NA_JohnJayHall_8x4_LOD2.fbx": "a670e8720479fa477800df22e0ea0773e3907823842e1f38a3bd22700fef96b8",
+    "NA_JohnJayHall_8x4_LOD2_BaseColor.png": "2d0d8f55db2f3c5381ea519c0c7ef6e3d810f13ddeea4f18a9dec072c9603848",
+    "NA_JohnJayHall_8x4_LOD2_ControlMask.png": "f53c1ea821a8178a0e535339656cbe181d698d0f3470ca014329bd45184e85b6",
+    "NA_JohnJayHall_8x4_LOD2_Emissive.png": "1fe8e96d13b918dfae377189414ec957d18f44bbaf1abb71c3517497254583e4",
+    "NA_JohnJayHall_8x4_LOD2_MaskMap.png": "21388e56bba510752826d67f094d3ad38c902dbb157b2277bd7f4a8dbb5feb48",
+    "NA_JohnJayHall_8x4_LOD2_Normal.png": "17be88d430a4dbca6b2ae9fd3fa24cda2dd01d67d68c74ece3b159c3a3cbbf1a",
+    "NA_JohnJayHall_8x4_MaskMap.png": "3e174d469dc3e6a2f7b81933f036460c556abe6ea51db7f2d01067302844b231",
+    "NA_JohnJayHall_8x4_Normal.png": "6875880189875cac55c2d9f064bb7bcae74a61ee6a29b4d21ab20afb99d892b3",
+    "NA_JohnJayHall_8x4_Win.fbx": "23d80197ae594459a40344e7db12acf5e605d8a2742dcb28fc76b76fe6ec882b",
+    "settings.json": "9d8c012e31dd32422e41a600888dbdffe0922963b5f3e00f21edfc5348607e28"
+  },
+  "unchanged_17_files": [
+    "NA_JohnJayHall_8x4.fbx",
+    "NA_JohnJayHall_8x4_BaseColor.png",
+    "NA_JohnJayHall_8x4_ControlMask.png",
+    "NA_JohnJayHall_8x4_Emissive.png",
+    "NA_JohnJayHall_8x4_Gls.fbx",
+    "NA_JohnJayHall_8x4_LOD1_Gls.fbx",
+    "NA_JohnJayHall_8x4_LOD1_Win.fbx",
+    "NA_JohnJayHall_8x4_LOD2.fbx",
+    "NA_JohnJayHall_8x4_LOD2_BaseColor.png",
+    "NA_JohnJayHall_8x4_LOD2_ControlMask.png",
+    "NA_JohnJayHall_8x4_LOD2_Emissive.png",
+    "NA_JohnJayHall_8x4_LOD2_MaskMap.png",
+    "NA_JohnJayHall_8x4_LOD2_Normal.png",
+    "NA_JohnJayHall_8x4_MaskMap.png",
+    "NA_JohnJayHall_8x4_Normal.png",
+    "NA_JohnJayHall_8x4_Win.fbx",
+    "settings.json"
+  ]
+}

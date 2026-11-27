@@ -1,0 +1,52 @@
+{
+  "NA_UrisHall_6x9.fbx": {
+    "sha256": "8130ab8a01159608512eacff9dd2031390f42cda01fa2415c7432217fdbe69e4",
+    "classes": {
+      "hotspots": {
+        "faces": 2672,
+        "loops": 8016,
+        "left_handed": 8016
+      },
+      "residual": {
+        "faces": 772,
+        "loops": 2316,
+        "left_handed": 2148,
+        "zero_t_or_b": 158,
+        "not_unit": 502,
+        "nonorthogonal": 502,
+        "no_handedness": 10
+      },
+      "nonpoint": {
+        "faces": 3766,
+        "loops": 11298,
+        "right_handed": 11202,
+        "left_handed": 96
+      }
+    }
+  },
+  "NA_UrisHall_6x9_LOD1.fbx": {
+    "sha256": "2629a324366f1133f3e3add41bebc1c6893477706871afebf59be91bd4ea9081",
+    "classes": {
+      "hotspots": {
+        "faces": 1832,
+        "loops": 5496,
+        "left_handed": 5496
+      },
+      "residual": {
+        "faces": 336,
+        "loops": 1008,
+        "left_handed": 900,
+        "zero_t_or_b": 98,
+        "not_unit": 502,
+        "nonorthogonal": 502,
+        "no_handedness": 10
+      },
+      "nonpoint": {
+        "faces": 2594,
+        "loops": 7782,
+        "right_handed": 7686,
+        "left_handed": 96
+      }
+    }
+  }
+}

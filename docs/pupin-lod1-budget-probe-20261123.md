@@ -1,0 +1,5 @@
+# Pupin Hall LOD1 performance probe (not promoted)
+
+Cloud Blender counts: near body 82,336 triangles in 5,400 connected components; medium 54,880 in 3,112. In the medium, 462 repeated outer frames account for 16,632 triangles, and a separate class of 462 narrow window bars (0.08 × 0.09 × 2.10 m) accounts for 5,544 triangles. Planar dissolve with UV and edge guards yielded no reduction.
+
+Internal A/B removed only the second component class from LOD1, reducing 54,880 to 49,336 (-10.1%). Verified exact retained world-coordinate triangles, unchanged bounds and other submeshes, existing corner UV/normal attributes preserved, zero degenerate triangles, local images still read. Alternative FBX SHA-256 `870eb1b61db7a2955e856709283655233e8da0cae49134dec91faa3d358b6e89` (not uploaded). No claim of equivalent visuals or actual FPS: compare textured front and quarter cameras at medium screen sizes before promotion; reject or bake into a separate option if window character visibly changes. Use the existing full dual-dome ZIP as the current candidate, no game acceptance. No numeric limits attributed to Paradox.

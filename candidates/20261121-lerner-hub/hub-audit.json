@@ -1,0 +1,58 @@
+{
+  "status": "Standalone study only; no building frame registration, no local geometry placement, no Editor",
+  "span_bearing_grids_m": 30.48,
+  "schematic_rise_m": 1.68,
+  "rise_not_site_slope": true,
+  "offset_m": 0.9144,
+  "glazing_parameter_thickness_m": 0.022,
+  "ramp_parameter_thickness_m": 0.016,
+  "vertical_band_heights_ft": [
+    8,
+    4,
+    8,
+    4,
+    8,
+    4,
+    10
+  ],
+  "front_ramp_width_m_provisional": 2.6,
+  "landing_station_chain_m": [
+    0.0,
+    8.9,
+    10.45,
+    19.83,
+    21.38,
+    30.48
+  ],
+  "bay_count_from_schematic": 17,
+  "local_x": "West grid 4 to east grid 7",
+  "local_y": "North positive, glass plane y=0",
+  "local_z": "Arbitrary lower west glazing datum; no NAVD88 offset",
+  "audit": {
+    "01 North point-supported glazing": {
+      "objects": 119,
+      "vertices": 952,
+      "triangles": 1428,
+      "oriented_edges": 1428
+    },
+    "02 Three translucent ramps with two schematic landings each": {
+      "objects": 3,
+      "vertices": 72,
+      "triangles": 132,
+      "oriented_edges": 132
+    },
+    "04 Point fixings, no mullions": {
+      "objects": 2,
+      "vertices": 2688,
+      "triangles": 4608,
+      "oriented_edges": 4032
+    },
+    "03 Primary and secondary structure (study)": {
+      "objects": 4,
+      "vertices": 6120,
+      "triangles": 10296,
+      "oriented_edges": 9180
+    }
+  },
+  "only_joint_components_may_overlap": true
+}
